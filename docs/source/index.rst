@@ -1,13 +1,8 @@
 Welcome to PolyU PhD Survival Guide!
-===================================
+======================================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is a guidance for PolyU PhD students (especially COMP students), aiming to help them navigate their PhD journey successfully, including tips on research, coursework, and campus life.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
@@ -18,7 +13,7 @@ Contents
 
 .. toctree::
     :maxdepth: 2
-    :numbered:
 
-   usage
-   api
+   research
+   coursework
+   campus_life
