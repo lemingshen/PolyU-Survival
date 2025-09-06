@@ -11,12 +11,14 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This documentation will be continuously updated.
 
 Contents
 --------
 
 .. toctree::
+    :maxdepth: 2
+    :numbered:
 
    usage
    api
