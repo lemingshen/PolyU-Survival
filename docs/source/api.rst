@@ -1,7 +1,7 @@
-API
+Temp
 ===
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   temp
