@@ -1,4 +1,4 @@
-Coursework
+Usage
 =====
 
 .. _installation:

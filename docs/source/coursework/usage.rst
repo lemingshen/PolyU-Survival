@@ -1,4 +1,4 @@
-Campus Life
+Usage
 =====
 
 .. _installation:
