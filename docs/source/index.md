@@ -1,1 +1,1 @@
-# Welcome to PolyU Survival Guide 🇭🇰
+# Welcome to PolyU Survival Guide
