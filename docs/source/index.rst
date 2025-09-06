@@ -35,9 +35,9 @@ This is a guidance for PolyU PhD students (especially COMP students), aiming to 
 Contents
 --------
 * Research
-   :doc:`/research/reimbursement`
-   :doc:`/research/usage`
+   * :doc:`/research/reimbursement`
+   * :doc:`/research/usage`
 * Coursework
-   :doc:`/coursework/usage`
+   * :doc:`/coursework/usage`
 * Campus Life
-   :doc:`/campus_life/usage`
+   * :doc:`/campus_life/usage`
