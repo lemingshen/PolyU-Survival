@@ -41,3 +41,10 @@ Contents
    * :doc:`/coursework/usage`
 * Campus Life
    * :doc:`/campus_life/usage`
+
+Useful Links
+------------
+* `PolyU COMP Graduate School <https://www.comp.polyu.edu.hk/en-gb/graduate-school/>`_
+
+
+This survival guide is maintained by `Leming Shen <https://lemingshen.github.io/>`_. If you have any suggestions or find any issues, please feel free to contact me via email: `zju.slm@gmail.com <mailto:zju.slm@gmail.com>`_.
