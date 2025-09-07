@@ -44,7 +44,18 @@ Contents
 
 Useful Links
 ------------
-* `PolyU COMP Graduate School <https://www.comp.polyu.edu.hk/en-gb/graduate-school/>`_
-
+* `Meeting room booking <https://outlook.office365.com/owa/calendar/COMPMeetingRoomforResearchers@polyuit.onmicrosoft.com/bookings/>`_
+* `Reimbursement for conference attendance <https://forms.office.com/r/chBaMXkhKS>`_
+* `COMP account management platform <https://intranet.comp.polyu.edu.hk/>`_
+* `Academic affairs (course registration) <https://www38.polyu.edu.hk/eStudent/>`_
+* `Coursework management platform <https://learn.polyu.edu.hk/>`_
+* `Seminar attendance system <https://rsas.comp.polyu.edu.hk/my_subject.php>`_
+* `TA selection system <https://tamatch.comp.polyu.edu.hk/>`_
+* `Personal annual progress monitoring system <https://www.polyu.edu.hk/gs/pms/submission/>`_
+* `Self-service printing service <https://myprint.comp.polyu.edu.hk/>`_
+* `Tuition fee, accommodation fee, and scholarship management system <https://www40.polyu.edu.hk/fosae/pages/rologin.jsf>`_
+* `Sports venue booking <https://www40.polyu.edu.hk/poss/secure/login/loginhome.do>`_
+* `PolyU visitor registration system <https://fmovrs.polyu.edu.hk/vrs>`_
+* `PolyU university health service <https://www.polyu.edu.hk/uhs/>`_
 
 This survival guide is maintained by `Leming Shen <https://lemingshen.github.io/>`_. If you have any suggestions or find any issues, please feel free to contact me via email: `zju.slm@gmail.com <mailto:zju.slm@gmail.com>`_.

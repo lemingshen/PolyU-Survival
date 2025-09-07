@@ -1,4 +1,4 @@
-Reimbursement
+Reimbursement for Conference Attendance
 ============================================================
 
 1. Reimbursement Rules
