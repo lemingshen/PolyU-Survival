@@ -14,7 +14,7 @@ Before you start, please make sure you have the following materials ready in **P
       :alt: Notification email example
 
       Notification email example
-* Itinerary of your planned trip, including departure and return dates. An example can be found :download:`this example script <../example.py>`.
+* Itinerary of your planned trip, including departure and return dates. An example can be found :download:`here <../../assets/reimbursement/itinerary.pdf>`.
 
 .. note::
    Make sure that all Supplementary documents are in **PDF format**.
