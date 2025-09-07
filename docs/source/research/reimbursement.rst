@@ -42,18 +42,45 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
 
 * Applicant basic information
    .. figure:: ../../assets/reimbursement/applicant_information.png
-   :width: 100%
-   :align: center
-   :alt: Applicant basic information example
+      :width: 100%
+      :align: center
+      :alt: Applicant basic information example
 
    Applicant basic information example
-* test
-      
-.. note::
-   Make sure that all Supplementary documents are in **PDF format**. For estimated plane tickets and accommodation information, I suggest pick an expensive one to avoid under-budgeting, as the reimbursement will be based on the actual expense you incur during the trip but will not exceed what you claimed.
-   2. Conference grant previously supported by the Departmental Conference Account
-   3. Conference & reimbursement information
-   4. Funding information
+
+   .. note::
+      The ``Current Project Title`` in the form refers to your thesis title (*i.e.*, your proposal title).
+* Conference grant previously supported by the Departmental Conference Account
+   .. figure:: ../../assets/reimbursement/previous_conference.png
+      :width: 100%
+      :align: center
+      :alt: Previously supported conference example
+
+   Previously supported conference example
+
+   .. note::
+      Please list all the previously attended conferences that were supported by the **COMP conference grant**. If none, please select "No". Make sure that the amount completely equals to what you have received before.
+* Conference & reimbursement information
+   .. figure:: ../../assets/reimbursement/conference_information.png
+      :width: 100%
+      :align: center
+      :alt: Conference & reimbursement information example
+
+   Conference & reimbursement information example
+
+   .. tip::
+      You can select an expensive airline for reimbursement application. In addition, for each day, you can claim up to 800 HKD for subsistence allowance, including accommodation, meals, and local transportation. Besides, the accommodation day should not exceed the number of conference days plus one. Make sure that the city printed on the receipts are the same as the city where the conference is held.
+* Funding information
+   .. figure:: ../../assets/reimbursement/funding_information.png
+      :width: 100%
+      :align: center
+      :alt: Funding information example
+
+   Funding information example
+
+   .. note::
+      If you are applying for **COMP conference grant**, fill ``Account to be charged`` with ``Student Conference Grant``. If the amount claimed exceeds the balance of your **COMP conference grant**, the exceeded part should only be your supervisor's own funding (*e.g.*, MRS). Please ask your supervisor to negotiate which funding to be charged. After all the information is filled and endorsed by your supervisor, you can stick the supervisor's electronic signature in the form.
+* Finally, convert the ``doc`` file to PDF format.
 
 
 4. Fill the Online Application Form
