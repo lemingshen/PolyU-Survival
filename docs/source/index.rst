@@ -6,7 +6,7 @@ Welcome to PolyU PhD Survival Guide!
    :hidden:
    :caption: 1. Research
 
-   Reimbursement </research/reimbursement>
+   Reimbursement for Conference Attendance </research/reimbursement>
    Usage </research/usage>
 
 
@@ -30,7 +30,7 @@ This is a guidance for PolyU PhD students (especially **COMP students**), aiming
 
 .. note::
 
-   This documentation will be continuously updated.
+   This survival guidance will be continuously updated.
 
 Contents
 --------
