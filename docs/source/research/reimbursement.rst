@@ -9,12 +9,12 @@ Before you start, please make sure you have the following materials ready in **P
 * The conference information (*e.g.*, the homepage of `MobiCom 2025 <https://www.sigmobile.org/mobicom/2025/>`_).
 * The acceptance email if you have a paper, poster, demo, or workshop paper. For example:
    .. figure:: ../../assets/reimbursement/notification_email.png
-      :width: 80%
+      :width: 100%
       :align: center
       :alt: Notification email example
 
       Notification email example
-* Itinerary of your planned trip, including departure and return dates. An example can be found `Here <../../assets/reimbursement/itinerary.pdf>`_).
+* Itinerary of your planned trip, including departure and return dates. An example can be found :download:`this example script <../example.py>`.
 
 .. note::
    Make sure that all Supplementary documents are in **PDF format**.
