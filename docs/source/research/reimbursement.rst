@@ -92,12 +92,21 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
 
 5. Wait for Approval
 ------------------------------------
+* The online application system will send your applications to COMP's general office (GO) and your supervisor for approval.
+* After 2 to 4 weeks, you will receive an approval email, which either informs you that your application is approved or asks you to provide more information.
+* Once approved, **please save the endorsed PDF file sent by GO** and complete the **Leave Management System** as guided in the email.
 
 
-6. Attend the Conference
-------------------------------------
-
+6. Attend the Conference -- Enjoy Yourself!
+--------------------------------------------
+.. warning::
+   Keep the **hard copies** of all the original receipts and invoices, including registration fee, plane tickets (*i.e.*, the boarding pass), accommodation, VISA application fee, taxi receipts (*e.g.*, the e-receipt from Uber), and meal receipts.
 
 
 7. Fill the Reimbursement Form and Submit it to FO with Receipts (After the Conference)
 ------------------------------------------------------------------------------------------
+
+* After you return from the conference, you can fill the :download:`Reimbursement form <https://www.polyu.edu.hk/fo/docdrive/Students/Claim/Guideline-ReimDetails-ResearchStudentClaim_Individual.xlsx?t=0>` to apply for reimbursement. This form provides detailed instructions on how to fill it. An example can be found :download:`here <../../assets/reimbursement/Reimbursement.xlsx>`.
+
+.. warning::
+   Make sure that only HKD is used in the reimbursement form. If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use `this table <https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf>`_ for real-time exchange rate when you fill the form.
