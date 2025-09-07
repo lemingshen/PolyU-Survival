@@ -14,10 +14,14 @@ Before you start, please make sure you have the following materials ready in **P
       :alt: Notification email example
 
       Notification email example
-* Itinerary of your planned trip, including departure and return dates. :download: `Example <../../assets/reimbursement/itinerary.pdf>`_.
+* Itinerary of your planned trip, including departure and return dates. :download:`Example <../../assets/reimbursement/itinerary.pdf>`.
+* Registration fee information (*e.g.*, `MobiCom 2025 Registration <https://www.sigmobile.org/mobicom/2025/registration.html>`_).
+* Other relevant documents
+   * VISA application fee, plane tickets, and accommodation information (estimated). :download:`Example <../../assets/reimbursement/Plane Accommodation VISA.pdf>`.
+   * MRS Form (if applicable). **Make sure that the highlighted part is filled** :download:`Example <../../assets/reimbursement/MRS Form (Non-purchase).docx>`.
 
 .. note::
-   Make sure that all Supplementary documents are in **PDF format**.
+   Make sure that all Supplementary documents are in **PDF format**. For estimated plane tickets and accommodation information, I suggest pick an expensive one to avoid under-budgeting, as the reimbursement will be based on the actual expense you incur during the trip but will not exceed what you claimed.
 
 
 2. Fill the GSB Form
