@@ -46,7 +46,7 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
       :align: center
       :alt: Applicant basic information example
 
-   Applicant basic information example
+      Applicant basic information example
 
    .. note::
       The ``Current Project Title`` in the form refers to your thesis title (*i.e.*, your proposal title).
@@ -56,7 +56,7 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
       :align: center
       :alt: Previously supported conference example
 
-   Previously supported conference example
+      Previously supported conference example
 
    .. note::
       Please list all the previously attended conferences that were supported by the **COMP conference grant**. If none, please select "No". Make sure that the amount completely equals to what you have received before.
@@ -66,7 +66,7 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
       :align: center
       :alt: Conference & reimbursement information example
 
-   Conference & reimbursement information example
+      Conference & reimbursement information example
 
    .. tip::
       You can select an expensive airline for reimbursement application. In addition, for each day, you can claim up to 800 HKD for subsistence allowance, including accommodation, meals, and local transportation. Besides, the accommodation day should not exceed the number of conference days plus one. Make sure that the city printed on the receipts are the same as the city where the conference is held.
@@ -76,16 +76,18 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
       :align: center
       :alt: Funding information example
 
-   Funding information example
+      Funding information example
 
    .. note::
       If you are applying for **COMP conference grant**, fill ``Account to be charged`` with ``Student Conference Grant``. If the amount claimed exceeds the balance of your **COMP conference grant**, the exceeded part should only be your supervisor's own funding (*e.g.*, MRS). Please ask your supervisor to negotiate which funding to be charged. After all the information is filled and endorsed by your supervisor, you can stick the supervisor's electronic signature in the form.
-* Finally, convert the ``doc`` file to PDF format.
+* Finally, convert the ``doc`` file to **PDF**.
 
 
 4. Fill the Online Application Form
 ------------------------------------
 
+* After you have prepared all the supplementary materials and the filled GSB form, you can start the online application `here <https://forms.office.com/r/chBaMXkhKS>`_.
+* Submit relevant materials based on the guidance. For item 14 (Others), you need to upload the VISA application fee information, plane ticket information, accommodation information, and the MRS form (if applicable)
 
 
 5. Wait for Approval
