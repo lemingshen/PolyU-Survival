@@ -1,10 +1,12 @@
 Reimbursement
 ============================================================
 
-.. _installation:
 
 1. Installation
 ------------------------------------
+
+If you don't have a GitHub account, you'll need to `register for a free account <https://github.com/signup>`_ before you start.
+
 
 To use Lumache, first install it using pip:
 
