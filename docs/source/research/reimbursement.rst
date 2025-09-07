@@ -1,10 +1,10 @@
 Reimbursement
-=====
+============================================================
 
 .. _installation:
 
-Installation
-------------
+1. Installation
+------------------------------------
 
 To use Lumache, first install it using pip:
 

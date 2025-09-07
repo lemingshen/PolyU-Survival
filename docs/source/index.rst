@@ -25,7 +25,7 @@ Welcome to PolyU PhD Survival Guide!
    Temp </campus_life/usage>
 
 
-This is a guidance for PolyU PhD students (especially COMP students), aiming to help them navigate their PhD journey successfully, including tips on research, coursework, and campus life.
+This is a guidance for PolyU PhD students (especially **COMP students**), aiming to help them navigate their PhD journey successfully, including tips on research, coursework, and campus life.
 
 
 .. note::
