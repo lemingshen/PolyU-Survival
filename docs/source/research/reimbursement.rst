@@ -2,35 +2,39 @@ Reimbursement
 ============================================================
 
 
-1. Installation
+1. Supplementary Material Preparation
+---------------------------------------------
+Before you start, please make sure you have the following materials ready in PDF format:
+
+* The conference information (*e.g.*, the homepage of `MobiCom 2025 <https://www.sigmobile.org/mobicom/2025/>`_).
+* The acceptance email if you have a paper, poster, demo, or workshop paper. For example:
+
+.. figure:: /assets/images/reimbursement/notification_email.png
+:width: 80%
+:align: center
+:alt: Notification email example
+
+GitHub template for the tutorial
+
+
+2. Fill the GSB Form
 ------------------------------------
 
-If you don't have a GitHub account, you'll need to `register for a free account <https://github.com/signup>`_ before you start.
 
 
-To use Lumache, first install it using pip:
+3. Fill the Online Application Form
+------------------------------------
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
 
-Creating recipes
-----------------
+4. Wait for Approval
+------------------------------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
+5. Attend the Conference
+------------------------------------
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
 
-.. autoexception:: lumache.InvalidKindError
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+6. Fill the Reimbursement Form and Submit it to FO with Receipts
+-------------------------------------------------------------------
