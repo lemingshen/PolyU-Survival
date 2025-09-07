@@ -39,6 +39,7 @@ Before you start, please make sure you have the following materials ready in **P
 * If you do not have a paper, please fill the :download:`GSB/5 form <https://www.polyu.edu.hk/gs/docdrive/forms/FormGSB54.doc>`.
 
 Now, I will provide a step-by-step guide on how to fill the form. Here, I take the **GSB/4 form** as an example. The other two forms are similar.
+
 * Applicant basic information
    .. figure:: ../../assets/reimbursement/applicant_information.png
    :width: 100%
@@ -46,6 +47,7 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
    :alt: Applicant basic information example
 
    Applicant basic information example
+* test
       
 .. note::
    Make sure that all Supplementary documents are in **PDF format**. For estimated plane tickets and accommodation information, I suggest pick an expensive one to avoid under-budgeting, as the reimbursement will be based on the actual expense you incur during the trip but will not exceed what you claimed.
