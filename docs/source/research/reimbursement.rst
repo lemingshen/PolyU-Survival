@@ -9,10 +9,12 @@ Before you start, please make sure you have the following materials ready in PDF
 * The conference information (*e.g.*, the homepage of `MobiCom 2025 <https://www.sigmobile.org/mobicom/2025/>`_).
 * The acceptance email if you have a paper, poster, demo, or workshop paper. For example:
 
-.. image:: /_static/images/reimbursement/notification_email.png
+.. image:: ../../assets/images/reimbursement/notification_email.png
    :width: 80%
    :align: center
    :alt: Notification email example
+
+   Notification email example
 
 
 2. Fill the GSB Form
