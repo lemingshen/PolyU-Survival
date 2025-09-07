@@ -6,8 +6,8 @@ Reimbursement
 * If you have a paper, poster, demo, or workshop paper accepted, you can apply for **COMP conference grant** to attend the conference. If you do not have any accepted work, you can still apply but using our supervisor's own funding to attend the conference.
 * Each student has 25,000 HKD funding for the **COMP conference grant**. You can spend at most 20,000 HKD for one reimbursement application.
 * Only after you spend all the **COMP conference grant**, can you use **GS additional top conference grant**, which has 20,000 HKD funding for each student. You need to spend the whole 20,000 HKD for one reimbursement application. COMP's top conference list can be found `here <https://intranet.comp.polyu.edu.hk/system/files/journalconference/Depn%20conference_20241231.pdf>`_).
-* For one reimbursement application, if your cost estimation exceeds 20,000 HKD, you can try combined reimbursement. For example, if your cost estimation is 30,000 HKD, you can apply for 20,000 HKD from **COMP conference grant** and 10,000 HKD from your supervisor's own funding. ("COMP + GS" is not allowed).
-* After you spend all the **COMP conference grant** and **GS additional top conference grant**, you can still apply for reimbursement using your supervisor's own funding.
+* For one reimbursement application, if your cost estimation exceeds 20,000 HKD, you can try combined reimbursement. For example, if your cost estimation is 30,000 HKD, you can apply for 20,000 HKD from **COMP conference grant** and 10,000 HKD from the supervisor's own funding. ("COMP + GS" is not allowed).
+* After you spend all the **COMP conference grant** and **GS additional top conference grant**, you can still apply for reimbursement using the supervisor's own funding.
 
 2. Supplementary Material Preparation
 ---------------------------------------------
@@ -70,6 +70,8 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
 
    .. tip::
       You can select an expensive airline for reimbursement application. In addition, for each day, you can claim up to 800 HKD for subsistence allowance, including accommodation, meals, and local transportation. Besides, the accommodation day should not exceed the number of conference days plus one. Make sure that the city printed on the receipts are the same as the city where the conference is held.
+   .. warning::
+      If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use `this table <https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf>`_ for real-time exchange rate when you fill the form.
 * Funding information
    .. figure:: ../../assets/reimbursement/funding_information.png
       :width: 100%
@@ -79,7 +81,7 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
       Funding information example
 
    .. note::
-      If you are applying for **COMP conference grant**, fill ``Account to be charged`` with ``Student Conference Grant``. If the amount claimed exceeds the balance of your **COMP conference grant**, the exceeded part should only be your supervisor's own funding (*e.g.*, MRS). Please ask your supervisor to negotiate which funding to be charged. After all the information is filled and endorsed by your supervisor, you can stick the supervisor's electronic signature in the form.
+      If you are applying for **COMP conference grant**, fill ``Account to be charged`` with ``Student Conference Grant``. If the amount claimed exceeds the balance of your **COMP conference grant**, the exceeded part should only be the supervisor's own funding (*e.g.*, MRS). Please ask the supervisor to negotiate which funding to be charged. After all the information is filled and endorsed by the supervisor, you can stick the supervisor's electronic signature in the form.
 * Finally, convert the ``doc`` file to **PDF**.
 
 
@@ -92,7 +94,7 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
 
 5. Wait for Approval
 ------------------------------------
-* The online application system will send your applications to COMP's general office (GO) and your supervisor for approval.
+* The online application system will send your applications to COMP's general office (GO) and the supervisor for approval.
 * After 2 to 4 weeks, you will receive an approval email, which either informs you that your application is approved or asks you to provide more information.
 * Once approved, **please save the endorsed PDF file sent by GO** and complete the **Leave Management System** as guided in the email.
 
@@ -110,4 +112,4 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
 * After filling the reimbursement form, please print all the materials and physically submit to FO office (11-th floor in Block M) as well as sending an email following the reimbursement form.
 
 .. warning::
-   Make sure that only HKD is used in the reimbursement form. If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use `this table <https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf>`_ for real-time exchange rate when you fill the form.
+   Make sure that only HKD is used in the reimbursement form. If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use `this table <https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf>`_ for real-time exchange rate when you fill the form. Make sure that the city printed on the meal receipts are the same as the city where the conference is held.
