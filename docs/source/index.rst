@@ -58,4 +58,4 @@ Useful Links
 * `PolyU visitor registration system <https://fmovrs.polyu.edu.hk/vrs>`_
 * `PolyU university health service <https://www.polyu.edu.hk/uhs/>`_
 
-This survival guide is maintained by `Leming Shen <https://lemingshen.github.io/>`_. If you have any suggestions or find any issues, please feel free to contact me via email: `zju.slm@gmail.com <mailto:zju.slm@gmail.com>`_.
+This survival guide is maintained by `Leming Shen <https://lemingshen.github.io/>`_ and `Xinyu Huang <https://unixyhuang.github.io/>`_. If you have any suggestions or find any issues, please feel free to contact me via email: `zju.slm@gmail.com <mailto:zju.slm@gmail.com>`_.

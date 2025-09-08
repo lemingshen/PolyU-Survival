@@ -1,7 +1,7 @@
-Associate Money
+Equipment Purchase using Associate Money
 ================================================
 
-1. Reimbursement Rules
+1. Purchasing Rules
 ---------------------------------------------
 * Each new PhD student is entitled to **20,000 HKD** of associate money for reimbursement. This fund is typically used for purchasing equipment or supporting conference expenses.
 * We recommend selecting equipment that costs **less than 15,000 HKD**, as purchases exceeding this amount will be handled directly by the department, which may cause significant delays.
