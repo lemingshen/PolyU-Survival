@@ -36,7 +36,7 @@ Contents
 --------
 * Research
    * :doc:`/research/reimbursement`
-   * :doc:`/research/usage`
+   * :doc:`/research/equipment_purchase`
 * Coursework
    * :doc:`/coursework/usage`
 * Campus Life
