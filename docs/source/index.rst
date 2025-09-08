@@ -7,7 +7,7 @@ Welcome to PolyU PhD Survival Guide!
    :caption: 1. Research
 
    Reimbursement for Conference Attendance </research/reimbursement>
-   Usage </research/usage>
+   Equipment Purchase using Associate Money </research/equipment_purchase>
 
 
 .. toctree::
