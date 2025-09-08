@@ -84,6 +84,9 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
       If you are applying for **COMP conference grant**, fill ``Account to be charged`` with ``Student Conference Grant``. If the amount claimed exceeds the balance of your **COMP conference grant**, the exceeded part should only be the supervisor's own funding (*e.g.*, MRS). Please ask the supervisor to negotiate which funding to be charged. After all the information is filled and endorsed by the supervisor, you can stick the supervisor's electronic signature in the form.
 * Finally, convert the ``doc`` file to **PDF**.
 
+.. warning::
+   Before you proceed to the next step, please make sure that the supervisor has endorsed the GSB form (in PDF format).
+
 
 4. Fill the Online Application Form
 ------------------------------------
