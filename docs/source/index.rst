@@ -8,7 +8,7 @@ Welcome to PolyU PhD Survival Guide!
 
    Reimbursement for Conference Attendance </research/reimbursement>
    Equipment Purchase using Associate Money </research/equipment_purchase>
-
+   Equipment Purchase using Supervisor's Research Fund </research/equipment_purchase_supervisor>
 
 .. toctree::
    :maxdepth: 2
@@ -37,6 +37,7 @@ Contents
 * Research
    * :doc:`/research/reimbursement`
    * :doc:`/research/equipment_purchase`
+   * :doc:`/research/equipment_purchase_supervisor`
 * Coursework
    * :doc:`/coursework/usage`
 * Campus Life
