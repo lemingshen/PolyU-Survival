@@ -6,27 +6,34 @@ Welcome to PolyU PhD Survival Guide!
    :hidden:
    :caption: 1. Research
 
-   Reimbursement for Conference Attendance </research/reimbursement>
-   Equipment Purchase using Associate Money </research/equipment_purchase>
-   Equipment Purchase using Supervisor's Research Fund </research/equipment_purchase_supervisor>
-   Attending Seminars and Write Reports </research/attending_seminar>
+   Temp </research/temp>
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 2. Coursework
+   :caption: 2. COMP Things
+
+   Reimbursement for Conference Attendance </comp/reimbursement>
+   Equipment Purchase using Associate Money </comp/equipment_purchase>
+   Equipment Purchase using Supervisor's Research Fund </comp/equipment_purchase_supervisor>
+   Attending Seminars and Write Reports </comp/attending_seminar>
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 3. Coursework
 
    Temp </coursework/usage>
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 3. Campus Life
+   :caption: 4. Campus Life
 
    Temp </campus_life/usage>
 
 
-This is a guidance for PolyU PhD students (especially **COMP students**), aiming to help them navigate their PhD journey successfully, including tips on research, coursework, and campus life.
+This is a guidance for PolyU PhD students (especially **COMP students**), aiming to help them navigate their PhD journey successfully, including tips on research, COMP things, coursework, and campus life.
 
 
 .. note::
@@ -36,10 +43,13 @@ This is a guidance for PolyU PhD students (especially **COMP students**), aiming
 Contents
 --------
 * Research
-   * :doc:`/research/reimbursement`
-   * :doc:`/research/equipment_purchase`
-   * :doc:`/research/equipment_purchase_supervisor`
-   * :doc:`/research/attending_seminar`
+   * :doc:`/research/temp`
+
+* COMP Things
+   * :doc:`/comp/reimbursement`
+   * :doc:`/comp/equipment_purchase`
+   * :doc:`/comp/equipment_purchase_supervisor`
+   * :doc:`/comp/attending_seminar`
 * Coursework
    * :doc:`/coursework/usage`
 * Campus Life
