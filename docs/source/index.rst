@@ -4,7 +4,7 @@ Welcome to PolyU PhD Survival Guide!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 1. Research
+   :caption: 1. Research Tools
 
    Temp </research/temp>
 
@@ -33,7 +33,7 @@ Welcome to PolyU PhD Survival Guide!
    Temp </campus_life/usage>
 
 
-This is a guidance for PolyU PhD students (especially **COMP students**), aiming to help them navigate their PhD journey successfully, including tips on research, COMP things, coursework, and campus life.
+This is a guidance for PolyU PhD students (especially **COMP students**), aiming to help them navigate their PhD journey successfully, including tips on research tools, COMP things, coursework, and campus life.
 
 
 .. note::
