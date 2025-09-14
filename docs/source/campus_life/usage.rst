@@ -1,4 +1,0 @@
-Temp
-=====
-
-Campus life temp

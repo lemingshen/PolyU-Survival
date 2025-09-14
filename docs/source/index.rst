@@ -4,9 +4,9 @@ Welcome to PolyU PhD Survival Guide!
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 1. Research Tools
+   :caption: 1. Recommended Research Tools
 
-   Temp </research/temp>
+   Overleaf </research/overleaf>
 
 .. toctree::
    :maxdepth: 2
@@ -17,6 +17,7 @@ Welcome to PolyU PhD Survival Guide!
    Equipment Purchase using Associate Money </comp/equipment_purchase>
    Equipment Purchase using Supervisor's Research Fund </comp/equipment_purchase_supervisor>
    Attending Seminars and Write Reports </comp/attending_seminar>
+   TA Matching System </comp/ta_matching_system>
 
 .. toctree::
    :maxdepth: 2
@@ -30,10 +31,10 @@ Welcome to PolyU PhD Survival Guide!
    :hidden:
    :caption: 4. Campus Life
 
-   Temp </campus_life/usage>
+   Campus Map </campus_life/map>
 
 
-This is a guidance for PolyU PhD students (especially **COMP students**), aiming to help them navigate their PhD journey successfully, including tips on research tools, COMP things, coursework, and campus life.
+This is a guidance for PolyU PhD students (especially **COMP students**), aiming to help them navigate their PhD journey successfully, including tips on recommended research tools, COMP things, coursework, and campus life.
 
 
 .. note::
@@ -42,8 +43,8 @@ This is a guidance for PolyU PhD students (especially **COMP students**), aiming
 
 Contents
 --------
-* Research
-   * :doc:`/research/temp`
+* Recommended Research Tools
+   * :doc:`/research/overleaf`
 
 * COMP Things
    * :doc:`/comp/reimbursement`
@@ -53,7 +54,7 @@ Contents
 * Coursework
    * :doc:`/coursework/usage`
 * Campus Life
-   * :doc:`/campus_life/usage`
+   * :doc:`/campus_life/map`
 
 Useful Links
 ------------
