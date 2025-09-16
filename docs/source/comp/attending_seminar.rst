@@ -61,7 +61,7 @@ For other seminars/lectures, you need to prepare the following materials to prov
 3. Write seminar report
 ---------------------------------------------
 
-Here is the template of the seminar report: :download:`Seminar Report Template <../../assets/seminar/report_template.docs>`.
+Here is the template of the seminar report: :download:`Seminar Report Template <../../assets/seminar/report_template.docx>`.
 
 
 .. note::
