@@ -43,14 +43,14 @@ For other seminars/lectures, you need to prepare the following materials to prov
    * The e-certificate issued by the organizer.
    * The email from the organizer that confirms your successful registration (not recommended).
    * The screenshot of the Zoom meeting that shows your profile and the speaker. For example,
-      .. figure:: ../../assets/seminar/screenshot.jpg
+   .. figure:: ../../assets/seminar/screenshot.jpg
       :width: 100%
       :align: center
       :alt: Screenshot example
 
       Screenshot example
    * The photo take during the seminar/lecture that shows your student ID card and the speaker. For example,
-      .. figure:: ../../assets/seminar/live.jpg
+   .. figure:: ../../assets/seminar/live.jpg
       :width: 100%
       :align: center
       :alt: Photo example (please also present your student card in the photo)
