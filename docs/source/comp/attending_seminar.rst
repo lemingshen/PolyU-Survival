@@ -5,6 +5,7 @@ Attending Seminars and Write Reports
 ---------------------------------------------
 
 There are three types of seminars/lectures that can be counted:
+
 * COMP research seminars. For example,
    .. figure:: ../../assets/seminar/comp_seminar.jpg
       :width: 100%
@@ -36,6 +37,7 @@ There are three types of seminars/lectures that can be counted:
 For COMP seminars, you just need to physically bring your student card to sign in before the seminar starts. You also need to tap your card to sign out after the seminar ends. The attendance record will be automatically recorded in the system.
 
 For other seminars/lectures, you need to prepare the following materials to prove your attendance:
+
 * The poster of the seminar/lecture. The above figures can be used as examples.
 * The document that can prove your attendance, including any one of the following:
    * The e-certificate issued by the organizer.
