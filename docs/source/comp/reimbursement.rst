@@ -99,7 +99,13 @@ Now, I will provide a step-by-step guide on how to fill the form. Here, I take t
 ------------------------------------
 * The online application system will send your applications to COMP's general office (GO) and the supervisor for approval.
 * After 2 to 4 weeks, you will receive an approval email, which either informs you that your application is approved or asks you to provide more information.
-* Once approved, **please save the endorsed GSB form sent by GO** (in PDF format) and complete the **Leave Management System** as guided in the email.
+* Once approved, **please save the endorsed GSB form sent by GO** (in PDF format) and complete the **Leave Management System** as guided in the email. The approved GSB form in attached in the email:
+   .. figure:: ../../assets/reimbursement/approved.png
+      :width: 100%
+      :align: center
+      :alt: Funding information example
+
+      Approved GSB form example
 
 
 6. Attend the Conference -- Enjoy Yourself!
