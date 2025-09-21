@@ -1,4 +1,4 @@
-Equipment Purchase using Supervisor's Research Funding
+Equipment Purchase using Supervisor's Funding
 =========================================================
 
 During the PhD research period, you may need to purchase some equipment or services for your research, such as embedded devices and OpenAI API services. This documentation provides a step-by-step guide on how to apply for equipment purchase using your supervisor's research funding.
