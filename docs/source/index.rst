@@ -9,6 +9,7 @@ Welcome to PolyU PhD Survival Guide!
    Overleaf </research/overleaf>
    Zotero </research/zotero>
    Notion </research/notion>
+   Microsoft To Do & Calendar Integration </research/todo>
    LLMs </research/llm>
    Browser Extensions </research/extension>
    Clash Verge </research/clash>
@@ -60,6 +61,7 @@ Contents
    * :doc:`/research/overleaf`
    * :doc:`/research/zotero`
    * :doc:`/research/notion`
+   * :doc:`/research/todo`
    * :doc:`/research/llm`
    * :doc:`/research/extension`
    * :doc:`/research/clash`
