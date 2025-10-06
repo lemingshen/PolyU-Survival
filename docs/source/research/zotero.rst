@@ -78,3 +78,8 @@ Here is a step-by-step guide on how to set up synchronization through WebDAV pro
 
 3. Third-Party Plugins
 --------------------------
+
+The `"Zotero 中文社区" website <https://zotero-chinese.com/>`_ (in Chinese) provides a list of useful third-party plugins for Zotero. Here, I recommend two plugins that I frequently use.
+
+* `Translate for Zotero <https://github.com/windingwind/zotero-pdf-translate#readme>`_ allows you to translate the selected text in real-time. It supports multiple translation engines, including Google Translate, DeepL, and Youdao. You can choose the one that suits you best in the plugin settings.
+* `Better Notes for Zotero <https://github.com/windingwind/zotero-better-notes#readme>`_ enhances the note-taking functionality of Zotero. It provides a markdown editor with syntax highlighting, which makes it easier to take and organize notes.
