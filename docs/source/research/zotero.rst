@@ -19,6 +19,7 @@ The figure shown below is the main interface of Zotero, *i.e.*, the library view
 
 
 The following figure shows the detailed GUI when you doule-click to read a paper.
+
 .. figure:: ../../assets/research/zotero/paper_GUI.png
     :width: 100%
     :align: center
