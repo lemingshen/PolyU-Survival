@@ -36,11 +36,11 @@ The following figure shows the detailed GUI when you doule-click to read a paper
     * The sixth tool is to add drawings to any part of the paper. It would be better if you use a tablet with a stylus pen to draw.
 * The right panel provides detailed information about the paper as well as some third-party plugins you installed.
 
-2. Advanced Features
+
+2. Synchronization
 --------------------------
 
-3. Synchronization
---------------------------
+Zoter offers two types of synchronization: through Zotero server and through webdrives that support WebDAV protocol.
 
-4. Third-Parity Plugins
+3. Third-Parity Plugins
 --------------------------
