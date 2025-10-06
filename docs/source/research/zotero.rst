@@ -41,7 +41,40 @@ The following figure shows the detailed GUI when you doule-click to read a paper
 2. Synchronization
 --------------------------
 
-Zoter offers two types of synchronization: through Zotero server and through webdrives that support WebDAV protocol.
+Synchronization allows you to access your Zotero library from multiple devices. Before we get started, remember to create a free account on the `Zotero Website <https://www.zotero.org/>`_. Zotero offers two types of synchronization: through Zotero server and through webdrives that support WebDAV protocol. Zotero server only proides 300 MB free storage, which is not enough for most users. Therefore, I recommend using WebDAV protocol to synchronize your Zotero library.
 
-3. Third-Parity Plugins
+Here is a step-by-step guide on how to set up synchronization through WebDAV protocol using `InfiniCLOUD <https://infini-cloud.net/en/>`_, which provides 20 GB free storage.
+
+* Create an account on `InfiniCLOUD <https://infini-cloud.net/en/>`_.
+* After logging in, click "My Page" on the top bar.
+
+.. figure:: ../../assets/research/zotero/click_my_page.png
+    :width: 80%
+    :align: center
+    :alt: InfiniCLOUD My Page
+
+    InfiniCLOUD My Page
+
+* Scroll down and find the "Referral Bonus" section and apply my referral code ``NVQF4`` to get an additional 5 GB free storage.
+* Then, find the "Apps Connection" section and turn on app connection. You will see the WebDAV URL, username, and password. Please keep them safe as we will use them later.
+
+.. figure:: ../../assets/research/zotero/webdav_setup.png
+    :width: 80%
+    :align: center
+    :alt: InfiniCLOUD WebDAV setup
+
+    InfiniCLOUD WebDAV setup
+
+* Now, open Zotero settings, find "File Syncing", select "WebDAV" for "Sync attachment files in My Library using", and fill in the WebDAV URL, username, and password you obtained from InfiniCLOUD. Finally, click "Verify Server" to check if everything is correct. If so, click "OK" to finish the setup.
+
+.. figure:: ../../assets/research/zotero/webdav_config.png
+    :width: 80%
+    :align: center
+    :alt: InfiniCLOUD WebDAV Configuration
+
+    InfiniCLOUD WebDAV Configuration
+
+* As long as your new device login the same Zotero account and set up the WebDAV synchronization, your Zotero library will be synchronized across all your devices.
+
+3. Third-Party Plugins
 --------------------------
