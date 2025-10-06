@@ -59,7 +59,7 @@ Here is a step-by-step guide on how to set up synchronization through WebDAV pro
 * Then, find the "Apps Connection" section and turn on app connection. You will see the WebDAV URL, username, and password. Please keep them safe as we will use them later.
 
 .. figure:: ../../assets/research/zotero/webdav_setup.png
-    :width: 80%
+    :width: 100%
     :align: center
     :alt: InfiniCLOUD WebDAV setup
 
@@ -68,7 +68,7 @@ Here is a step-by-step guide on how to set up synchronization through WebDAV pro
 * Now, open Zotero settings, find "File Syncing", select "WebDAV" for "Sync attachment files in My Library using", and fill in the WebDAV URL, username, and password you obtained from InfiniCLOUD. Finally, click "Verify Server" to check if everything is correct. If so, click "OK" to finish the setup.
 
 .. figure:: ../../assets/research/zotero/webdav_config.png
-    :width: 80%
+    :width: 100%
     :align: center
     :alt: InfiniCLOUD WebDAV Configuration
 
