@@ -143,6 +143,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
         :alt: Modify system settings to enable auto start
 
         Modify system settings to enable auto start
+* For windows users, please exempt all UWP processes from the proxy. Click on "Settings", scroll down, and find "Open UWP tool". Select all and click "Exempt All" and "Save Changes".
 
 6. Setup on Mobile Devices
 ---------------------------------------------
