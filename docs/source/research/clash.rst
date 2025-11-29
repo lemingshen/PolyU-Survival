@@ -129,3 +129,5 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
         :alt: Modify update interval
 
         Modify update interval
+* As such, in Hong Kong, you can keep the proxy on the moment you start your PC. Only network traffics related to those domians listed in the rules will be routed through the proxy, while all other traffics will use your own network directly.
+* You can freely adjust the node you like in the "🎬ChatGPT" section.
