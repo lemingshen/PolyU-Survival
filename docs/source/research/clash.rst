@@ -138,3 +138,8 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 * Shadowrocket is recommended for mobile devices.
     * For iOS devices, you can download Shadowrocket from the App Store (non-China region): https://apps.apple.com/ca/app/shadowrocket/id932747118
     * For Android devices, you can download Shadowrocket from Google Play Store: https://play.google.com/store/apps/details?id=com.v2cross.proxy&gl=PT
+* Import configurations: https://m.mmomm.io/user/tutorial?os=iOS&client=Shadowrocket
+
+
+.. note::
+    I strongly recommend using nodes whose names start with "Pro-". To visit Google Scholar, nodes whose names contain "家庭宽带" shoul be selected.
