@@ -79,7 +79,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 
         rules:
  
- 
+            
             - DOMAIN-SUFFIX,smtp,DIRECT
             - DOMAIN-KEYWORD,aria2,DIRECT
             
@@ -88,6 +88,8 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
             - DOMAIN,static.cloudflareinsights.com,🎬ChatGPT
             - DOMAIN-SUFFIX,ai.com,🎬ChatGPT
             - DOMAIN-SUFFIX,t-mobile.com,🎬ChatGPT
+            - DOMAIN-SUFFIX,aistudio.google.com,🎬ChatGPT
+            - DOMAIN-SUFFIX,ai.google.dev,🎬ChatGPT
             - DOMAIN-SUFFIX,algolia.net,🎬ChatGPT
             - DOMAIN-SUFFIX,meta.ai,🎬ChatGPT
             - DOMAIN-SUFFIX,api.statsig.com,🎬ChatGPT
@@ -108,6 +110,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
             - DOMAIN-SUFFIX,observeit.net,🎬ChatGPT
             - DOMAIN-SUFFIX,segment.io,🎬ChatGPT
             - DOMAIN-SUFFIX,sentry.io,🎬ChatGPT
+            - DOMAIN-SUFFIX,play.google.com,🎬ChatGPT
             - DOMAIN-SUFFIX,stripe.com,🎬ChatGPT
             - DOMAIN-SUFFIX,turn.livekit.cloud,🎬ChatGPT
             - DOMAIN-KEYWORD,openai,🎬ChatGPT
@@ -116,6 +119,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
             - DOMAIN-KEYWORD,claude,🎬ChatGPT
             - DOMAIN-KEYWORD,tiktok,🎬ChatGPT
             - DOMAIN-KEYWORD,anthropic,🎬ChatGPT
+            - DOMAIN-KEYWORD,tccd,🎬ChatGPT
 
             - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
             - GEOIP,CN,DIRECT
@@ -133,7 +137,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 * You can freely adjust the node you like in the "🎬ChatGPT" section.
 * In Hong Kong, you can choose the "Clash_HK.yaml" profile, while in China, you can switch to the "Clash_CN.yaml" profile to enjoy unrestricted internet access.
 * Finally, change the system settings to make Clash Verge start automatically when your computer boots up:
-.. figure:: ../../assets/research/clash/system_settings.png
+.. figure:: ../../assets/research/clash/system_setting.png
         :width: 100%
         :align: center
         :alt: Modify system settings to enable auto start
