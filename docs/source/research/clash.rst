@@ -13,7 +13,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 * Open Clash Verge after installation.
 * Click on the "Profiles" tab in the sidebar.
 * Paste the URL I provided into the "Import from URL" field and click "Import".
-.. figure:: ../../assets/reimbursement/import_config.png
+.. figure:: ../../assets/research/clash/import_config.png
     :width: 100%
     :align: center
     :alt: Import configuration example
@@ -24,14 +24,14 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 ---------------------------------------------
 * Click on the "Proxies" tab to view the list of available proxy nodes.
 * Browse through the list and select your preferred nodes by clicking on them based on different rules.
-.. figure:: ../../assets/reimbursement/select_node.png
+.. figure:: ../../assets/research/clash/select_node.png
     :width: 100%
     :align: center
     :alt: Select node example
 
     select node example
 
-.. figure:: ../../assets/reimbursement/select_node2.png
+.. figure:: ../../assets/reserach/clash/select_node2.png
     :width: 100%
     :align: center
     :alt: Select node example
@@ -46,7 +46,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
     * Global Mode: Routes all traffic through the selected proxy.
     * Direct Mode: Direct use your own network.
 * Toggle the "System Proxy" switch to enable system-wide proxying.
-.. figure:: ../../assets/reimbursement/start_proxy.png
+.. figure:: ../../assets/research/clash/start_proxy.png
     :width: 100%
     :align: center
     :alt: Start system proxy example
