@@ -75,7 +75,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
         :alt: The "rules" section
 
         The "rules" section
-    * Replace all the existing rules with the following rules::
+    * Replace all the existing rules with the following rules (dynamically updated): ::
 
         rules:
  
@@ -122,4 +122,10 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 
             - MATCH,DIRECT
 
-    * Then, 
+    * Then, right click on the "Clash_CN.yaml" profile and modify the "Update Interval" to a very very very large number. Otherwise, the rules will be overwritten during automatic updates.
+    .. figure:: ../../assets/research/clash/update_interval.png
+        :width: 100%
+        :align: center
+        :alt: Modify update interval
+
+        Modify update interval
