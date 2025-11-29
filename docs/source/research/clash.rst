@@ -131,3 +131,10 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
         Modify update interval
 * As such, in Hong Kong, you can keep the proxy on the moment you start your PC. Only network traffics related to those domians listed in the rules will be routed through the proxy, while all other traffics will use your own network directly.
 * You can freely adjust the node you like in the "🎬ChatGPT" section.
+* In Hong Kong, you can choose the "Clash_HK.yaml" profile, while in China, you can switch to the "Clash_CN.yaml" profile to enjoy unrestricted internet access.
+
+6. Setup on Mobile Devices
+---------------------------------------------
+* Shadowrocket is recommended for mobile devices.
+    * For iOS devices, you can download Shadowrocket from the App Store (non-China region): https://apps.apple.com/ca/app/shadowrocket/id932747118
+    * For Android devices, you can download Shadowrocket from Google Play Store: https://play.google.com/store/apps/details?id=com.v2cross.proxy&gl=PT
