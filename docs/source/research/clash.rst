@@ -31,7 +31,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 
     select node example
 
-.. figure:: ../../assets/reserach/clash/select_node2.png
+.. figure:: ../../assets/research/clash/select_node2.png
     :width: 100%
     :align: center
     :alt: Select node example
@@ -52,3 +52,36 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
     :alt: Start system proxy example
 
     start system proxy example
+
+5. Additional Settings (Strongly Recommended)
+---------------------------------------------
+* **Motivation**: In Hong Kong, we only need proxies for specific services (e.g., OpenAI, Gemini, Claude). Therefore, I recommend configuring Clash Verge to only route traffic for these services through the proxy, while allowing other traffic to use your own network (our university's network provides 1000 MB bandwidth!!!). This approach optimizes performance and reduces unnecessary load on the proxy servers. Also, the traffic flow consumption (2400 GB per year) can be saved.
+* How to customize your configurations:
+    * Click on the "Profiles" tab.
+    * Right click on the previously imported profile and select "Edit Info"
+    * Input "Clash_CN.yaml" in the "Name" field to rename the previously imported profile.
+    .. figure:: ../../assets/research/clash/rename_config.png
+        :width: 100%
+        :align: center
+        :alt: Rename configuration example
+
+        Rename configuration example
+    * Then, re-import the same configuration URL again and rename it to "Clash_HK.yaml".
+    * Next, right click on "Clash_HK.yaml" and select "Edit File".
+    * Scroll down and find the "rules:" section.
+    .. figure:: ../../assets/research/clash/replace_rules.png
+        :width: 100%
+        :align: center
+        :alt: The "rules" section
+
+        The "rules" section
+    * Replace all the existing rules with the following rules:
+    source code below ::
+
+    void foo()
+    {
+        int i;
+
+        for(i=0; i<10; i++)
+        printf("i: %d\n", a);
+    }
