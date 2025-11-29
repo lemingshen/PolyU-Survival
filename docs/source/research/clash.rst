@@ -75,13 +75,13 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
         :alt: The "rules" section
 
         The "rules" section
-    * Replace all the existing rules with the following rules:
-    source code below ::
+    * Replace all the existing rules with the following rules::
 
-    void foo()
-    {
-        int i;
+        void foo()
+        {
+            int i;
 
-        for(i=0; i<10; i++)
-        printf("i: %d\n", a);
-    }
+            for(i=0; i<10; i++)
+            printf("i: %d\n", a);
+        }
+    * Then, 
