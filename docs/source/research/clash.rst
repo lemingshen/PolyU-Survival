@@ -142,4 +142,4 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 
 
 .. note::
-    I strongly recommend using nodes whose names start with "Pro-". To visit Google Scholar, nodes whose names contain "家庭宽带" shoul be selected.
+    **I strongly recommend using nodes whose names start with "Pro-". To visit Google Scholar, nodes whose names contain "家庭宽带" shoul be selected.**
