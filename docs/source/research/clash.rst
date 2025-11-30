@@ -163,5 +163,5 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 * Click "Home", select a node, and toggle the switch (on the top) to start the proxy.
 
 
-.. note::
-    **I strongly recommend using nodes whose names start with "Pro-". To visit Google Scholar, nodes whose names contain "家庭宽带" shoul be selected.**
+.. warning::
+    **I strongly recommend using nodes whose names start with "Pro-". To visit Google Scholar, nodes whose names contain "家庭宽带" should be selected.**
