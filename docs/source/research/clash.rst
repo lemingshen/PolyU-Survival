@@ -153,7 +153,7 @@ Clash Verge is a fork of the Clash project that focuses on enhancing the user ex
 * Import configurations
     * Click "Config".
     * Click the "+" button at the top right corner.
-    * Input the configuration URL I provided and click "Done".
+    * Input the configuration URL I provided and click "Download".
     .. figure:: ../../assets/research/clash/shadow.png
         :width: 80%
         :align: center
