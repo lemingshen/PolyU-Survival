@@ -1,5 +1,5 @@
 ---
-icon: hand-pointer
+icon: burger-glass
 layout:
   width: default
   title:
@@ -19,7 +19,7 @@ metaLinks:
     - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/basics/interactive-blocks
 ---
 
-# Interactive blocks
+# Diets
 
 In addition to the default Markdown you can write, GitBook has a number of out-of-the-box interactive blocks you can use. You can find interactive blocks by pressing `/` from within the editor.
 

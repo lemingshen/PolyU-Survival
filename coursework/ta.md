@@ -1,5 +1,5 @@
 ---
-icon: markdown
+icon: person-chalkboard
 layout:
   width: default
   title:
@@ -19,7 +19,7 @@ metaLinks:
     - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/basics/markdown
 ---
 
-# Markdown
+# TA
 
 GitBook supports many different types of content, and is backed by Markdown — meaning you can copy and paste any existing Markdown files directly into the editor!
 

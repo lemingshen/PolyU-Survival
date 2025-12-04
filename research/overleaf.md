@@ -1,5 +1,5 @@
 ---
-icon: bolt
+icon: envira
 layout:
   width: default
   title:
@@ -19,14 +19,14 @@ metaLinks:
     - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/quickstart
 ---
 
-# Quickstart
+# Overleaf
 
 <figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
 
 Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
 
 {% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
+Want to learn about writing content from scratch? Head to the [Basics](../coursework/course-requirement.md) section to learn more.
 {% endhint %}
 
 ### Import
