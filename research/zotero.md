@@ -14,10 +14,6 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - >-
-      https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/getting-started/publish-your-docs
 ---
 
 # Zotero
@@ -67,7 +63,7 @@ Here is a step-by-step guide on how to set up synchronization through WebDAV pro
 <figure><img src="../.gitbook/assets/research/zotero/webdav_config.png" alt=""><figcaption></figcaption></figure>
 * As long as your new device login the same Zotero account and set up the WebDAV synchronization, your Zotero library will be synchronized across all your devices.
 
-### 3. Third-Party Plugins
+## 3. Third-Party Plugins
 
 {% embed url="https://zotero-chinese.com/" %}
 
