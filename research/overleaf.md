@@ -23,7 +23,7 @@ metaLinks:
 
 <figure><img src="../.gitbook/assets/research/overleaf/teaser.png" alt=""><figcaption></figcaption></figure>
 
-Overleaf is an online LaTeX editor that allows for collaborative writing and editing of LaTeX documents. It provides a user-friendly interface and integrates with various version control systems, making it easier for researchers to manage their documents.
+[Overleaf](https://www.overleaf.com/) is an online LaTeX editor that allows for collaborative writing and editing of LaTeX documents. It provides a user-friendly interface and integrates with various version control systems, making it easier for researchers to manage their documents.
 
 Now, I will introduce some common features of Overleaf that can help you in your research writing.
 
