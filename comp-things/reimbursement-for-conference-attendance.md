@@ -26,6 +26,7 @@ layout:
 * Each student has 25,000 HKD funding for the **COMP conference grant**. You can spend at most 20,000 HKD for one reimbursement application.
 * Only after you spend all the **COMP conference grant**, can you use **GS additional top conference grant**, which has 20,000 HKD funding for each student. You need to spend the whole 20,000 HKD for one reimbursement application. COMP's top conference list can be found here:
 {% file src="https://intranet.comp.polyu.edu.hk/system/files/journalconference/Depn%20conference_20241231.pdf" %}
+{% endfile %}
 
 * For one reimbursement application, if your cost estimation exceeds 20,000 HKD, you can try combined reimbursement. For example, if your cost estimation is 30,000 HKD, you can apply for 20,000 HKD from **COMP conference grant** and 10,000 HKD from the supervisor's own funding. ("COMP + GS" is not allowed).
 * After you spend all the **COMP conference grant** and **GS additional top conference grant**, you can still apply for reimbursement using the supervisor's own funding.
