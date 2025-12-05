@@ -92,33 +92,30 @@ If you have receipts in foreign currency, please convert them to HKD using the e
 
 {% step %}
 * Funding information
-   .. figure:: ../../assets/reimbursement/funding_information.png
-      :width: 100%
-      :align: center
-      :alt: Funding information example
+<figure><img src="../.gitbook/assets/comp/funding_information.png" alt=""><figcaption></figcaption></figure>
 
-      Funding information example
-
-   .. note::
-      If you are applying for **COMP conference grant**, fill ``Account to be charged`` with ``Student Conference Grant``. If the amount claimed exceeds the balance of your **COMP conference grant**, the exceeded part should only be the supervisor's own funding (*e.g.*, MRS). Please ask the supervisor to negotiate which funding to be charged. After all the information is filled and endorsed by the supervisor, you can stick the supervisor's electronic signature in the form.
+{% hint style="info" %}
+If you are applying for **COMP conference grant**, fill ``Account to be charged`` with ``Student Conference Grant``. If the amount claimed exceeds the balance of your **COMP conference grant**, the exceeded part should only be the supervisor's own funding (*e.g.*, MRS). Please ask the supervisor to negotiate which funding to be charged. After all the information is filled and endorsed by the supervisor, you can stick the supervisor's electronic signature in the form.
+{% endhint %}
 {% endstep %}
 
 {% step %}
 * Finally, convert the ``doc`` file to **PDF**.
-
-.. warning::
-   Before you proceed to the next step, please make sure that the supervisor has endorsed the GSB form (in PDF format).
+{% hint style="warning" %}
+Before you proceed to the next step, please make sure that the supervisor has endorsed the GSB form (in PDF format).
+{% endhint %}  
 {% endstep %}
 {% endstepper %}
 
 ## 4. Fill the Online Application Form
-------------------------------------
 
-* After you have prepared all the supplementary materials and the filled GSB form, you can start the online application `here <https://forms.office.com/r/chBaMXkhKS>`_.
+* After you have prepared all the supplementary materials and the filled GSB form, you can start the online application:
+{% embed url="https://forms.office.com/r/chBaMXkhKS" %}
+
 * Submit relevant materials based on the guidance. For item 14 (Others), you need to upload the VISA application fee information, plane ticket information, accommodation information, and the MRS form (if applicable)
 
 ## 5. Wait for Approval
-------------------------------------
+
 * The online application system will send your applications to COMP's general office (GO) and the supervisor for approval.
 * After 2 to 4 weeks, you will receive an approval email, which either informs you that your application is approved or asks you to provide more information.
 * Once approved, **please save the endorsed GSB form sent by GO** (in PDF format) and complete the **Leave Management System** as guided in the email. The approved GSB form in attached in the email:
@@ -130,12 +127,12 @@ If you have receipts in foreign currency, please convert them to HKD using the e
       Approved GSB form example
 
 ## 6. Attend the Conference -- Enjoy Yourself!
---------------------------------------------
+
 .. warning::
    Keep the **hard copies** of all the original receipts and invoices, including registration fee, plane tickets (*i.e.*, the boarding pass), accommodation, VISA application fee, taxi receipts (*e.g.*, the e-receipt from Uber), and meal receipts.
 
 ## 7. Fill the Reimbursement Form and Submit it to FO with Receipts (After the Conference)
-------------------------------------------------------------------------------------------
+
 
 * After you return from the conference, you can fill the :download:`Reimbursement form <https://www.polyu.edu.hk/fo/docdrive/Students/Claim/Guideline-ReimDetails-ResearchStudentClaim_Individual.xlsx?t=0>` to apply for reimbursement. This form provides detailed instructions on how to fill it. An example can be found :download:`here <../../assets/reimbursement/Reimbursement.xlsx>`.
 * After filling the reimbursement form, please print all the materials (including the approved GSB form) and physically submit to FO office (11-th floor in Block M) as well as sending an email following the reimbursement form.
