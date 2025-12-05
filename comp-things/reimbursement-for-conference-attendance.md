@@ -129,8 +129,10 @@ Keep the **hard copies** of all the original receipts and invoices, including re
 
 * After you return from the conference, you can fill the Reimbursement form (Example):
   {% file src="../.gitbook/assets/comp/Reimbursement.xlsx" %}
-  
+
 * After filling the reimbursement form, please print all the materials (including the approved GSB form) and physically submit to FO office (11-th floor in Block M) as well as sending an email following the reimbursement form.
 
-.. warning::
-   Make sure that only HKD is used in the reimbursement form. If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use `this table <https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf>`_ for real-time exchange rate when you fill the form. Make sure that the city printed on the meal receipts are the same as the city where the conference is held.
+{% hint style="warning" %}
+Make sure that only HKD is used in the reimbursement form. If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use [this table](https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf) for real-time exchange rate when you fill the form. Make sure that the city printed on the meal receipts are the same as the city where the conference is held.
+{% endhint %}
+  
