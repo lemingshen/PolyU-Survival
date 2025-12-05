@@ -70,30 +70,24 @@ The ``Current Project Title`` in the form refers to your thesis title (*i.e.*, y
 
 {% step %}
 * Conference grant previously supported by the Departmental Conference Account
-   .. figure:: ../../assets/reimbursement/previous_conference.png
-      :width: 100%
-      :align: center
-      :alt: Previously supported conference example
+<figure><img src="../.gitbook/assets/comp/previous_conference.png" alt=""><figcaption></figcaption></figure>
 
-      Previously supported conference example
-
-   .. note::
-      Please list all the previously attended conferences that were supported by the **COMP conference grant**. If none, please select "No". Make sure that the amount completely equals to what you have received before.
+{% hint style="info" %}
+Please list all the previously attended conferences that were supported by the **COMP conference grant**. If none, please select "No". Make sure that the amount completely equals to what you have received before.
+{% endhint %}
 {% endstep %}
 
 {% step %}
 * Conference & reimbursement information
-   .. figure:: ../../assets/reimbursement/conference_information.png
-      :width: 100%
-      :align: center
-      :alt: Conference & reimbursement information example
+<figure><img src="../.gitbook/assets/comp/conference_information.png" alt=""><figcaption></figcaption></figure>
 
-      Conference & reimbursement information example
+{% hint style="info" %}
+You can select an expensive airline for reimbursement application. In addition, for each day, you can claim up to 800 HKD for subsistence allowance, including accommodation, meals, and local transportation. Besides, the accommodation day should not exceed the number of conference days plus one. Make sure that the city printed on the receipts are the same as the city where the conference is held.
+{% endhint %}
 
-   .. tip::
-      You can select an expensive airline for reimbursement application. In addition, for each day, you can claim up to 800 HKD for subsistence allowance, including accommodation, meals, and local transportation. Besides, the accommodation day should not exceed the number of conference days plus one. Make sure that the city printed on the receipts are the same as the city where the conference is held.
-   .. warning::
-      If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use `this table <https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf>`_ for real-time exchange rate when you fill the form.
+{% hint style="warning" %}
+If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use [this table](https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf) for real-time exchange rate when you fill the form.
+{% endhint %}      
 {% endstep %}
 
 {% step %}
