@@ -24,10 +24,7 @@ layout:
 ---------------------------------------------
 * If you have a paper, poster, demo, or workshop paper accepted, you can apply for **COMP conference grant** to attend the conference. If you do not have any accepted work, you can still apply but using our supervisor's own funding to attend the conference.
 * Each student has 25,000 HKD funding for the **COMP conference grant**. You can spend at most 20,000 HKD for one reimbursement application.
-* Only after you spend all the **COMP conference grant**, can you use **GS additional top conference grant**, which has 20,000 HKD funding for each student. You need to spend the whole 20,000 HKD for one reimbursement application. COMP's top conference list can be found here:
-{% file src="https://intranet.comp.polyu.edu.hk/system/files/journalconference/Depn%20conference_20241231.pdf" %}
-{% endfile %}
-
+* Only after you spend all the **COMP conference grant**, can you use **GS additional top conference grant**, which has 20,000 HKD funding for each student. You need to spend the whole 20,000 HKD for one reimbursement application. COMP's top conference list can be found [here](https://intranet.comp.polyu.edu.hk/system/files/journalconference/Depn%20conference_20241231.pdf).
 * For one reimbursement application, if your cost estimation exceeds 20,000 HKD, you can try combined reimbursement. For example, if your cost estimation is 30,000 HKD, you can apply for 20,000 HKD from **COMP conference grant** and 10,000 HKD from the supervisor's own funding. ("COMP + GS" is not allowed).
 * After you spend all the **COMP conference grant** and **GS additional top conference grant**, you can still apply for reimbursement using the supervisor's own funding.
 {% endstep %}
@@ -37,16 +34,14 @@ layout:
 ---------------------------------------------
 Before you start, please make sure you have the following materials ready in **PDF format**:
 
-* The conference information (*e.g.*, the homepage of `MobiCom 2025 <https://www.sigmobile.org/mobicom/2025/>`_).
+* The conference information (*e.g.*, the homepage of [MobiCom 2025](https://www.sigmobile.org/mobicom/2025/)).
 * The acceptance email if you have a paper, poster, demo, or workshop paper. For example:
-   .. figure:: ../../assets/reimbursement/notification_email.png
-      :width: 100%
-      :align: center
-      :alt: Notification email example
+  <figure><img src="../.gitbook/assets/comp/notification_email.png" alt=""><figcaption></figcaption></figure>
 
-      Notification email example
-* Itinerary of your planned trip, including departure and return dates. :download:`Example <../../assets/reimbursement/itinerary.pdf>`.
-* Registration fee information (*e.g.*, `MobiCom 2025 Registration <https://www.sigmobile.org/mobicom/2025/registration.html>`_).
+* Itinerary of your planned trip, including departure and return dates. Example:
+  {% file src="../.gitbook/assets/comp/itinerary.pdf" %}
+
+* Registration fee information (*e.g.*, [MobiCom 2025 Registration](https://www.sigmobile.org/mobicom/2025/registration.html)).
 * Other relevant documents
    * VISA application fee, plane tickets, and accommodation information (estimated). :download:`Example <../../assets/reimbursement/Plane Accommodation VISA.pdf>`.
    * MRS Form (if applicable). **Make sure that the highlighted part is filled** :download:`Example <../../assets/reimbursement/MRS Form (Non-purchase).docx>`.
