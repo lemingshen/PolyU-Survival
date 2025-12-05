@@ -60,12 +60,13 @@ Make sure that all Supplementary documents are in **PDF format**. For estimated 
 
 * If you have a paper
   * If you are applying for **COMP conference grant**, please fill the GSB/4 form:
-  {% file src="https://www.polyu.edu.hk/gs/docdrive/forms/FormGSB4.doc" %}
+  {% embed url="https://www.polyu.edu.hk/gs/docdrive/forms/FormGSB4.doc" %}
 
   * If you are applying for **GS additional top conference grant**, please fill the GSB/4A form:
   {% file src="https://www.polyu.edu.hk/gs/docdrive/forms/FormGSB4A.doc" %}
-  
-* If you do not have a paper, please fill the :download:`GSB/5 form <https://www.polyu.edu.hk/gs/docdrive/forms/FormGSB54.doc>`.
+
+* If you do not have a paper, please fill the GSB/5 form:
+  {% file src="https://www.polyu.edu.hk/gs/docdrive/forms/FormGSB54.doc" %}
 
 Now, I will provide a step-by-step guide on how to fill the form. Here, I take the **GSB/4 form** as an example. The other two forms are similar.
 
