@@ -64,12 +64,13 @@ Please bear in mind that you need ask one question during any seminar/lecture yo
 
 ## 4. Submit the report to the system and wait for approval
 
-* Visit the Research Seminar Attendance System: `https://rsas.comp.polyu.edu.hk/my_subject.php <https://rsas.comp.polyu.edu.hk/my_subject.php>`_.
+* Visit the [Research Seminar Attendance System](https://rsas.comp.polyu.edu.hk/my_subject.php).
 * Select the current seminar course and click "Create"
 * For COMP seminars, you can directly select the seminar you attended from the list.
 * For other seminars/lectures, you need to manually "Add non-COMP seminar" and fill in the information along with uploading the proof of attendance.
 * Then submit the seminar report in **PDF format**.
 * Submit and wait for the approval from the seminar course instructor.
 
-.. note::
-   Remember to notify our supervisor after you submit the report. If the report is approved after the deadline of submitting the report, it will be delayed to the next semester and you cannot select new seminar courses in the next semester. 
+{% hint style="info" %}
+Remember to notify our supervisor after you submit the report. If the report is approved after the deadline of submitting the report, it will be delayed to the next semester and you cannot select new seminar courses in the next semester. 
+{% endhint %}
