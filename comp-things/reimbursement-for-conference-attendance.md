@@ -115,6 +115,7 @@ The ``Current Project Title`` in the form refers to your thesis title (*i.e.*, y
 .. warning::
    Before you proceed to the next step, please make sure that the supervisor has endorsed the GSB form (in PDF format).
 {% endstep %}
+{% endstepper %}
 
 ## 4. Fill the Online Application Form
 ------------------------------------
