@@ -143,7 +143,9 @@ layout:
 
 
 {% hint style="warning" %}
-**I strongly recommend using nodes whose names start with "Pro-". To visit Google Scholar, nodes whose names contain "家庭宽带" should be selected.**
+**I strongly recommend using nodes whose names start with "Pro-".**
+
+To visit Google Scholar, nodes whose names contain "家庭宽带" should be selected.
 {% endhint %}
    
 
