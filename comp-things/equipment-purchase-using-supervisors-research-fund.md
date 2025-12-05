@@ -25,7 +25,7 @@ During the PhD research period, you may need to purchase some equipment or servi
 
 {% file src="../.gitbook/assets/comp/Miscellaneous_Expenses_Claim Form.pdf" %}
 
-1. Fill additional forms if needed. For example, if you are using the supervisor's MRS, fill the MRS form:
+3. Fill additional forms if needed. For example, if you are using the supervisor's MRS, fill the MRS form:
 
 {% file src="../.gitbook/assets/comp/MRS Form (Non-purchase).docx" %}
 
