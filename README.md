@@ -40,19 +40,19 @@ This survival guidance will be continuously updated.
     <tr>
       <td><strong>Recommended Research Tools</strong></td>
       <td><ul>
-        <li><a href="./research/overleaf.md">Overleaf</a></li>
-        <li><a href="./research/overleaf.md">Zotero</a></li>
-        <li><a href="./research/overleaf.md">Notion</a></li>
-        <li><a href="./research/overleaf.md">Microsoft To Do</a></li>
-        <li><a href="./research/overleaf.md">LLM</a></li>
-        <li><a href="./research/overleaf.md">Browser Extension</a></li>
-        <li><a href="./research/overleaf.md">Clash Verge</a></li>
-        <li><a href="./research/overleaf.md">VS Code</a></li>
-        <li><a href="./research/overleaf.md">GitHub Copilot</a></li>
-        <li><a href="./research/overleaf.md">Useful Online Tools</a></li>
-        <li><a href="./research/overleaf.md">Other Productivity Tools</a></li>
+        <li><a href="research/overleaf.md">Overleaf</a></li>
+        <li><a href="research/overleaf.md">Zotero</a></li>
+        <li><a href="research/overleaf.md">Notion</a></li>
+        <li><a href="research/overleaf.md">Microsoft To Do</a></li>
+        <li><a href="research/overleaf.md">LLM</a></li>
+        <li><a href="research/overleaf.md">Browser Extension</a></li>
+        <li><a href="research/overleaf.md">Clash Verge</a></li>
+        <li><a href="research/overleaf.md">VS Code</a></li>
+        <li><a href="research/overleaf.md">GitHub Copilot</a></li>
+        <li><a href="research/overleaf.md">Useful Online Tools</a></li>
+        <li><a href="research/overleaf.md">Other Productivity Tools</a></li>
       </ul></td>
-      <td><a href="quickstart">quickstart</a></td>
+      <td><a href="research/overleaf.md"></a></td>
       <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4">card_plan_enterprise.svg</a></td>
     </tr>
     <tr>
