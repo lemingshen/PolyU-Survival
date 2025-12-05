@@ -1,6 +1,5 @@
 ---
 icon: laptop
-coverY: 0
 layout:
   width: default
   title:
