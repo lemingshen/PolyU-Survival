@@ -39,8 +39,9 @@ This survival guidance will be continuously updated.
   <tbody>
     <tr>
       <td><strong>Recommended Research Tools</strong></td>
-      <td>Get up and running fast with GitBook</td>
-      <td><a href="quickstart">quickstart</a></td>
+      <td><ul>
+        <li><a href="./research/overleaf.md">Overleaf</a></li>
+      </ul></td>
       <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4">card_plan_enterprise.svg</a></td>
     </tr>
     <tr>
