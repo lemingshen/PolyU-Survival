@@ -109,32 +109,27 @@ Before you proceed to the next step, please make sure that the supervisor has en
 
 ## 4. Fill the Online Application Form
 
-* After you have prepared all the supplementary materials and the filled GSB form, you can start the online application:
-{% embed url="https://forms.office.com/r/chBaMXkhKS" %}
-
-* Submit relevant materials based on the guidance. For item 14 (Others), you need to upload the VISA application fee information, plane ticket information, accommodation information, and the MRS form (if applicable)
+* After you have prepared all the supplementary materials and the filled GSB form, you can start the online application: [https://forms.office.com/r/chBaMXkhKS](https://forms.office.com/r/chBaMXkhKS).
+* Submit relevant materials based on the guidance. For item 14 (Others), you need to upload the VISA application fee information, plane ticket information, accommodation information, and the **MRS form** (if applicable)
 
 ## 5. Wait for Approval
 
 * The online application system will send your applications to COMP's general office (GO) and the supervisor for approval.
 * After 2 to 4 weeks, you will receive an approval email, which either informs you that your application is approved or asks you to provide more information.
 * Once approved, **please save the endorsed GSB form sent by GO** (in PDF format) and complete the **Leave Management System** as guided in the email. The approved GSB form in attached in the email:
-   .. figure:: ../../assets/reimbursement/approved.png
-      :width: 100%
-      :align: center
-      :alt: Funding information example
-
-      Approved GSB form example
+<figure><img src="../.gitbook/assets/comp/approved.png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Attend the Conference -- Enjoy Yourself!
 
-.. warning::
-   Keep the **hard copies** of all the original receipts and invoices, including registration fee, plane tickets (*i.e.*, the boarding pass), accommodation, VISA application fee, taxi receipts (*e.g.*, the e-receipt from Uber), and meal receipts.
+{% hint style="warning" %}
+Keep the **hard copies** of all the original receipts and invoices, including registration fee, plane tickets (*i.e.*, the boarding pass), accommodation, VISA application fee, taxi receipts (*e.g.*, the e-receipt from Uber), and meal receipts.
+{% endhint %}
 
 ## 7. Fill the Reimbursement Form and Submit it to FO with Receipts (After the Conference)
 
-
-* After you return from the conference, you can fill the :download:`Reimbursement form <https://www.polyu.edu.hk/fo/docdrive/Students/Claim/Guideline-ReimDetails-ResearchStudentClaim_Individual.xlsx?t=0>` to apply for reimbursement. This form provides detailed instructions on how to fill it. An example can be found :download:`here <../../assets/reimbursement/Reimbursement.xlsx>`.
+* After you return from the conference, you can fill the Reimbursement form (Example):
+  {% file src="../.gitbook/assets/comp/Reimbursement.xlsx" %}
+  
 * After filling the reimbursement form, please print all the materials (including the approved GSB form) and physically submit to FO office (11-th floor in Block M) as well as sending an email following the reimbursement form.
 
 .. warning::
