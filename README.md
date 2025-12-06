@@ -25,7 +25,67 @@ This is a guidance for PolyU PhD students (especially **COMP students**), aiming
 This survival guidance will be continuously updated.
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Recommended Research Tools</strong></td><td><ul><li><a href="research/overleaf.md">Overleaf</a></li><li><a href="research/zotero.md">Zotero</a></li><li><a href="research/notion.md">Notion</a></li><li><a href="research/microsoft-to-do.md">Microsoft To Do</a></li><li><a href="research/clash-verge.md">Clash Verge</a></li><li><a href="research/vs-code.md">VS Code</a></li><li><a href="research/github-copilot.md">GitHub Copilot</a></li><li><a href="research/llms/">LLMs</a></li><li><a href="research/browser-extensions/">Browser Extensions</a></li><li><a href="research/useful-online-tools/">Useful Online Tools</a></li><li><a href="research/other-productivity-tools/">Other Productivity Tools</a></li></ul></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4</a></td></tr><tr><td><strong>COMP Things</strong></td><td><ul><li><a href="comp-things/reimbursement-for-conference-attendance.md">Reimbursement for Conference Attendance</a></li><li><a href="comp-things/equipment-purchase-using-associate-money.md">Equipment Purchase Using Associate Money</a></li><li><a href="comp-things/equipment-purchase-using-supervisors-research-fund.md">Equipment/Service Purchase Using Supervisors Research Funding</a></li><li><a href="comp-things/attending-seminars-and-write-reports.md">Attending Seminars &#x26; Write Reports</a></li></ul></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F5eZLWp7DtVCKkh9tnFOQ%2FGit%20Sync%20(1).svg?alt=media&#x26;token=b77c4e1b-228c-4db2-a7eb-850f327285a0">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F5eZLWp7DtVCKkh9tnFOQ%2FGit%20Sync%20(1).svg?alt=media&#x26;token=b77c4e1b-228c-4db2-a7eb-850f327285a0</a></td></tr><tr><td><strong>Coursework</strong></td><td><ul><li><a href="coursework/course-requirement.md">Course Requirement</a></li><li><a href="coursework/polyu-blackboard.md">Learn at PolyU (Blackboard)</a></li><li><a href="coursework/ta.md">TA Things</a></li></ul></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FIa1CNbX9YMMv5RO446MO%2FContent%20editor.svg?alt=media&#x26;token=1fc0e0dc-b003-4c6e-ba92-d3c4d1d18f1d">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FIa1CNbX9YMMv5RO446MO%2FContent%20editor.svg?alt=media&#x26;token=1fc0e0dc-b003-4c6e-ba92-d3c4d1d18f1d</a></td></tr><tr><td><strong>Campus &#x26; Life in Hong Kong</strong></td><td><ul><li><a href="campus-life/campus-map.md">Campus Map</a></li><li><a href="campus-life/diets.md">Diets</a></li><li><a href="campus-life/shopping.md">Shopping</a></li><li><a href="campus-life/transportation.md">Transportation</a></li><li><a href="campus-life/bank-and-payment.md">Bank &#x26; Payment</a></li><li><a href="campus-life/tourism-and-sightseeing.md">Tourism &#x26; Sightseeing</a></li></ul></td><td></td><td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FXhKtEQu1cgoQpV86CtDp%2FPublished%20documentation.svg?alt=media&#x26;token=a5680a14-fc52-41f4-95c9-03e9ecdc54bb">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FXhKtEQu1cgoQpV86CtDp%2FPublished%20documentation.svg?alt=media&#x26;token=a5680a14-fc52-41f4-95c9-03e9ecdc54bb</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards">
+  <thead>
+    <tr><th>
+    </th><th>
+    </th><th data-hidden data-card-target data-type="content-ref"></th>
+    <th data-hidden data-card-cover data-type="image">Cover image</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Recommended Research Tools</strong></td>
+      <td><ul>
+        <li><a href="research/overleaf.md">Overleaf</a></li>
+        <li><a href="research/zotero.md">Zotero</a></li>
+        <li><a href="research/notion.md">Notion</a></li>
+        <li><a href="research/microsoft-to-do.md">Microsoft To Do</a></li>
+        <li><a href="research/clash-verge.md">Clash Verge</a></li>
+        <li><a href="research/vs-code.md">VS Code</a></li><li><a href="research/github-copilot.md">GitHub Copilot</a></li>
+        <li><a href="research/llms/">LLMs</a></li>
+        <li><a href="research/browser-extensions/">Browser Extensions</a></li>
+        <li><a href="research/useful-online-tools/">Useful Online Tools</a></li>
+        <li><a href="research/other-productivity-tools/">Other Productivity Tools</a></li>
+      </ul></td>
+      <td></td>
+      <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4</a></td>
+    </tr>
+    <tr>
+      <td><strong>COMP Things</strong></td>
+      <td><ul>
+        <li><a href="comp-things/reimbursement-for-conference-attendance.md">Reimbursement for Conference Attendance</a></li>
+        <li><a href="comp-things/equipment-purchase-using-associate-money.md">Equipment Purchase Using Associate Money</a></li>
+        <li><a href="comp-things/equipment-purchase-using-supervisors-research-fund.md">Equipment/Service Purchase Using Supervisors Research Funding</a></li>
+        <li><a href="comp-things/attending-seminars-and-write-reports.md">Attending Seminars &#x26; Write Reports</a></li>
+      </ul></td>
+      <td></td>
+      <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F5eZLWp7DtVCKkh9tnFOQ%2FGit%20Sync%20(1).svg?alt=media&#x26;token=b77c4e1b-228c-4db2-a7eb-850f327285a0">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F5eZLWp7DtVCKkh9tnFOQ%2FGit%20Sync%20(1).svg?alt=media&#x26;token=b77c4e1b-228c-4db2-a7eb-850f327285a0</a></td>
+    </tr>
+    <tr>
+      <td><strong>Coursework</strong></td>
+      <td><ul>
+        <li><a href="coursework/course-requirement.md">Course Requirement</a></li>
+        <li><a href="coursework/polyu-blackboard.md">Learn at PolyU (Blackboard)</a></li>
+        <li><a href="coursework/ta.md">TA Things</a></li>
+      </ul></td>
+      <td></td>
+      <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FIa1CNbX9YMMv5RO446MO%2FContent%20editor.svg?alt=media&#x26;token=1fc0e0dc-b003-4c6e-ba92-d3c4d1d18f1d">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FIa1CNbX9YMMv5RO446MO%2FContent%20editor.svg?alt=media&#x26;token=1fc0e0dc-b003-4c6e-ba92-d3c4d1d18f1d</a></td>
+    </tr>
+    <tr>
+      <td><strong>Campus &#x26; Life in Hong Kong</strong></td>
+      <td><ul>
+        <li><a href="campus-life/campus-map.md">Campus Map</a></li>
+        <li><a href="campus-life/diets.md">Diets</a></li>
+        <li><a href="campus-life/shopping.md">Shopping</a></li>
+        <li><a href="campus-life/transportation.md">Transportation</a></li>
+        <li><a href="campus-life/bank-and-payment.md">Bank &#x26; Payment</a></li>
+        <li><a href="campus-life/tourism-and-sightseeing.md">Tourism &#x26; Sightseeing</a></li>
+      </ul></td>
+      <td></td>
+      <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FXhKtEQu1cgoQpV86CtDp%2FPublished%20documentation.svg?alt=media&#x26;token=a5680a14-fc52-41f4-95c9-03e9ecdc54bb">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FXhKtEQu1cgoQpV86CtDp%2FPublished%20documentation.svg?alt=media&#x26;token=a5680a14-fc52-41f4-95c9-03e9ecdc54bb</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Useful Links
 
