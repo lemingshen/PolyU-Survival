@@ -68,3 +68,8 @@ Sometimes, you have an idea and you want to search relevant papers. However, rel
 
 I find that ChatGPT is particularly skilled at writing emails. As long as you provide your request and your current situations, ChatGPT can always write emails with polite and appropriate language. For example,
 > I want to apply for a visiting PhD position at Prof. <mark>name</mark>'s group. Based on my CV and the professor's homepage (<mark>the homepage URL of the professor</mark>), please help me write an email for application.
+
+## Use Case 4 -- Review Papers (Be Careful)
+
+Prompts will not be released. You can directly use my customized ChatGPT, namely [PaperGPT](https://chatgpt.com/g/g-693191fca194819186bd34fb1d6ad63e-papergpt)
+{% embed url="https://chatgpt.com/g/g-693191fca194819186bd34fb1d6ad63e-papergpt" %}
