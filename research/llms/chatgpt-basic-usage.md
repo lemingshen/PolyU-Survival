@@ -62,7 +62,7 @@ Additionally, you can also instruct ChatGPT to review an entire paragraph to pro
 ## Use Case 2 -- Paper Search
 
 Sometimes, you have an idea and you want to search relevant papers. However, relying on existing search engines (*e.g.*, Google Scholar) may not always provide relevant papers. Therefore, you can ask ChatGPT to help you search for papers. Below is a prompt template I frequently use:
-> Please search for some papers demonstrating that <mark>the topic or key idea you want to search </mark>
+> Please search for some papers demonstrating that <font color="yellow"><the topic or key idea you want to search></font>
 
 ## Use Case 3 -- Writing Emails
 
