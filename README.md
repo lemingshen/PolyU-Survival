@@ -77,7 +77,6 @@ This survival guidance will be continuously updated.
         <li><a href="campus-life/bank-and-payment.md">Bank &#x26; Payment</a></li>
         <li><a href="campus-life/tourism-and-sightseeing.md">Tourism &#x26; Sightseeing</a></li>
       </ul></td>
-      <td></td>
       <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FXhKtEQu1cgoQpV86CtDp%2FPublished%20documentation.svg?alt=media&#x26;token=a5680a14-fc52-41f4-95c9-03e9ecdc54bb">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FXhKtEQu1cgoQpV86CtDp%2FPublished%20documentation.svg?alt=media&#x26;token=a5680a14-fc52-41f4-95c9-03e9ecdc54bb</a></td>
     </tr>
   </tbody>
