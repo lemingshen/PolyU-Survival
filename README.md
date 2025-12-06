@@ -29,7 +29,6 @@ This survival guidance will be continuously updated.
   <thead>
     <tr><th>
     </th><th>
-    </th><th data-hidden data-card-target data-type="content-ref"></th>
     <th data-hidden data-card-cover data-type="image">Cover image</th></tr>
   </thead>
   <tbody>
@@ -47,7 +46,6 @@ This survival guidance will be continuously updated.
         <li><a href="research/useful-online-tools/">Useful Online Tools</a></li>
         <li><a href="research/other-productivity-tools/">Other Productivity Tools</a></li>
       </ul></td>
-      <td></td>
       <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4</a></td>
     </tr>
     <tr>
@@ -58,7 +56,6 @@ This survival guidance will be continuously updated.
         <li><a href="comp-things/equipment-purchase-using-supervisors-research-fund.md">Equipment/Service Purchase Using Supervisors Research Funding</a></li>
         <li><a href="comp-things/attending-seminars-and-write-reports.md">Attending Seminars &#x26; Write Reports</a></li>
       </ul></td>
-      <td></td>
       <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F5eZLWp7DtVCKkh9tnFOQ%2FGit%20Sync%20(1).svg?alt=media&#x26;token=b77c4e1b-228c-4db2-a7eb-850f327285a0">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2F5eZLWp7DtVCKkh9tnFOQ%2FGit%20Sync%20(1).svg?alt=media&#x26;token=b77c4e1b-228c-4db2-a7eb-850f327285a0</a></td>
     </tr>
     <tr>
@@ -68,7 +65,6 @@ This survival guidance will be continuously updated.
         <li><a href="coursework/polyu-blackboard.md">Learn at PolyU (Blackboard)</a></li>
         <li><a href="coursework/ta.md">TA Things</a></li>
       </ul></td>
-      <td></td>
       <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FIa1CNbX9YMMv5RO446MO%2FContent%20editor.svg?alt=media&#x26;token=1fc0e0dc-b003-4c6e-ba92-d3c4d1d18f1d">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FIa1CNbX9YMMv5RO446MO%2FContent%20editor.svg?alt=media&#x26;token=1fc0e0dc-b003-4c6e-ba92-d3c4d1d18f1d</a></td>
     </tr>
     <tr>
