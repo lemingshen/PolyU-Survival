@@ -33,7 +33,7 @@ ChatGPT is an AI language model capable of understanding and generating natural 
 Now I will introduce some useful use cases with ChatGPT.
 
 {% hint style="danger" %}
-### ⚠️ Important Note for PhD Students
+### Important Note for PhD Students
 ### 我思故我在 (That's why we are humans)
 While ChatGPT is a powerful assistant for drafting, brainstorming, and clarifying ideas, it should not become a substitute for **critical thinking**, technical reasoning, or original intellectual contributions. As researchers, we must actively exercise our analytical and problem-solving abilities — over-reliance on automated tools risks weakening these essential skills and undermining the rigor expected of doctoral-level work. ChatGPT should therefore be viewed as a supportive aid, not a replacement for deep understanding, creativity, and independent reasoning.
 
