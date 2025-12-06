@@ -8,13 +8,17 @@
 * [Zotero](research/zotero.md)
 * [Notion](research/notion.md)
 * [Microsoft To Do](research/microsoft-to-do.md)
-* [LLM](research/llm.md)
-* [Browser Extensions](research/browser-extensions.md)
 * [Clash Verge](research/clash-verge.md)
 * [VS Code](research/vs-code.md)
 * [GitHub Copilot](research/github-copilot.md)
-* [Useful Online Tools](research/useful-online-tools.md)
-* [Other Productivity Tools](research/other-productivity-tools.md)
+* [LLMs](research/llms/README.md)
+  * [Page 4](research/llms/page-4.md)
+* [Browser Extensions](research/browser-extensions/README.md)
+  * [Page 1](research/browser-extensions/page-1.md)
+* [Useful Online Tools](research/useful-online-tools/README.md)
+  * [Page 2](research/useful-online-tools/page-2.md)
+* [Other Productivity Tools](research/other-productivity-tools/README.md)
+  * [Page 3](research/other-productivity-tools/page-3.md)
 
 ## COMP Things
 
