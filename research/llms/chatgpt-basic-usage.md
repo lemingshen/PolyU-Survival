@@ -82,3 +82,5 @@ I find that ChatGPT is particularly skilled at writing emails. As long as you pr
 Prompts will not be released. You can directly use my customized ChatGPT, namely [PaperGPT](https://chatgpt.com/g/g-693191fca194819186bd34fb1d6ad63e-papergpt)
 
 {% embed url="https://chatgpt.com/g/g-693191fca194819186bd34fb1d6ad63e-papergpt" %}
+
+Just upload the paper and wait for comment generation.
