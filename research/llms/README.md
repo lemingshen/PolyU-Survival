@@ -1,5 +1,6 @@
 ---
 icon: chatgpt
+coverY: 0
 ---
 
 # LLMs
