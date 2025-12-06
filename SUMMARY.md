@@ -12,7 +12,7 @@
 * [VS Code](research/vs-code.md)
 * [GitHub Copilot](research/github-copilot.md)
 * [LLMs](research/llms/README.md)
-  * [ChatGPT Basic Usage](research/llms/page-4.md)
+  * [ChatGPT Basic Usage](research/llms/chatgpt-basic-usage.md)
   * [Upgrade to ChatGPT Plus](research/llms/upgrade-to-chatgpt-plus.md)
   * [Buy OpenAI API Credits](research/llms/buy-openai-api-credits.md)
   * [Apply for a Switzerland Card](research/llms/apply-for-a-switzerland-card.md)
