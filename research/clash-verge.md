@@ -137,7 +137,7 @@ layout:
     * Click "Config".
     * Click the "+" button at the top right corner.
     * Input the configuration URL I provided and click "Download".
-    <figure><img src="../.gitbook/assets/research/clash/shadow.png" alt="" width="60%"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/research/clash/shadow.png" alt="" width="300pt"><figcaption></figcaption></figure>
 
 * Click "Home", select a node, and toggle the switch (on the top) to start the proxy.
 
