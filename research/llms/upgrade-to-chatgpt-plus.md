@@ -34,10 +34,12 @@ There are three distinct ways to upgrade to ChatGPT Plus (also works for Gemini 
   * Start proxy using Shadowrocket.
   * Open "ChatGPT" and sign in your ChatGPT account.
   * Click the upper left icon, which will display your chat history and account profile.
-  <figure><img src="../../.gitbook/assets/research/llms/chatgpt_ios_account.png" alt="" width="30%"><figcaption></figcaption></figure>
+  
+<figure><img src="../../.gitbook/assets/research/llms/chatgpt_ios_account.png" alt="" width="30%"><figcaption></figcaption></figure>
   
   * Click you profile and click "Upgrade to Plus"
-  <figure><img src="../../.gitbook/assets/research/llms/chatgpt_ios_upgrade.png" alt="" width="30%"><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/research/llms/chatgpt_ios_upgrade.png" alt="" width="30%"><figcaption></figcaption></figure>
 
   * Pay with your Apple account's fund or SafePal card.
   * Congratulations! $19.99 will be automatically charged and you can enjoy ChatGPT Plus!
