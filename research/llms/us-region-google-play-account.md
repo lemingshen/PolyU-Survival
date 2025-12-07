@@ -38,7 +38,7 @@ This page provides step-by-step instructions on how to change your Google Play S
 * Then, visit [Google payments center](https://payments.google.com/) and click "Add a payment method"
   <figure><img src="../../.gitbook/assets/research/llms/google/add_payment.png" alt=""><figcaption></figcaption></figure>
 
-* Enter your credit/debit card (Mastercard & VISA) information **(CN/HK cards are all acceptable)**. The billing address **MUST** be in US.
+* Enter your credit/debit card (MasterCard & VISA) information **(CN/HK cards are all acceptable)**. The billing address **MUST** be in US.
   {% hint style="danger" %}
   ### IMPORTANT
   

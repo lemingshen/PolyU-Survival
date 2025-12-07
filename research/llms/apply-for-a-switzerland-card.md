@@ -23,7 +23,7 @@ To enable unobstructed and fluent global payment, HK credit cards are not suffic
 The Fiat24 bank is 100% safe and real. The address of the bank is:
 {% embed url="https://maps.app.goo.gl/FS5NHLPG4xvRVtTa7" %}
 
-To apply for a SafePal Mastercard, please strictly follow the link below:
+To apply for a SafePal MasterCard, please strictly follow the link below:
 {% embed url="https://zhuanlan.zhihu.com/p/14025369553" %}
 
 {% hint style="danger" %}
