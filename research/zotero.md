@@ -65,13 +65,25 @@ Here is a step-by-step guide on how to set up synchronization through WebDAV pro
 
 <figure><img src="../.gitbook/assets/research/zotero/webdav_setup.png" alt=""><figcaption></figcaption></figure>
 
-\* Now, open Zotero settings, find "File Syncing", select "WebDAV" for "Sync attachment files in My Library using", and fill in the WebDAV URL, username, and password you obtained from InfiniCLOUD. Finally, click "Verify Server" to check if everything is correct. If so, click "OK" to finish the setup.
+* Now, open Zotero settings, find "File Syncing", select "WebDAV" for "Sync attachment files in My Library using", and fill in the WebDAV URL, username, and password you obtained from InfiniCLOUD. Finally, click "Verify Server" to check if everything is correct. If so, click "OK" to finish the setup.
 
 <figure><img src="../.gitbook/assets/research/zotero/webdav_config.png" alt=""><figcaption></figcaption></figure>
 
-\* As long as your new device login the same Zotero account and set up the WebDAV synchronization, your Zotero library will be synchronized across all your devices.
+* As long as your new device login the same Zotero account and set up the WebDAV synchronization, your Zotero library will be synchronized across all your devices.
 
-## 3. Third-Party Plugins
+## 3. Zotero Browser Extension
+
+Zotero provides a browser extension that helps you quickly save online paper to your local Zotero library.
+
+* Visit the [Chrome Extension Store](https://chromewebstore.google.com/detail/zotero-connector/ekhagklcjbdpajgpjgmbionohlpdbjgc?hl=en&pli=1) to install the extension.
+* When open a paper in your Chrome, you can click the Zotero Connector icon on the top right corner, select an appropriate folder based on your paper classification rules, and click "Done" to save the online paper to your local library.
+<figure><img src="../.gitbook/assets/research/zotero/zotero_connector.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Make sure the Zotero App is open when you use the browser extension.
+{% endhint %}
+
+## 4. Third-Party Plugins
 
 {% embed url="https://zotero-chinese.com/" %}
 

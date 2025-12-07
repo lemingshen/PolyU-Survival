@@ -31,3 +31,46 @@ To apply for a SafePal MasterCard, please strictly follow the link below:
   
 If you need cryptocurrency (*e.g.*, ETH, BTC, USDT), you can contact me. No need to create a new cryptocurrency account, it's too complex and time-consuming.
 {% endhint %}
+
+## Transfer Money to Your Card Using HSBC (Very Easy!)
+
+After you get your card, you need to transfer money to the card. The following part provides detailed instructions:
+
+{% stepper %}
+{% step %}
+### Step 1: Obtain Your SafePal Card Information
+
+* Login your SafePal account on your phone.
+* Click "Bank" on the top and click your card number.
+  <figure><img src="../../.gitbook/assets/research/llms/safepal/safepal_card.png" alt="" width="300pt"><figcaption></figcaption></figure>
+
+* Login your Fiat24 account.
+* Click "IBAN" and your card information will be displayed.
+  <figure><img src="../../.gitbook/assets/research/llms/safepal/IBAN.png" alt="" width="300pt"><figcaption></figcaption></figure>
+
+{% endstep %}
+
+{% step %}
+### Step 2: Transfer to Your SafePal Card in HSBC App
+
+* Login your HSBC account in the App.
+* Click "Pay" on the top and click "Anywhere globally".
+  <figure><img src="../../.gitbook/assets/research/llms/safepal/hsbc_pay.png" alt="" width="300pt"><figcaption></figcaption></figure>
+
+* Enter the country information (*i.e.*, Switzerland) and payee account type (*i.e.*, personal account).
+  <figure><img src="../../.gitbook/assets/research/llms/safepal/select_country.png" alt="" width="300pt"><figcaption></figcaption></figure>
+
+* Select "EUR" and enter the amount you want to transfer.
+  <figure><img src="../../.gitbook/assets/research/llms/safepal/hsbc_amount.png" alt="" width="300pt"><figcaption></figcaption></figure>
+
+* Fill in your SafePal card information and click "continue".
+  <figure><img src="../../.gitbook/assets/research/llms/safepal/transfer_information.png" alt="" width="300pt"><figcaption></figcaption></figure>
+
+* Congratulations! After around one business day, the money will be transferred to your SafePal account.
+
+{% hint style="warning" %}
+A handling fee of HK$70 will be charged for each transaction, regardless of the amount transferred. Therefore, you may enter a large amount to avoid frequent transfer.
+{% endhint %}
+
+{% endstep %}
+{% endstepper %}
