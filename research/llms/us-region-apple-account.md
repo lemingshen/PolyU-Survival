@@ -75,7 +75,7 @@ To keep your account valid, you **MUST** keep the US account being signed in on 
 {% step %}
 ### Step 4: Add a Payment Method or Add Money to Your Account
 
-{% hint style="dangerous" %}
+{% hint style="danger" %}
 ### IMPORTANT
 
 Make sure your billing address or account address is in tax-free states (*e.g.*, Oregon). You can generate a US address [here](https://www.fakexy.com/fake-address-generator-us).
