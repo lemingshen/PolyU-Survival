@@ -14,7 +14,6 @@
 * [LLMs](research/llms/README.md)
   * [ChatGPT Basic Usage](research/llms/chatgpt-basic-usage.md)
   * [Upgrade to ChatGPT Plus](research/llms/upgrade-to-chatgpt-plus.md)
-  * [Buy OpenAI API Credits](research/llms/buy-openai-api-credits.md)
   * [Apply for a Switzerland Card](research/llms/apply-for-a-switzerland-card.md)
   * [US-Region Google Play Account](research/llms/us-region-google-play-account.md)
   * [US-Region Apple Account](research/llms/us-region-apple-account.md)
