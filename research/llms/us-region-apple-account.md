@@ -95,6 +95,7 @@ Make sure your billing address or account address is in tax-free states (*e.g.*,
   * After payment, you will see the App Store redeem code.
   * Then, open App Store, click your profile, click "Redeem Gift Card or Code", and manually enter the redeem code.
   <figure><img src="../../.gitbook/assets/research/llms/apple/redeem_code.png" alt=""><figcaption></figcaption></figure>
+  
   * Congratulations! Your account is charged!
 
 {% endstep %}
