@@ -18,9 +18,16 @@ layout:
 
 # Notion
 
-Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
+[Notion](https://www.notion.com/) is an all-in-one productivity and knowledge-management platform that integrates notes, documents, databases, project tracking, and collaboration into a single workspace. It allows users to create flexible, interconnected pages that can be customized to organize research papers, manage tasks, take structured notes, build wikis, and store data. Its clean interface and powerful linking capabilities make Notion particularly useful for students, researchers, and teams who need a centralized, searchable, and highly adaptable environment to manage their work.
 
-You can publish your site and find related settings from your docs site's homepage.
+#### Feature 1: Markdown-based note taking
+#### Feature 2: Note sharing among users
+#### Feature 3: AI supported
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+{% hint style="success" %}
+### Important
 
+Sign up using your PolyU email and you can enjoy "Education Plus" plan!
+{% endhint %}
+
+Now, I will provide some basic use cases of Notion.
