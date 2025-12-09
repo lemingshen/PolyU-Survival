@@ -31,3 +31,5 @@ Sign up using your PolyU email and you can enjoy "Education Plus" plan!
 {% endhint %}
 
 Now, I will provide some basic use cases of Notion.
+
+## Basic Usage
