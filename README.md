@@ -17,8 +17,6 @@ layout:
 metaLinks: {}
 ---
 
-<meta name="google-site-verification" content="tgwI885cIgiDdvRkRBLyqcT1tzCbu5haPgvTD86YeFs" />
-
 # Welcome to PolyU PhD Survival Guide!
 
 This is a guidance for PolyU PhD students (especially **COMP students**), aiming to help them navigate their PhD journey successfully, including tips on recommended research tools, COMP things, coursework, and campus life.
