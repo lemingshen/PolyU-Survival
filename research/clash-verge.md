@@ -110,6 +110,7 @@ layout:
           - DOMAIN-KEYWORD,tiktok,🎬ChatGPT
           - DOMAIN-KEYWORD,anthropic,🎬ChatGPT
           - DOMAIN-KEYWORD,tccd,🎬ChatGPT
+          - DOMAIN-KEYWORD,notebooklm,🎬ChatGPT
 
           - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
           - GEOIP,CN,DIRECT

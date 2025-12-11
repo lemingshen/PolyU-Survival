@@ -71,7 +71,11 @@ Here is a step-by-step guide on how to set up synchronization through WebDAV pro
 
 * As long as your new device login the same Zotero account and set up the WebDAV synchronization, your Zotero library will be synchronized across all your devices.
 
-## 3. Zotero Browser Extension
+## 3. Note Taking
+
+
+
+## 4. Zotero Browser Extension
 
 Zotero provides a browser extension that helps you quickly save online paper to your local Zotero library.
 
