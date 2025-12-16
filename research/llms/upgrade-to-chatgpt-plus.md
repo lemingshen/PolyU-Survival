@@ -28,7 +28,7 @@ There are three distinct ways to upgrade to ChatGPT Plus (also works for Gemini 
   * You **MUST** have a non-CN and non-HK MasterCard or VISA credit/debit card (virtual and physical cards are both acceptable).
   * I strongly recommend you guys to apply for the [SafePal](https://www.safepal.com/en/) card. You may follow the instructions in the link below for application:
   
-  {% content-ref url="apply-for-a-switzerland-card" %}
+  {% content-ref url="apply-for-a-switzerland-card.md" %}
   [apply-for-a-switzerland-card.md](apply-for-a-switzerland-card.md)
   {% endcontent-ref %}
 
