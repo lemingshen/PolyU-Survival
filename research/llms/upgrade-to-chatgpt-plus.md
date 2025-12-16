@@ -64,6 +64,10 @@ There are three distinct ways to upgrade to ChatGPT Plus (also works for Gemini 
 
 ## 3. Through Google Play Store (non-Huawei device)
 
+{% hint style="warning" %}
+Make sure that your Android phone has successfully installed and activated with Google Service Framework, Google Play Service, and Google Play Store.
+{% endhint %}
+
 * Prerequisites: You **MUST** have a US Google Play Store account. To create a US Google Play Store account, please refer to:
 {% content-ref url="us-region-google-play-account.md" %}
 [us-region-google-play-account.md](us-region-google-play-account.md)
