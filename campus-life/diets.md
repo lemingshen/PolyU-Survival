@@ -1,5 +1,6 @@
 ---
 icon: burger-glass
+coverY: 0
 layout:
   width: default
   title:
@@ -14,11 +15,10 @@ layout:
     visible: true
   metadata:
     visible: true
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/basics/interactive-blocks
 ---
 
 # Diets
 
-Under maintenance ...
+Below is a list of restaurants nearby PolyU.
+
+{% embed url="https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing&ouid=111401837187917554364&rtpof=true&sd=true" %}
