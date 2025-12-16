@@ -36,6 +36,7 @@ There are three distinct ways to upgrade to ChatGPT Plus (also works for Gemini 
   * Visit ChatGPT website, click on your profile on the bottom left corner, and click "Upgrade plan".
   * Select your plan and input your SafePal card information.
   * Wait for transaction approval and all done! Enjoy ChatGPT Plus!
+  * $20 will be automatically charged monthly.
 
 ## 2. Through Apple App Store
 
@@ -56,7 +57,7 @@ There are three distinct ways to upgrade to ChatGPT Plus (also works for Gemini 
   <figure><img src="../../.gitbook/assets/research/llms/chatgpt_ios_upgrade.png" alt="" width="300pt"><figcaption></figcaption></figure>
 
   * Pay with your Apple account's fund or SafePal card.
-  * Congratulations! $19.99 will be automatically charged and you can enjoy ChatGPT Plus!
+  * Congratulations! $19.99 will be automatically charged monthly and you can enjoy ChatGPT Plus!
 
 ## 3. Through Google Play Store (non-Huawei device)
 
@@ -73,4 +74,4 @@ There are three distinct ways to upgrade to ChatGPT Plus (also works for Gemini 
   * Click the upper left icon, which will display your chat history and account profile.
   * Click you profile and click "Upgrade to Plus"
   * Pay with your own credit card (no regional restrictions) bound in your Google Play Store account.
-  * Congratulations! $19.99 will be automatically charged and you can enjoy ChatGPT Plus!
+  * Congratulations! $19.99 will be automatically charged monthly and you can enjoy ChatGPT Plus!
