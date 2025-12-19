@@ -73,7 +73,18 @@ Here is a step-by-step guide on how to set up synchronization through WebDAV pro
 
 ## 3. Note Taking
 
+You can also create notes alongside the paper. The notes will also be synchronized among multiple devices.
 
+* Open a paper, click the "note" icon on the right panel and click "+" to create a new note for the paper.
+<figure><img src="../.gitbook/assets/research/zotero/add_note.png" alt=""><figcaption></figcaption></figure>
+
+* The note editor supports Markdown, which is a lightweight markup language that uses simple, plain-text syntax to format documents.
+<figure><img src="../.gitbook/assets/research/zotero/markdown.png" alt="" width="600pt"><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+For more information of Markdown, you may visit the handbook below:
+{% embed url="https://www.markdownguide.org/" %}
+{% endhint %}
 
 ## 4. Zotero Browser Extension
 
