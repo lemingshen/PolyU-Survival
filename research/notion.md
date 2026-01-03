@@ -32,4 +32,28 @@ Sign up using your PolyU email and you can enjoy "Education Plus" plan!
 
 Now, I will provide some basic use cases of Notion.
 
-## Basic Usage
+## Basic Note Taking
+* On the left panel, find "Private", and click "+" to create a new note page in your private workspace.
+<figure><img src="../.gitbook/assets/research/notion/add_page.png" alt=""><figcaption></figcaption></figure>
+
+* There are two types of note
+  * Directly enter Markdown
+  <figure><img src="../.gitbook/assets/research/notion/basic_markdown.png" alt=""><figcaption></figcaption></figure>
+
+  * Enter "/" and select a preferred note block
+  <figure><img src="../.gitbook/assets/research/notion/slash.png" alt=""><figcaption></figcaption></figure>
+
+* For more details, you may refer to Notion's official documentation to learn advanced note taking methods, such as databases, third-party tool integration, *etc*.
+{% embed url="https://www.notion.com/help/guides/category/documentation" %}
+
+## Note Sharing & Publishing
+* Suppose you create a page that you want to share with someone to collaborate, you can share the Notion page in one second.
+* Open the page you want to share, click "Share" on the top right corner, enter the email account of the people you want to share with, set his/her accessability (full access, can edit, can comment, can view), and click "Invite". (You can also directly copy the sharing link)
+<figure><img src="../.gitbook/assets/research/notion/share_page.png" alt=""><figcaption></figcaption></figure>
+
+* If you want to make your page published as a website, you can also click "Share" on the top right corner and click "publish" to obtain a URL.
+  
+
+{% hint style="success" %}
+Overall, Notion is a very powerful, cross-platform, auto-sync note taking App with numerous interesting usage scenarios and third-party tool integrations. You can turn your Notion as your personal knowledge base that helps you sharpen your mind and shape your personality!
+{% endhint %}
