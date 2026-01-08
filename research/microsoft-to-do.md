@@ -70,13 +70,13 @@ And then, you will see that the email will be synced in the "Flagged email" list
 
 I would say that this functionality is extremely convenient. And that's why I suggest signing in using PolU email.
 
-## 9. Tips for Effective Use
+## 7. Tips for Effective Use
 
 * Keep task titles short and action-oriented
 * Review My Day every morning and evening
 * Avoid overloading a single day with too many tasks
 * Use notes instead of long task titles for details
 
-## 10. Final Thoughts
+## 8. Final Thoughts
 
 Microsoft To Do excels at simplicity and focus. While it may not replace advanced project management tools, it is an excellent choice for personal productivity, daily planning, and lightweight task tracking.
