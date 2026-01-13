@@ -99,3 +99,8 @@ This survival guidance will be continuously updated.
 * [PolyU university health service](https://www.polyu.edu.hk/uhs/)
 
 This survival guide is maintained by [Leming Shen](https://lemingshen.github.io/), [Shiming Yu](https://xiaoming124.github.io/), and [Xinyu Huang](https://unixyhuang.github.io/). If you have any suggestions or find any issues, please feel free to contact me via email: [zju.slm@gmail.com](mailto:zju.slm@gmail.com).
+
+
+# Support us if you like our website.
+
+<figure><img src=".gitbook/assets/support.png" alt=""><figcaption></figcaption></figure>
