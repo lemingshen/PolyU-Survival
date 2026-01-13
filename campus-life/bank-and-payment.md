@@ -42,7 +42,7 @@ layout:
 - [中银（香港）Chill Card](https://www.bochk.com/dam/boccreditcard/chillcard/chi/index.html) 每笔外币签账返现5%（基础0.4%+外币额外4.6%），无低消，每月额外返现上限HKD150，与网上签账共享返现额度（对应HKD3260签账）
 - [恒生银行 MMPower](https://www.hangseng.com/zh-hk/personal/cards/products/mmpower-card) 每笔外币签账返现6%（基础0.4%+外币额外5.6%），**注意有HKD5000低消**，每月总返现上限HKD500
 - [中银（香港）淘宝卡](https://www.bochk.com/tc/creditcard/details/cobrand/cobrand/taobao.html) 该卡免除1.9%货币转换手续费，NPC级别
-- [汇丰银行 Pulse](https://www.hsbc.com.hk/zh-hk/credit-cards/products/unionpay-dual-currency-diamond) 该卡免除人民币、澳门葡币两类外币的1.9%货币转换手续费。每笔人民币签账返现13.5%（基础2%+自选类别点满外币2.5%+Travel Guru会员4%+内地餐饮5%），每年返现额度对应消费上限为80000RMB。其中前三项返现无低消，最后一项内地餐饮低消1200RMB，每月返现上限100RMB（美团ApplePay均记作餐饮消费，包括订机票酒店门票等），夯！
+- [汇丰银行 Pulse](https://www.hsbc.com.hk/zh-hk/credit-cards/products/unionpay-dual-currency-diamond) 该卡免除人民币、澳门葡币两类外币的1.9%货币转换手续费。每笔人民币签账返现13.4%（基础2%+自选类别点满外币2.4%+Travel Guru会员4%+内地餐饮5%），每年返现额度对应消费上限为80000RMB。其中前三项返现无低消，最后一项内地餐饮低消1200RMB，每月返现上限100RMB（美团ApplePay均记作餐饮消费，包括订机票酒店门票等），夯！
 
 ## 2. 常用消费场景
 
@@ -57,5 +57,5 @@ layout:
 ### 机票酒店
 建议购票前多平台比价，价格差不多的前提下可以考虑以下平台赚返现：
 - [Trip.com](https://hk.trip.com)，签账算港币网购，无额外手续费，所有网购卡都能用。
-- 《携程》、《去哪儿》可以刷Apple Pay，用Pulse刷人民币签账，赚普通返现8.5%（基础2%+自选类别点满外币2.5%+Travel Guru会员4%）
-- 《美团》刷Pulse卡人民币消费（计入内地餐饮，最大化返现），赚最大返现13.5%（基础2%+自选类别点满外币2.5%+Travel Guru会员4%+内地餐饮5%）
+- 《携程》、《去哪儿》可以刷Apple Pay，用Pulse刷人民币签账，赚普通返现8.4%（基础2%+自选类别点满外币2.4%+Travel Guru会员4%）
+- 《美团》刷Pulse卡人民币消费（计入内地餐饮，最大化返现），赚最大返现13.4%（基础2%+自选类别点满外币2.4%+Travel Guru会员4%+内地餐饮5%）
