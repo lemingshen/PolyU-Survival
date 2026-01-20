@@ -24,7 +24,7 @@ This page provides step-by-step instructions on how to create a US-region Apple 
 {% step %}
 ### Step 1: Buy a US Phone Number
 
-* Visit [https://sms-activate.io/](https://sms-activate.io/) and register an account.
+* Visit [HeroSMS](https://hero-sms.com/) and register an account.
 * Top up $10 using Alipay
 <figure><img src="../../.gitbook/assets/research/llms/apple/top_up.png" alt=""><figcaption></figcaption></figure>
 
