@@ -10,7 +10,6 @@
 * [Microsoft To Do](research/microsoft-to-do.md)
 * [Clash Verge](research/clash-verge.md)
 * [VS Code](research/vs-code.md)
-* [GitHub Copilot](research/github-copilot.md)
 * [LLMs](research/llms/README.md)
   * [ChatGPT Basic Usage](research/llms/chatgpt-basic-usage.md)
   * [Upgrade to ChatGPT Plus](research/llms/upgrade-to-chatgpt-plus.md)
