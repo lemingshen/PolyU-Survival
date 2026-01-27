@@ -67,55 +67,49 @@ layout:
     * Replace all the existing rules with the following rules (dynamically updated):
     
     ```
-      rules:
- 
-          
-          - DOMAIN-SUFFIX,smtp,DIRECT
-          - DOMAIN-KEYWORD,aria2,DIRECT
-          
-          
-          - DOMAIN,browser-intake-datadoghq.com,🎬ChatGPT
-          - DOMAIN,static.cloudflareinsights.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,ai.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,t-mobile.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,aistudio.google.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,ai.google.dev,🎬ChatGPT
-          - DOMAIN-SUFFIX,algolia.net,🎬ChatGPT
-          - DOMAIN-SUFFIX,meta.ai,🎬ChatGPT
-          - DOMAIN-SUFFIX,api.statsig.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,labs.google.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,auth0.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,chatgpt.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,chatgpt.livekit.cloud,🎬ChatGPT
-          - DOMAIN-SUFFIX,client-api.arkoselabs.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,events.statsigapi.net,🎬ChatGPT
-          - DOMAIN-SUFFIX,featuregates.org,🎬ChatGPT
-          - DOMAIN-SUFFIX,host.livekit.cloud,🎬ChatGPT
-          - DOMAIN-SUFFIX,identrust.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,intercom.io,🎬ChatGPT
-          - DOMAIN-SUFFIX,intercomcdn.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,launchdarkly.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,oaistatic.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,oaiusercontent.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,observeit.net,🎬ChatGPT
-          - DOMAIN-SUFFIX,segment.io,🎬ChatGPT
-          - DOMAIN-SUFFIX,sentry.io,🎬ChatGPT
-          - DOMAIN-SUFFIX,play.google.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,stripe.com,🎬ChatGPT
-          - DOMAIN-SUFFIX,turn.livekit.cloud,🎬ChatGPT
-          - DOMAIN-KEYWORD,openai,🎬ChatGPT
-          - DOMAIN-KEYWORD,gemini,🎬ChatGPT
-          - DOMAIN-KEYWORD,sora,🎬ChatGPT
-          - DOMAIN-KEYWORD,claude,🎬ChatGPT
-          - DOMAIN-KEYWORD,tiktok,🎬ChatGPT
-          - DOMAIN-KEYWORD,anthropic,🎬ChatGPT
-          - DOMAIN-KEYWORD,tccd,🎬ChatGPT
-          - DOMAIN-KEYWORD,notebooklm,🎬ChatGPT
-
-          - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
-          - GEOIP,CN,DIRECT
-
-          - MATCH,DIRECT
+    rules:
+      - DOMAIN-SUFFIX,smtp,DIRECT
+      - DOMAIN-KEYWORD,aria2,DIRECT
+      - DOMAIN,browser-intake-datadoghq.com,🎬ChatGPT
+      - DOMAIN,static.cloudflareinsights.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,ai.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,t-mobile.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,aistudio.google.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,ai.google.dev,🎬ChatGPT
+      - DOMAIN-SUFFIX,algolia.net,🎬ChatGPT
+      - DOMAIN-SUFFIX,meta.ai,🎬ChatGPT
+      - DOMAIN-SUFFIX,api.statsig.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,labs.google.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,auth0.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,chatgpt.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,chatgpt.livekit.cloud,🎬ChatGPT
+      - DOMAIN-SUFFIX,client-api.arkoselabs.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,events.statsigapi.net,🎬ChatGPT
+      - DOMAIN-SUFFIX,featuregates.org,🎬ChatGPT
+      - DOMAIN-SUFFIX,host.livekit.cloud,🎬ChatGPT
+      - DOMAIN-SUFFIX,identrust.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,intercom.io,🎬ChatGPT
+      - DOMAIN-SUFFIX,intercomcdn.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,launchdarkly.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,oaistatic.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,oaiusercontent.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,observeit.net,🎬ChatGPT
+      - DOMAIN-SUFFIX,segment.io,🎬ChatGPT
+      - DOMAIN-SUFFIX,sentry.io,🎬ChatGPT
+      - DOMAIN-SUFFIX,play.google.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,stripe.com,🎬ChatGPT
+      - DOMAIN-SUFFIX,turn.livekit.cloud,🎬ChatGPT
+      - DOMAIN-KEYWORD,openai,🎬ChatGPT
+      - DOMAIN-KEYWORD,gemini,🎬ChatGPT
+      - DOMAIN-KEYWORD,sora,🎬ChatGPT
+      - DOMAIN-KEYWORD,claude,🎬ChatGPT
+      - DOMAIN-KEYWORD,tiktok,🎬ChatGPT
+      - DOMAIN-KEYWORD,anthropic,🎬ChatGPT
+      - DOMAIN-KEYWORD,tccd,🎬ChatGPT
+      - DOMAIN-KEYWORD,notebooklm,🎬ChatGPT
+      - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
+      - GEOIP,CN,DIRECT
+      - MATCH,DIRECT
     ```
     * Then, right click on the "Clash_HK.yaml" profile and modify the "Update Interval" to a very very very large number. Otherwise, the rules will be overwritten during automatic updates.
     <figure><img src="../.gitbook/assets/research/clash/update_interval.png" alt=""><figcaption></figcaption></figure>
