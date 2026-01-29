@@ -70,51 +70,61 @@ layout:
     rules:
       - DOMAIN-SUFFIX,smtp,DIRECT
       - DOMAIN-KEYWORD,aria2,DIRECT
-      - DOMAIN,browser-intake-datadoghq.com,🎬ChatGPT
-      - DOMAIN,static.cloudflareinsights.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,ai.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,t-mobile.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,aistudio.google.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,ai.google.dev,🎬ChatGPT
-      - DOMAIN-SUFFIX,algolia.net,🎬ChatGPT
-      - DOMAIN-SUFFIX,meta.ai,🎬ChatGPT
-      - DOMAIN-SUFFIX,api.statsig.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,labs.google.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,auth0.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,chatgpt.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,chatgpt.livekit.cloud,🎬ChatGPT
-      - DOMAIN-SUFFIX,client-api.arkoselabs.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,events.statsigapi.net,🎬ChatGPT
-      - DOMAIN-SUFFIX,featuregates.org,🎬ChatGPT
-      - DOMAIN-SUFFIX,host.livekit.cloud,🎬ChatGPT
-      - DOMAIN-SUFFIX,identrust.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,intercom.io,🎬ChatGPT
-      - DOMAIN-SUFFIX,intercomcdn.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,launchdarkly.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,oaistatic.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,oaiusercontent.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,observeit.net,🎬ChatGPT
-      - DOMAIN-SUFFIX,segment.io,🎬ChatGPT
-      - DOMAIN-SUFFIX,sentry.io,🎬ChatGPT
-      - DOMAIN-SUFFIX,play.google.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,stripe.com,🎬ChatGPT
-      - DOMAIN-SUFFIX,turn.livekit.cloud,🎬ChatGPT
-      - DOMAIN-KEYWORD,openai,🎬ChatGPT
-      - DOMAIN-KEYWORD,gemini,🎬ChatGPT
-      - DOMAIN-KEYWORD,sora,🎬ChatGPT
-      - DOMAIN-KEYWORD,claude,🎬ChatGPT
-      - DOMAIN-KEYWORD,tiktok,🎬ChatGPT
-      - DOMAIN-KEYWORD,anthropic,🎬ChatGPT
-      - DOMAIN-KEYWORD,tccd,🎬ChatGPT
-      - DOMAIN-KEYWORD,notebooklm,🎬ChatGPT
+
+      - DOMAIN,browser-intake-datadoghq.com,🎬ai
+      - DOMAIN,static.cloudflareinsights.com,🎬ai
+      - DOMAIN-SUFFIX,ai.com,🎬ai
+      - DOMAIN-SUFFIX,t-mobile.com,🎬ai
+      - DOMAIN-SUFFIX,aistudio.google.com,🎬ai
+      - DOMAIN-SUFFIX,ai.google.dev,🎬ai
+      - DOMAIN-SUFFIX,algolia.net,🎬ai
+      - DOMAIN-SUFFIX,meta.ai,🎬ai
+      - DOMAIN-SUFFIX,api.statsig.com,🎬ai
+      - DOMAIN-SUFFIX,labs.google.com,🎬ai
+      - DOMAIN-SUFFIX,auth0.com,🎬ai
+      - DOMAIN-SUFFIX,chatgpt.com,🎬ai
+      - DOMAIN-SUFFIX,chatgpt.livekit.cloud,🎬ai
+      - DOMAIN-SUFFIX,client-api.arkoselabs.com,🎬ai
+      - DOMAIN-SUFFIX,events.statsigapi.net,🎬ai
+      - DOMAIN-SUFFIX,featuregates.org,🎬ai
+      - DOMAIN-SUFFIX,host.livekit.cloud,🎬ai
+      - DOMAIN-SUFFIX,identrust.com,🎬ai
+      - DOMAIN-SUFFIX,intercom.io,🎬ai
+      - DOMAIN-SUFFIX,intercomcdn.com,🎬ai
+      - DOMAIN-SUFFIX,launchdarkly.com,🎬ai
+      - DOMAIN-SUFFIX,oaistatic.com,🎬ai
+      - DOMAIN-SUFFIX,oaiusercontent.com,🎬ai
+      - DOMAIN-SUFFIX,observeit.net,🎬ai
+      - DOMAIN-SUFFIX,segment.io,🎬ai
+      - DOMAIN-SUFFIX,sentry.io,🎬ai
+      - DOMAIN-SUFFIX,play.google.com,🎬ai
+      - DOMAIN-SUFFIX,stripe.com,🎬ai
+      - DOMAIN-SUFFIX,turn.livekit.cloud,🎬ai
+      - DOMAIN-KEYWORD,openai,🎬ai
+      - DOMAIN-KEYWORD,gemini,🎬ai
+      - DOMAIN-KEYWORD,sora,🎬ai
+      - DOMAIN-KEYWORD,claude,🎬ai
+      - DOMAIN-KEYWORD,tiktok,🎬ai
+      - DOMAIN-KEYWORD,anthropic,🎬ai
+      - DOMAIN-KEYWORD,tccd,🎬ai
+      - DOMAIN-KEYWORD,notebooklm,🎬ai
+      - DOMAIN-KEYWORD,aistudio,🎬ai
+      - DOMAIN-KEYWORD,antigravity,🎬ai
+      - DOMAIN-SUFFIX,oaiusercontent.com,🎬ai
+      - DOMAIN-SUFFIX,deepmind.com,🎬ai
+      - DOMAIN-SUFFIX,bard.google.com,🎬ai
+      - DOMAIN-SUFFIX,generativelanguage.googleapis.com,🎬ai
+      - DOMAIN-SUFFIX,makersuite.google.com,🎬ai
+
       - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
       - GEOIP,CN,DIRECT
+
       - MATCH,DIRECT
     ```
     * Then, right click on the "Clash_HK.yaml" profile and modify the "Update Interval" to a very very very large number. Otherwise, the rules will be overwritten during automatic updates.
     <figure><img src="../.gitbook/assets/research/clash/update_interval.png" alt=""><figcaption></figcaption></figure>
 * As such, in Hong Kong, you can keep the proxy on the moment you start your PC. Only network traffics related to those domains listed in the rules will be routed through the proxy, while all other traffics will use your own network directly.
-* You can freely adjust the node you like in the "🎬ChatGPT" section.
+* You can freely adjust the node you like in the "🎬ai" section.
 * In Hong Kong, you can choose the "Clash_HK.yaml" profile, while in China, you can switch to the "Clash_CN.yaml" profile to enjoy unrestricted internet access.
 * Finally, change the system settings to make Clash Verge start automatically when your computer boots up:
 <figure><img src="../.gitbook/assets/research/clash/system_setting.png" alt=""><figcaption></figcaption></figure>
