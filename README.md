@@ -40,7 +40,7 @@ This survival guidance will be continuously updated.
         <li><a href="research/notion.md">Notion</a></li>
         <li><a href="research/microsoft-to-do.md">Microsoft To Do</a></li>
         <li><a href="research/clash-verge.md">Clash Verge</a></li>
-        <li><a href="research/vs-code.md">VS Code</a></li>
+        <li><a href="research/vs-code.md">VS Code & GitHub Copilot</a></li>
         <li><a href="research/llms/">LLMs</a></li>
         <li><a href="research/browser-extensions/">Browser Extensions</a></li>
         <li><a href="research/useful-online-tools/">Useful Online Tools</a></li>

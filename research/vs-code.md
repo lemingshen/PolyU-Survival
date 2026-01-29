@@ -16,7 +16,7 @@ layout:
     visible: true
 ---
 
-# VS Code
+# VS Code & GitHub Copilot
 
 <figure><img src="../.gitbook/assets/research/vscode/teaser.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,6 +45,17 @@ VS Code also supports executing additional code segments during debugging. Let's
 <figure><img src="../.gitbook/assets/research/vscode/result.png" alt=""><figcaption></figcaption></figure>
 
 * This functionality is extremely useful in debugging when you need to print out or verify some intermediate results.
+
+## Connect to Remote Servers
+VS Code also supports coding and debugging on remote servers through SSH. Below are the steps to set up:
+1. Configure your server and ensure the port 22 is open for SSH.
+2. Open VS Code, click the button at the bottom left corner, and select "Connect Current Window to Host ..." in the popped window.
+<figure><img src="../.gitbook/assets/research/vscode/connect_server.png" alt=""><figcaption></figcaption></figure>
+
+3. Then, enter the SSH command and enter the password.
+<figure><img src="../.gitbook/assets/research/vscode/server_login.png" alt=""><figcaption></figcaption></figure>
+
+4. If everything is correct, your VS Code is now connected to the server and you can open any folder in the server. You can freely coding and debugging as the same on your PC.
 
 ## Useful Extensions
 VS Code is great out of the box, but extensions make it perfect. Click the Extensions icon on the left sidebar.
