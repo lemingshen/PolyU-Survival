@@ -64,7 +64,7 @@ layout:
     * Scroll down and find the "rules:" section.
     <figure><img src="../.gitbook/assets/research/clash/replace_rules.png" alt=""><figcaption></figcaption></figure>
 
-    * Replace all the existing rules with the following rules (dynamically updated):
+    * Replace all the existing rules with the following rules (last update: Jan 29, 2026):
     
     ```
     rules:
