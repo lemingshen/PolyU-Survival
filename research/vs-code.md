@@ -53,9 +53,12 @@ VS Code also supports coding and debugging on remote servers through SSH. Below 
 <figure><img src="../.gitbook/assets/research/vscode/connect_server.png" alt=""><figcaption></figcaption></figure>
 
 3. Then, enter the SSH command and enter the password.
+```bash
+ssh <user_name>@<host_ip>
+```
 <figure><img src="../.gitbook/assets/research/vscode/server_login.png" alt=""><figcaption></figcaption></figure>
 
-4. If everything is correct, your VS Code is now connected to the server and you can open any folder in the server. You can freely coding and debugging as the same on your PC.
+1. If everything is correct, your VS Code is now connected to the server and you can open any folder in the server. You can freely coding and debugging as the same on your PC.
 
 ## Useful Extensions
 VS Code is great out of the box, but extensions make it perfect. Click the Extensions icon on the left sidebar.
