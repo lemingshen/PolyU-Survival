@@ -133,6 +133,12 @@ layout:
 <figure><img src="../.gitbook/assets/research/clash/uwp.png" alt=""><figcaption></figcaption></figure>
 <figure><img src="../.gitbook/assets/research/clash/uwp_exempt.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+# Important
+
+If you may use OpenAI or other AI tools in Windows Terminal, you MUST NOT exempt it. For example,
+<figure><img src="../.gitbook/assets/research/clash/no_exempt.png" alt=""><figcaption></figcaption></figure>
+{% endhint %}
 
 ## 6. Setup on Mobile Devices
 
