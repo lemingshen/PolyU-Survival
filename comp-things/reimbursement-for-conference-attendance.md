@@ -86,7 +86,7 @@ You can select an expensive airline for reimbursement application. In addition, 
 {% endhint %}
 
 {% hint style="warning" %}
-If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use [this table](https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf) for real-time exchange rate when you fill the form.
+If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use [this table](https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2026.pdf) for real-time exchange rate when you fill the form.
 {% endhint %}      
 {% endstep %}
 
@@ -133,6 +133,6 @@ Keep the **hard copies** of all the original receipts and invoices, including re
 * After filling the reimbursement form, please print all the materials (including the approved GSB form) and physically submit to FO office (11-th floor in Block M) as well as sending an email following the reimbursement form.
 
 {% hint style="warning" %}
-Make sure that only HKD is used in the reimbursement form. If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use [this table](https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2025.pdf) for real-time exchange rate when you fill the form. Make sure that the city printed on the meal receipts are the same as the city where the conference is held.
+Make sure that only HKD is used in the reimbursement form. If you have receipts in foreign currency, please convert them to HKD using the exchange rate on the date of the transaction. You **MUST** use [this table](https://www.polyu.edu.hk/fo/docdrive/Students/Claim/ExchangeRate_Student_2026.pdf) for real-time exchange rate when you fill the form. Make sure that the city printed on the meal receipts are the same as the city where the conference is held.
 {% endhint %}
   
