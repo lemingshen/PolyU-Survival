@@ -117,7 +117,7 @@ layout:
       - DOMAIN-SUFFIX,makersuite.google.com,🎬ai
       - DOMAIN-SUFFIX,geminicli.com,🎬ai
       - DOMAIN-KEYWORD,crixet,🎬ai
-      - DOMAIN-KEYWORD,prisim,🎬ai
+      - DOMAIN-KEYWORD,prism,🎬ai
 
       - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
       - GEOIP,CN,DIRECT
