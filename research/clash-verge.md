@@ -64,7 +64,7 @@ layout:
     * Scroll down and find the "rules:" section.
     <figure><img src="../.gitbook/assets/research/clash/replace_rules.png" alt=""><figcaption></figcaption></figure>
 
-    * Replace all the existing rules with the following rules (last update: Jan 31, 2026):
+    * Replace all the existing rules with the following rules (last update: Feb 4, 2026):
     
     ```
     rules:
@@ -116,6 +116,8 @@ layout:
       - DOMAIN-SUFFIX,generativelanguage.googleapis.com,🎬ai
       - DOMAIN-SUFFIX,makersuite.google.com,🎬ai
       - DOMAIN-SUFFIX,geminicli.com,🎬ai
+      - DOMAIN-KEYWORD,crixet,🎬ai
+      - DOMAIN-KEYWORD,prisim,🎬ai
 
       - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
       - GEOIP,CN,DIRECT
