@@ -25,7 +25,7 @@ In some scenarios (_e.g._, Google Voice, Gemini in Chrome), the services demand 
 
 You will see your associated region.
 
-<figure><img src="../../.gitbook/assets/research/llms/google/associated_region.png  " alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/research/llms/google/associated_region.png" alt=""><figcaption></figcaption></figure>
 
 2. Select a target region you want to change to (tax-free states are recommended).
 3. For the reason, select "Other reason" and type in **<mark style="color:yellow;">\<Chinese></mark>**. For example,
