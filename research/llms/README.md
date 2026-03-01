@@ -31,6 +31,10 @@ This collection of documentation will provide how to use LLMs (taking ChatGPT as
 [us-region-google-play-account.md](us-region-google-play-account.md)
 {% endcontent-ref %}
 
+{% content-ref url="us-region-google-play-account.md" %}
+[associated-region-google-account.md](associated-region-google-account)
+{% endcontent-ref %}
+
 {% content-ref url="apply-for-a-switzerland-card.md" %}
 [apply-for-a-switzerland-card.md](apply-for-a-switzerland-card.md)
 {% endcontent-ref %}
@@ -42,7 +46,6 @@ This collection of documentation will provide how to use LLMs (taking ChatGPT as
 {% content-ref url="upgrade-to-chatgpt-plus.md" %}
 [upgrade-to-chatgpt-plus.md](upgrade-to-chatgpt-plus.md)
 {% endcontent-ref %}
-
 
 <figure><img src="../../.gitbook/assets/research/llms/chatgpt.jpg" alt=""><figcaption></figcaption></figure>
 <figure><img src="../../.gitbook/assets/research/llms/gemini.png" alt=""><figcaption></figcaption></figure>
