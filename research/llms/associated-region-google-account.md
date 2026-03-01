@@ -1,5 +1,5 @@
 ---
-icon: google-play
+icon: google
 layout:
   width: default
   title:
