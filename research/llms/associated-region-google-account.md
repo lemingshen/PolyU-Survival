@@ -21,7 +21,8 @@ layout:
 In some scenarios (_e.g._, Google Voice, Gemini in Chrome), the services demand a strict region restriction to the USA. However, most of our Google accounts are created outside the USA and the account's associated region is also not USA. Therefore, we need to change the assocated region of our Google accounts. This blog provides a step by step guidance.
 
 1. First, check your current associated region by vising the following website.
-   {% embed url="https://policies.google.com/country-association-form" %}
+
+{% embed url="https://policies.google.com/country-association-form" %}
 
 You will see your associated region.
 
