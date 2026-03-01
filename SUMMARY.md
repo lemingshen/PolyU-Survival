@@ -15,7 +15,7 @@
   - [Upgrade to ChatGPT Plus](research/llms/upgrade-to-chatgpt-plus.md)
   - [Apply for a Switzerland Card](research/llms/apply-for-a-switzerland-card.md)
   - [US-Region Google Play Account](research/llms/us-region-google-play-account.md)
-  - [US-Region Associated Google Account](research/llms/uassociated-region-google-account.md)
+  - [US-Region Associated Google Account](research/llms/associated-region-google-account.md)
   - [US-Region Apple Account](research/llms/us-region-apple-account.md)
 - [Browser Extensions](research/browser-extensions/README.md)
   - [Page 1](research/browser-extensions/page-1.md)
