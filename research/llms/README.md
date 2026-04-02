@@ -32,7 +32,7 @@ This collection of documentation will provide how to use LLMs (taking ChatGPT as
 {% endcontent-ref %}
 
 {% content-ref url="us-region-google-play-account.md" %}
-[associated-region-google-account.md](associated-region-google-account)
+[associated-region-google-account.md](associated-region-google-account.md)
 {% endcontent-ref %}
 
 {% content-ref url="apply-for-a-switzerland-card.md" %}
