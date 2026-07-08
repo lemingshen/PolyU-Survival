@@ -43,8 +43,7 @@ This survival guidance will be continuously updated.
         <li><a href="research/vs-code.md">VS Code & GitHub Copilot</a></li>
         <li><a href="research/llms/">LLMs</a></li>
         <li><a href="research/browser-extensions/">Browser Extensions</a></li>
-        <li><a href="research/useful-online-tools/">Useful Online Tools</a></li>
-        <li><a href="research/other-productivity-tools/">Other Productivity Tools</a></li>
+        <li><a href="research/useful-productivity-tools">Useful Productivity Tools</a></li>
       </ul></td>
       <td><a href="https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4">https://1050631731-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FNkEGS7hzeqa35sMXQZ4X%2Fuploads%2FNvO7UtbHpAKybB46Gm14%2Fenterprise.svg?alt=media&#x26;token=6ac9d95c-4617-49cf-8667-1de65e595de4</a></td>
     </tr>

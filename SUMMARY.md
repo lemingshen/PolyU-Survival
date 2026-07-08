@@ -27,7 +27,12 @@
   - [HARPA AI](research/browser-extensions/harpaai.md)
   - [Immersive-translate](research/browser-extensions/immersive-translate.md)
   - [Zotero Connector](research/browser-extensions/zotero-connector.md)
-- [Useful Productivity Tools](research/useful-productivity-tools.md)
+- [Useful Productivity Tools](research/useful-productivity-tools/README.md)
+  - [For Paper Writing](research/useful-productivity-tools/writing.md)
+  - [For Format Conversion](research/useful-productivity-tools/conversion.md)
+  - [For Document Editing](research/useful-productivity-tools/document.md)
+  - [For Media-related Tasks](research/useful-productivity-tools/media.md)
+
 
 ## COMP Things
 
