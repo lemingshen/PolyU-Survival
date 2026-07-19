@@ -47,7 +47,7 @@
 - [TA](coursework/ta.md)
 - [PolyU Blackboard](coursework/polyu-blackboard.md)
 
-## Campus Life
+## Life in Hong Kong
 
 - [Campus Map](campus-life/campus-map.md)
 - [Diets](campus-life/diets.md)
