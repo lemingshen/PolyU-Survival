@@ -20,7 +20,7 @@ layout:
 
 Hong Kong, a vibrant city where East meets West, offers a plethora of attractions for every traveler. From stunning natural landscapes and iconic skylines to rich cultural heritage and world-class theme parks, there's always something to explore. This guide will help you discover the best of what Hong Kong has to offer.
 
-{% embed url="https://www.discoverhongkong.com/eng/index.html" %}
+{% embed url="https://www.discoverhongkong.com/tc/index.html" %}
 
 ## Iconic Landmarks
 
@@ -78,7 +78,7 @@ For a day of fun and excitement, visit one of Hong Kong's world-class theme park
 <figure><img src="../.gitbook/assets/life/tourism/disney.jpg" alt=""><figcaption></figcaption></figure>
 
 *   **Ocean Park Hong Kong（香港海洋公園）**: A marine-life theme park featuring animal exhibits, thrilling rides, and entertaining shows. It's a perfect destination for families and animal lovers.
-{% embed url="https://www.oceanpark.com.hk/en" %}
+{% embed url="https://www.oceanpark.com.hk/tc" %}
 <figure><img src="../.gitbook/assets/life/tourism/ocean.webp" alt=""><figcaption></figcaption></figure>
 
 ## Shopping & Entertainment Districts

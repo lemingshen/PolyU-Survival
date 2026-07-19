@@ -32,7 +32,7 @@ For groceries and daily household items, these are the most common supermarket c
 <figure><img src="../.gitbook/assets/life/shopping/wellcome.jpg" alt=""><figcaption></figcaption></figure>
 
 *   **ParknShop (百佳)**: The other major supermarket chain, often located near Wellcome. They also have sub-brands like **Fusion**, **Taste**, and **International** which cater to different market segments.
-{% embed url="https://www.parknshop.com/" %}
+{% embed url="https://www.pns.hk/zh-hk/" %}
 <figure><img src="../.gitbook/assets/life/shopping/parknshop.jpg" alt=""><figcaption></figcaption></figure>
 
 *   **Market Place**: A more upscale supermarket brand under the same group as Wellcome, offering a wider selection of imported goods.
@@ -47,7 +47,7 @@ For groceries and daily household items, these are the most common supermarket c
 Whether you need a new laptop, phone, or any other gadget, these are your go-to places.
 
 *   **Fortress (豐澤)**: A major electronics retail chain with stores across Hong Kong, offering a wide range of products from computers to home appliances.
-{% embed url="https://www.fortress.com.hk/" %}
+{% embed url="https://www.fortress.com.hk/zh-hk/" %}
 <figure><img src="../.gitbook/assets/life/shopping/fortress.jpg" alt=""><figcaption></figcaption></figure>
 
 *   **Broadway (百老匯)**: Another leading electronics chain, similar to Fortress, where you can find all major brands of electronics.
