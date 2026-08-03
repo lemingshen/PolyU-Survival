@@ -67,60 +67,25 @@ layout:
 
   ```
   rules:
-    - DOMAIN-SUFFIX,smtp,DIRECT
-    - DOMAIN-KEYWORD,aria2,DIRECT
-
-    - DOMAIN,browser-intake-datadoghq.com,🎬ai
-    - DOMAIN,static.cloudflareinsights.com,🎬ai
-    - DOMAIN-SUFFIX,ai.com,🎬ai
-    - DOMAIN-SUFFIX,t-mobile.com,🎬ai
-    - DOMAIN-SUFFIX,aistudio.google.com,🎬ai
-    - DOMAIN-SUFFIX,ai.google.dev,🎬ai
-    - DOMAIN-SUFFIX,algolia.net,🎬ai
-    - DOMAIN-SUFFIX,meta.ai,🎬ai
-    - DOMAIN-SUFFIX,api.statsig.com,🎬ai
-    - DOMAIN-SUFFIX,labs.google.com,🎬ai
-    - DOMAIN-SUFFIX,auth0.com,🎬ai
-    - DOMAIN-SUFFIX,chatgpt.com,🎬ai
-    - DOMAIN-SUFFIX,chatgpt.livekit.cloud,🎬ai
-    - DOMAIN-SUFFIX,client-api.arkoselabs.com,🎬ai
-    - DOMAIN-SUFFIX,events.statsigapi.net,🎬ai
-    - DOMAIN-SUFFIX,featuregates.org,🎬ai
-    - DOMAIN-SUFFIX,host.livekit.cloud,🎬ai
-    - DOMAIN-SUFFIX,identrust.com,🎬ai
-    - DOMAIN-SUFFIX,intercom.io,🎬ai
-    - DOMAIN-SUFFIX,intercomcdn.com,🎬ai
-    - DOMAIN-SUFFIX,launchdarkly.com,🎬ai
-    - DOMAIN-SUFFIX,oaistatic.com,🎬ai
-    - DOMAIN-SUFFIX,oaiusercontent.com,🎬ai
-    - DOMAIN-SUFFIX,observeit.net,🎬ai
-    - DOMAIN-SUFFIX,segment.io,🎬ai
-    - DOMAIN-SUFFIX,sentry.io,🎬ai
-    - DOMAIN-SUFFIX,play.google.com,🎬ai
-    - DOMAIN-SUFFIX,stripe.com,🎬ai
-    - DOMAIN-SUFFIX,turn.livekit.cloud,🎬ai
-    - DOMAIN-KEYWORD,openai,🎬ai
-    - DOMAIN-KEYWORD,sora,🎬ai
-    - DOMAIN-KEYWORD,claude,🎬ai
-    - DOMAIN-KEYWORD,tiktok,🎬ai
-    - DOMAIN-KEYWORD,anthropic,🎬ai
-    - DOMAIN-KEYWORD,tccd,🎬ai
-    - DOMAIN-KEYWORD,notebooklm,🎬ai
-    - DOMAIN-KEYWORD,aistudio,🎬ai
-    - DOMAIN-KEYWORD,antigravity,🎬ai
-    - DOMAIN-SUFFIX,oaiusercontent.com,🎬ai
-    - DOMAIN-SUFFIX,deepmind.com,🎬ai
-    - DOMAIN-SUFFIX,bard.google.com,🎬ai
-    - DOMAIN-SUFFIX,generativelanguage.googleapis.com,🎬ai
-    - DOMAIN-SUFFIX,makersuite.google.com,🎬ai
-    - DOMAIN-SUFFIX,geminicli.com,🎬ai
-    - DOMAIN-KEYWORD,crixet,🎬ai
-    - DOMAIN-KEYWORD,prism,🎬ai
-
-    - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
-    - GEOIP,CN,DIRECT
-
-    - MATCH,DIRECT
+    - 'DOMAIN,sub-2025.gwshudong.lol,DIRECT'
+    - 'RULE-SET,Local-LAN,DIRECT'
+    - 'RULE-SET,SteamCN,DIRECT'
+    - 'DOMAIN-SUFFIX,cm.steampowered.com,DIRECT'
+    - 'DOMAIN-SUFFIX,steamserver.net,DIRECT'
+    - 'DOMAIN-SUFFIX,steamcontent.com,DIRECT'
+    - 'DOMAIN-SUFFIX,v.smtcdns.net,DIRECT'
+    - 'DOMAIN-SUFFIX,snssdk.com,DIRECT'
+    - 'DOMAIN-SUFFIX,playstation.net,DIRECT'
+    - 'DOMAIN-SUFFIX,cnlang.org,DIRECT'
+    - 'DOMAIN-SUFFIX,atlassian.com,DIRECT'
+    - 'DOMAIN-SUFFIX,download.parallels.com,DIRECT'
+    - 'RULE-SET,OpenAI,Ai+'
+    - 'RULE-SET,Claude,Ai+'
+    - 'RULE-SET,Domestic,DIRECT'
+    - 'RULE-SET,CN-IP-ipcidr,DIRECT'
+    - 'GEOIP,LAN,DIRECT'
+    - 'GEOIP,CN,DIRECT'
+    - 'MATCH,DIRECT'
   ```
 
   - Then, right click on the "Clash_HK.yaml" profile and modify the "Update Interval" to a very very very large number. Otherwise, the rules will be overwritten during automatic updates.
