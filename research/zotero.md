@@ -106,3 +106,4 @@ Make sure the Zotero App is open when you use the browser extension.
 
 * [Translate for Zotero](https://github.com/windingwind/zotero-pdf-translate#readme) allows you to translate the selected text in real-time. It supports multiple translation engines, including Google Translate, DeepL, and Youdao. You can choose the one that suits you best in the plugin settings.
 * [Better Notes for Zotero](https://github.com/windingwind/zotero-better-notes#readme) enhances the note-taking functionality of Zotero. It provides a markdown editor with syntax highlighting, which makes it easier to take and organize notes.
+* [Beaver](https://www.beaverapp.ai/) is an AI-powered assistant that turns your entire Zotero library into a searchable knowledge base, allowing you to chat directly with your documents (via LLMs), seamlessly organize your references, and automate your research workflows.
