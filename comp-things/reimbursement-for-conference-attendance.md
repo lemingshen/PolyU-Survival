@@ -128,7 +128,7 @@ Keep the **hard copies** of all the original receipts and invoices, including re
 ## 7. Fill the Reimbursement Form and Submit it to FO with Receipts (After the Conference)
 
 * After you return from the conference, you can fill the Reimbursement form (Example):
-  {% file src="../.gitbook/assets/comp/Reimbursement.xlsx" %}
+{% file src="../.gitbook/assets/comp/Reimbursement.xlsx" %}
 
 * After filling the reimbursement form, please print all the materials (including the approved GSB form) and physically submit to FO office (11-th floor in Block M) as well as sending an email following the reimbursement form.
 
