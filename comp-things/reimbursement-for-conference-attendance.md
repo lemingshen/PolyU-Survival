@@ -35,15 +35,15 @@ Before you start, please make sure you have the following materials ready in **P
   <figure><img src="../.gitbook/assets/comp/notification_email.png" alt=""><figcaption></figcaption></figure>
 
 * Itinerary of your planned trip, including departure and return dates. Example:
-  {% file src="../.gitbook/assets/comp/itinerary.pdf" %}
+{% file src="../.gitbook/assets/comp/itinerary.pdf" %}
 
 * Registration fee information (*e.g.*, [MobiCom 2025 Registration](https://www.sigmobile.org/mobicom/2025/registration.html)).
 * Other relevant documents
   * VISA application fee, plane tickets, and accommodation information (estimated). 
-  {% file src="../.gitbook/assets/comp/Plane Accommodation VISA.pdf" %}
+{% file src="../.gitbook/assets/comp/Plane Accommodation VISA.pdf" %}
 
   * MRS Form (if applicable). **Make sure that the highlighted part is filled**
-  {% file src="../.gitbook/assets/comp/MRS Form (Non-purchase).docx" %}
+{% file src="../.gitbook/assets/comp/MRS Form (Non-purchase).docx" %}
 
 {% hint style="info" %}
 Make sure that all Supplementary documents are in **PDF format**. For estimated plane tickets and accommodation information, I suggest pick an expensive one to avoid under-budgeting, as the reimbursement will be based on the actual expense you incur during the trip but will not exceed what you claimed.
