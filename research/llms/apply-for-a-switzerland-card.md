@@ -20,6 +20,10 @@ layout:
 
 To enable unobstructed and fluent global payment, HK credit cards are not sufficient. Therefore, if you are interested, I strongly recommend you to open up an Switzerland Card online. [SafePal](https://safepal.com/zh-cn/bank) began as a non-custodial cryptocurrency wallet (software + hardware + wallet-app) that lets users securely store, send, and receive many kinds of cryptocurrencies and NFTs across multiple blockchains. Through a collaboration with a regulated bank (Fiat24), users can open a compliant bank account (with real account details / IBAN) directly from the SafePal App.
 
+{% hint style="danger" %}
+# The Fiat24 bank is being censored now. Please ignore this page until further notification. I will update the information as soon as possible. Thank you for your understanding.
+{% endhint %}
+
 The Fiat24 bank is 100% safe and real. The address of the bank is:
 {% embed url="https://maps.app.goo.gl/FS5NHLPG4xvRVtTa7" %}
 
