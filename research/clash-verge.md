@@ -60,31 +60,48 @@ layout:
 
   - Then, re-import the same configuration URL again and rename it to "Clash_HK.yaml".
   - Next, right click on "Clash_HK.yaml" and select "Edit File".
-  - Scroll down and find the "rules:" section.
-  <figure><img src="../.gitbook/assets/research/clash/replace_rules.png" alt=""><figcaption></figcaption></figure>
+  - Scroll down and find the `proxy-groups` section.
+  <figure><img src="../.gitbook/assets/research/clash/proxy_group.png" alt=""><figcaption></figcaption></figure>
 
-  - Replace all the existing rules with the following rules (last update: Feb 4, 2026):
+  - Replace all the following part with the following content (last update: Sept 1, 2026):
 
   ```
-  rules:
-    - 'DOMAIN,sub-2025.gwshudong.lol,DIRECT'
+  proxy-groups:
+    - { name: Ai+, icon: 'https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/ChatGPT.png', type: select, proxies: [手动选择, 自动选择, 'Expire: 2026-11-30', 'Traffic: 1.83TB | 2.39TB', 'Sync: 2026-09-01 08:39:00', '🇺🇳 官网 helloshudong.com|v202605', '🇩🇪 德国-BGP-01【优化】', '🇩🇪 德国-BGP-02【优化】', '🇺🇸 美国-BGP-05【优化】', '🇺🇸 美国-BGP-06【优化】', '🇺🇸 美国-BGP-07【优化】', '🇺🇸 美国-BGP-08【优化】', '🇺🇸 美国-BGP-09【优化】', '🇺🇸 美国-BGP-03【优化】', '🇺🇸 美国-BGP-04【优化】', '🇺🇸 美国-BGP-01【优化】', '🇺🇸 美国-BGP-02【优化】', '🇭🇰 Pro-香港-BGP-04|v202605', '🇭🇰 Pro-香港-BGP-05|v202605', '🇭🇰 Pro-香港-BGP-06|v202605', '🇭🇰 Pro-香港-BGP-07|v202605', '🇭🇰 Pro-香港-BGP-08|v202605', '🇭🇰 Pro-香港-BGP-09|v202605', '🇭🇰 Pro-香港-BGP-10|v202605', '🇭🇰 Pro-香港-BGP-11|v202605', '🇭🇰 Pro-香港-BGP-SSR-01|v202605', '🇭🇰 Pro-香港-BGP-SSR-02|v202605', '🇭🇰 Pro-香港-BGP-SSR-03|v202605', '🇭🇰 Pro-香港-家庭宽带-01|v202605', '🇭🇰 Pro-香港-家庭宽带-02|v202605', '🇭🇰 Pro-香港-家庭宽带-04|v202605', '🇯🇵 Pro-日本-BGP-01|v202605', '🇯🇵 Pro-日本-BGP-02|v202605', '🇯🇵 Pro-日本-BGP-03|v202605', '🇯🇵 Pro-日本-BGP-04|v202605', '🇯🇵 Pro-日本-BGP-05|v202605', '🇯🇵 Pro-日本-BGP-06|v202605', '🇸🇬 Pro-新加坡-BGP-01|v202605', '🇸🇬 Pro-新加坡-BGP-02|v202605', '🇸🇬 Pro-新加坡-BGP-03|v202605', '🇸🇬 Pro-新加坡-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-01|v202605', '🇺🇸 Pro-美国-BGP-02|v202605', '🇺🇸 Pro-美国-BGP-03|v202605', '🇺🇸 Pro-美国-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-05|v202605', '🇺🇸 Pro-美国-家宽-01(5倍率）|v202605', '🇹🇼 Pro-台湾-BGP-01|v202605', '🇹🇼 Pro-台湾-BGP-02|v202605', '🇹🇼 Pro-台湾-BGP-03|v202605', '🇹🇼 Pro-台湾-家庭宽带-01|v202605', '🇰🇷 Pro-韩国-01|v202605', '🇰🇷 Pro-韩国-02|v202605', '🇰🇷 Pro-韩国-03|v202605', '🇲🇾 马来西亚-Pro-01|v202605', '🇲🇾 马来西亚-Pro-02|v202605', '🇹🇭 泰国-Pro-01|v202605', '🇻🇳 越南-Pro-01|v202605', '🇮🇳 印度-Pro-01|v202605', '🇵🇰 巴基斯坦-Pro-01|v202605', '🇦🇪 迪拜-Pro-01|v202605', '🇹🇷 土耳其-Pro-01|v202605', '🇬🇧 英国-Pro-01|v202605', '🇩🇪 德国-Pro-01|v202605', '🇫🇷 法国-Pro-01|v202605', '🇮🇹 意大利-Pro-01|v202605', '🇨🇭 瑞士-Pro-01|v202605', '🇨🇦 加拿大-Pro-01|v202605', '🇧🇷 巴西-Pro-01|v202605', '🇦🇺 澳大利亚-Pro-01|v202605', '🇭🇰 Basic-香港-BGP-01|v202605', '🇭🇰 Basic-香港-BGP-02|v202605', '🇭🇰 Basic-香港-BGP-03|v202605', '🇭🇰 Basic-香港-BGP-04|v202605', '🇭🇰 Basic-香港-BGP-05|v202605', '🇭🇰 Basic-香港-BGP-06|v202605', '🇭🇰 Basic-香港-BGP-07|v202605', '🇭🇰 Basic-香港-BGP-08|v202605', '🇭🇰 Basic-香港-BGP-09|v202605', '🇭🇰 Basic-香港-BGP-SSR-01|v202605', '🇭🇰 Basic-香港-BGP-SSR-02|v202605', '🇭🇰 Basic-香港-BGP-SSR-03|v202605', '🇭🇰 Basic-香港-家庭宽带-01|v202605', '🇭🇰 Basic-香港-家庭宽带-02|v202605', '🇭🇰 Basic-香港-家庭宽带-03|v202605', '🇯🇵 Basic-日本-BGP-01|v202605', '🇯🇵 Basic-日本-BGP-02|v202605', '🇸🇬 Basic-新加坡-BGP-01|v202605', '🇸🇬 Basic-新加坡-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-01|v202605', '🇺🇸 Basic-美国-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-03|v202605', '🇺🇸 Basic-美国-BGP-04|v202605', '🇺🇸 Basic-美国-BGP-05|v202605', '🇺🇸 Basic-美国-BGP-06|v202605', '🇺🇸 Basic-美国-BGP-07|v202605', '🇹🇼 Basic-台湾-BGP-01|v202605', '🇹🇼 Basic-台湾-家庭宽带-01|v202605', '🇫🇮 Basic-芬兰-BGP-01|v202605'] }
+    - { name: 手动选择, icon: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Proxy.png', type: select, proxies: [自动选择, 'Expire: 2026-11-30', 'Traffic: 1.83TB | 2.39TB', 'Sync: 2026-09-01 08:39:00', '🇺🇳 官网 helloshudong.com|v202605', '🇩🇪 德国-BGP-01【优化】', '🇩🇪 德国-BGP-02【优化】', '🇺🇸 美国-BGP-05【优化】', '🇺🇸 美国-BGP-06【优化】', '🇺🇸 美国-BGP-07【优化】', '🇺🇸 美国-BGP-08【优化】', '🇺🇸 美国-BGP-09【优化】', '🇺🇸 美国-BGP-03【优化】', '🇺🇸 美国-BGP-04【优化】', '🇺🇸 美国-BGP-01【优化】', '🇺🇸 美国-BGP-02【优化】', '🇭🇰 Pro-香港-BGP-04|v202605', '🇭🇰 Pro-香港-BGP-05|v202605', '🇭🇰 Pro-香港-BGP-06|v202605', '🇭🇰 Pro-香港-BGP-07|v202605', '🇭🇰 Pro-香港-BGP-08|v202605', '🇭🇰 Pro-香港-BGP-09|v202605', '🇭🇰 Pro-香港-BGP-10|v202605', '🇭🇰 Pro-香港-BGP-11|v202605', '🇭🇰 Pro-香港-BGP-SSR-01|v202605', '🇭🇰 Pro-香港-BGP-SSR-02|v202605', '🇭🇰 Pro-香港-BGP-SSR-03|v202605', '🇭🇰 Pro-香港-家庭宽带-01|v202605', '🇭🇰 Pro-香港-家庭宽带-02|v202605', '🇭🇰 Pro-香港-家庭宽带-04|v202605', '🇯🇵 Pro-日本-BGP-01|v202605', '🇯🇵 Pro-日本-BGP-02|v202605', '🇯🇵 Pro-日本-BGP-03|v202605', '🇯🇵 Pro-日本-BGP-04|v202605', '🇯🇵 Pro-日本-BGP-05|v202605', '🇯🇵 Pro-日本-BGP-06|v202605', '🇸🇬 Pro-新加坡-BGP-01|v202605', '🇸🇬 Pro-新加坡-BGP-02|v202605', '🇸🇬 Pro-新加坡-BGP-03|v202605', '🇸🇬 Pro-新加坡-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-01|v202605', '🇺🇸 Pro-美国-BGP-02|v202605', '🇺🇸 Pro-美国-BGP-03|v202605', '🇺🇸 Pro-美国-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-05|v202605', '🇺🇸 Pro-美国-家宽-01(5倍率）|v202605', '🇹🇼 Pro-台湾-BGP-01|v202605', '🇹🇼 Pro-台湾-BGP-02|v202605', '🇹🇼 Pro-台湾-BGP-03|v202605', '🇹🇼 Pro-台湾-家庭宽带-01|v202605', '🇰🇷 Pro-韩国-01|v202605', '🇰🇷 Pro-韩国-02|v202605', '🇰🇷 Pro-韩国-03|v202605', '🇲🇾 马来西亚-Pro-01|v202605', '🇲🇾 马来西亚-Pro-02|v202605', '🇹🇭 泰国-Pro-01|v202605', '🇻🇳 越南-Pro-01|v202605', '🇮🇳 印度-Pro-01|v202605', '🇵🇰 巴基斯坦-Pro-01|v202605', '🇦🇪 迪拜-Pro-01|v202605', '🇹🇷 土耳其-Pro-01|v202605', '🇬🇧 英国-Pro-01|v202605', '🇩🇪 德国-Pro-01|v202605', '🇫🇷 法国-Pro-01|v202605', '🇮🇹 意大利-Pro-01|v202605', '🇨🇭 瑞士-Pro-01|v202605', '🇨🇦 加拿大-Pro-01|v202605', '🇧🇷 巴西-Pro-01|v202605', '🇦🇺 澳大利亚-Pro-01|v202605', '🇭🇰 Basic-香港-BGP-01|v202605', '🇭🇰 Basic-香港-BGP-02|v202605', '🇭🇰 Basic-香港-BGP-03|v202605', '🇭🇰 Basic-香港-BGP-04|v202605', '🇭🇰 Basic-香港-BGP-05|v202605', '🇭🇰 Basic-香港-BGP-06|v202605', '🇭🇰 Basic-香港-BGP-07|v202605', '🇭🇰 Basic-香港-BGP-08|v202605', '🇭🇰 Basic-香港-BGP-09|v202605', '🇭🇰 Basic-香港-BGP-SSR-01|v202605', '🇭🇰 Basic-香港-BGP-SSR-02|v202605', '🇭🇰 Basic-香港-BGP-SSR-03|v202605', '🇭🇰 Basic-香港-家庭宽带-01|v202605', '🇭🇰 Basic-香港-家庭宽带-02|v202605', '🇭🇰 Basic-香港-家庭宽带-03|v202605', '🇯🇵 Basic-日本-BGP-01|v202605', '🇯🇵 Basic-日本-BGP-02|v202605', '🇸🇬 Basic-新加坡-BGP-01|v202605', '🇸🇬 Basic-新加坡-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-01|v202605', '🇺🇸 Basic-美国-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-03|v202605', '🇺🇸 Basic-美国-BGP-04|v202605', '🇺🇸 Basic-美国-BGP-05|v202605', '🇺🇸 Basic-美国-BGP-06|v202605', '🇺🇸 Basic-美国-BGP-07|v202605', '🇹🇼 Basic-台湾-BGP-01|v202605', '🇹🇼 Basic-台湾-家庭宽带-01|v202605', '🇫🇮 Basic-芬兰-BGP-01|v202605'] }
+    - { name: 自动选择, icon: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Auto.png', type: url-test, proxies: ['Expire: 2026-11-30', 'Traffic: 1.83TB | 2.39TB', 'Sync: 2026-09-01 08:39:00', '🇺🇳 官网 helloshudong.com|v202605', '🇩🇪 德国-BGP-01【优化】', '🇩🇪 德国-BGP-02【优化】', '🇺🇸 美国-BGP-05【优化】', '🇺🇸 美国-BGP-06【优化】', '🇺🇸 美国-BGP-07【优化】', '🇺🇸 美国-BGP-08【优化】', '🇺🇸 美国-BGP-09【优化】', '🇺🇸 美国-BGP-03【优化】', '🇺🇸 美国-BGP-04【优化】', '🇺🇸 美国-BGP-01【优化】', '🇺🇸 美国-BGP-02【优化】', '🇭🇰 Pro-香港-BGP-04|v202605', '🇭🇰 Pro-香港-BGP-05|v202605', '🇭🇰 Pro-香港-BGP-06|v202605', '🇭🇰 Pro-香港-BGP-07|v202605', '🇭🇰 Pro-香港-BGP-08|v202605', '🇭🇰 Pro-香港-BGP-09|v202605', '🇭🇰 Pro-香港-BGP-10|v202605', '🇭🇰 Pro-香港-BGP-11|v202605', '🇭🇰 Pro-香港-BGP-SSR-01|v202605', '🇭🇰 Pro-香港-BGP-SSR-02|v202605', '🇭🇰 Pro-香港-BGP-SSR-03|v202605', '🇭🇰 Pro-香港-家庭宽带-01|v202605', '🇭🇰 Pro-香港-家庭宽带-02|v202605', '🇭🇰 Pro-香港-家庭宽带-04|v202605', '🇯🇵 Pro-日本-BGP-01|v202605', '🇯🇵 Pro-日本-BGP-02|v202605', '🇯🇵 Pro-日本-BGP-03|v202605', '🇯🇵 Pro-日本-BGP-04|v202605', '🇯🇵 Pro-日本-BGP-05|v202605', '🇯🇵 Pro-日本-BGP-06|v202605', '🇸🇬 Pro-新加坡-BGP-01|v202605', '🇸🇬 Pro-新加坡-BGP-02|v202605', '🇸🇬 Pro-新加坡-BGP-03|v202605', '🇸🇬 Pro-新加坡-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-01|v202605', '🇺🇸 Pro-美国-BGP-02|v202605', '🇺🇸 Pro-美国-BGP-03|v202605', '🇺🇸 Pro-美国-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-05|v202605', '🇺🇸 Pro-美国-家宽-01(5倍率）|v202605', '🇹🇼 Pro-台湾-BGP-01|v202605', '🇹🇼 Pro-台湾-BGP-02|v202605', '🇹🇼 Pro-台湾-BGP-03|v202605', '🇹🇼 Pro-台湾-家庭宽带-01|v202605', '🇰🇷 Pro-韩国-01|v202605', '🇰🇷 Pro-韩国-02|v202605', '🇰🇷 Pro-韩国-03|v202605', '🇲🇾 马来西亚-Pro-01|v202605', '🇲🇾 马来西亚-Pro-02|v202605', '🇹🇭 泰国-Pro-01|v202605', '🇻🇳 越南-Pro-01|v202605', '🇮🇳 印度-Pro-01|v202605', '🇵🇰 巴基斯坦-Pro-01|v202605', '🇦🇪 迪拜-Pro-01|v202605', '🇹🇷 土耳其-Pro-01|v202605', '🇬🇧 英国-Pro-01|v202605', '🇩🇪 德国-Pro-01|v202605', '🇫🇷 法国-Pro-01|v202605', '🇮🇹 意大利-Pro-01|v202605', '🇨🇭 瑞士-Pro-01|v202605', '🇨🇦 加拿大-Pro-01|v202605', '🇧🇷 巴西-Pro-01|v202605', '🇦🇺 澳大利亚-Pro-01|v202605', '🇭🇰 Basic-香港-BGP-01|v202605', '🇭🇰 Basic-香港-BGP-02|v202605', '🇭🇰 Basic-香港-BGP-03|v202605', '🇭🇰 Basic-香港-BGP-04|v202605', '🇭🇰 Basic-香港-BGP-05|v202605', '🇭🇰 Basic-香港-BGP-06|v202605', '🇭🇰 Basic-香港-BGP-07|v202605', '🇭🇰 Basic-香港-BGP-08|v202605', '🇭🇰 Basic-香港-BGP-09|v202605', '🇭🇰 Basic-香港-BGP-SSR-01|v202605', '🇭🇰 Basic-香港-BGP-SSR-02|v202605', '🇭🇰 Basic-香港-BGP-SSR-03|v202605', '🇭🇰 Basic-香港-家庭宽带-01|v202605', '🇭🇰 Basic-香港-家庭宽带-02|v202605', '🇭🇰 Basic-香港-家庭宽带-03|v202605', '🇯🇵 Basic-日本-BGP-01|v202605', '🇯🇵 Basic-日本-BGP-02|v202605', '🇸🇬 Basic-新加坡-BGP-01|v202605', '🇸🇬 Basic-新加坡-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-01|v202605', '🇺🇸 Basic-美国-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-03|v202605', '🇺🇸 Basic-美国-BGP-04|v202605', '🇺🇸 Basic-美国-BGP-05|v202605', '🇺🇸 Basic-美国-BGP-06|v202605', '🇺🇸 Basic-美国-BGP-07|v202605', '🇹🇼 Basic-台湾-BGP-01|v202605', '🇹🇼 Basic-台湾-家庭宽带-01|v202605', '🇫🇮 Basic-芬兰-BGP-01|v202605'], tolerance: 20, lazy: true, url: 'http://www.gstatic.com/generate_204', interval: 300 }
+rule-providers:
+    Local-LAN: { type: http, behavior: classical, path: ./providers/rule/Local-LAN.yaml, url: https://wechat.frank-extend-jacques-oss.best/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Special/Local-LAN.yaml, interval: 21600 }
+    OpenAI: { type: http, behavior: classical, path: ./providers/rule/OpenAI.yaml, url: https://wechat.frank-extend-jacques-oss.best/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/OpenAI.yaml, interval: 21600 }
+    Claude: { type: http, behavior: classical, path: ./providers/rule/Claude.yaml, url: https://wechat.frank-extend-jacques-oss.best/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Claude.yaml, interval: 21600 }
+rules:
+    # 基础与局域网直连
     - 'RULE-SET,Local-LAN,DIRECT'
-    - 'RULE-SET,SteamCN,DIRECT'
-    - 'DOMAIN-SUFFIX,cm.steampowered.com,DIRECT'
-    - 'DOMAIN-SUFFIX,steamserver.net,DIRECT'
-    - 'DOMAIN-SUFFIX,steamcontent.com,DIRECT'
-    - 'DOMAIN-SUFFIX,v.smtcdns.net,DIRECT'
-    - 'DOMAIN-SUFFIX,snssdk.com,DIRECT'
-    - 'DOMAIN-SUFFIX,playstation.net,DIRECT'
-    - 'DOMAIN-SUFFIX,cnlang.org,DIRECT'
-    - 'DOMAIN-SUFFIX,atlassian.com,DIRECT'
-    - 'DOMAIN-SUFFIX,download.parallels.com,DIRECT'
-    - 'RULE-SET,OpenAI,Ai+'
-    - 'RULE-SET,Claude,Ai+'
-    - 'RULE-SET,Domestic,DIRECT'
-    - 'RULE-SET,CN-IP-ipcidr,DIRECT'
     - 'GEOIP,LAN,DIRECT'
-    - 'GEOIP,CN,DIRECT'
+
+    # 按域名关键词
+    - 'DOMAIN-KEYWORD,openai,Ai+'
+    - 'DOMAIN-KEYWORD,anthropic,Ai+'
+    - 'DOMAIN-KEYWORD,claude,Ai+'
+    
+    # OpenAI 规则与补充域名
+    - 'RULE-SET,OpenAI,Ai+'
+    - 'DOMAIN-SUFFIX,openai.com,Ai+'
+    - 'DOMAIN-SUFFIX,chatgpt.com,Ai+'
+    - 'DOMAIN-SUFFIX,oaistatic.com,Ai+'
+    - 'DOMAIN-SUFFIX,oaiusercontent.com,Ai+'
+    
+    # Anthropic / Claude 规则与补充域名
+    - 'RULE-SET,Claude,Ai+'
+    - 'DOMAIN-SUFFIX,anthropic.com,Ai+'
+    - 'DOMAIN-SUFFIX,claude.ai,Ai+'
+    
+    # 其他常用 AI 服务 (可按需保留)
+    # - 'DOMAIN-SUFFIX,poe.com,Ai+'
+    # - 'DOMAIN-SUFFIX,perplexity.ai,Ai+'
+    # - 'DOMAIN-SUFFIX,jetbrains.ai,Ai+'
+    
+    # 其余所有网络流量全部直连 (DIRECT)
     - 'MATCH,DIRECT'
   ```
 
