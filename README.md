@@ -69,6 +69,7 @@ This survival guidance will be continuously updated.
     <tr>
       <td><strong>Campus &#x26; Life in Hong Kong</strong></td>
       <td><ul>
+        <li><a href="campus-life/scam.md">防诈骗！防诈骗！防诈骗！</a></li>
         <li><a href="campus-life/campus-map.md">Campus Map</a></li>
         <li><a href="campus-life/diets.md">Diets</a></li>
         <li><a href="campus-life/shopping.md">Shopping</a></li>

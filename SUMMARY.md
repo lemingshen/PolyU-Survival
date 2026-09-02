@@ -49,6 +49,7 @@
 
 ## Life in Hong Kong
 
+- [防诈骗！防诈骗！防诈骗！](campus-life/scam.md)
 - [Campus Map](campus-life/campus-map.md)
 - [Diets](campus-life/diets.md)
 - [Shopping](campus-life/shopping.md)
