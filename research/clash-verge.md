@@ -82,19 +82,38 @@ layout:
     # 按域名关键词
     - 'DOMAIN-KEYWORD,openai,Ai+'
     - 'DOMAIN-KEYWORD,anthropic,Ai+'
+    - 'DOMAIN-KEYWORD,claude-code,Ai+'
+    - 'DOMAIN-KEYWORD,cowork,Ai+'
     - 'DOMAIN-KEYWORD,claude,Ai+'
+    - 'DOMAIN-KEYWORD,notebooklm,Ai+'
     
+
     # OpenAI 规则与补充域名
     - 'RULE-SET,OpenAI,Ai+'
     - 'DOMAIN-SUFFIX,openai.com,Ai+'
     - 'DOMAIN-SUFFIX,chatgpt.com,Ai+'
     - 'DOMAIN-SUFFIX,oaistatic.com,Ai+'
     - 'DOMAIN-SUFFIX,oaiusercontent.com,Ai+'
+
+      # OpenAI 规则与全面域名补充
+    - 'DOMAIN-KEYWORD,openai,Ai+'
+    - 'RULE-SET,OpenAI,Ai+'
+    - 'DOMAIN-SUFFIX,openai.com,Ai+'
+    - 'DOMAIN-SUFFIX,chatgpt.com,Ai+'
+    - 'DOMAIN-SUFFIX,oaistatic.com,Ai+'
+    - 'DOMAIN-SUFFIX,oaiusercontent.com,Ai+'
+    - 'DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Ai+' # 开发者平台与文档
+    
+    # ChatGPT 高级语音模式 / 实时音视频流 (Voice & Realtime API)
+    - 'DOMAIN-SUFFIX,livekit.cloud,Ai+' # 语音模式核心
+    - 'DOMAIN-SUFFIX,turn.livekit.cloud,Ai+' # 语音模式穿透
     
     # Anthropic / Claude 规则与补充域名
     - 'RULE-SET,Claude,Ai+'
     - 'DOMAIN-SUFFIX,anthropic.com,Ai+'
     - 'DOMAIN-SUFFIX,claude.ai,Ai+'
+    # 补充 Anthropic 的静态资源域名
+    - 'DOMAIN-SUFFIX,claudeusercontent.com,Ai+' 
     
     # 其他常用 AI 服务 (可按需保留)
     # - 'DOMAIN-SUFFIX,poe.com,Ai+'
