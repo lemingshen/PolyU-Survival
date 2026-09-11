@@ -63,7 +63,7 @@ layout:
   - Scroll down and find the `proxy-groups` section.
   <figure><img src="../.gitbook/assets/research/clash/proxy_group.png" alt=""><figcaption></figcaption></figure>
 
-  - Replace all the following part with the following content (last update: Sept 1, 2026):
+  - Replace all the following part with the following content (last update: Sept 11, 2026):
 
   ```
   proxy-groups:
