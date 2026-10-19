@@ -46,11 +46,36 @@ metaLinks:
 <figure><img src="../.gitbook/assets/life/scam/scam_moment.png" alt="" width="700pt"><figcaption></figcaption></figure>
 
 
-## 2. 短信诈骗
+
+## 2. 短信、邮件诈骗
 骗子会通过短信发送虚假的中奖信息、银行账户异常通知、快递包裹问题等，诱导受害人点击链接或拨打电话，从而获取个人信息或进行诈骗。
 以下是常见的诈骗短信：
-<figure><img src="../.gitbook/assets/life/scam/sf.jpg" alt="" width="300pt"><figcaption></figcaption></figure>
-<figure><img src="../.gitbook/assets/life/scam/alipay.jpg" alt="" width="300pt"><figcaption></figcaption></figure>
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <img src="../.gitbook/assets/life/scam/sf.jpg" width="300pt" style="padding-right: 50px;"/>
+      <br>冒充順豐香港客服 1
+    </td>
+    <td align="center">
+      <img src="../.gitbook/assets/life/scam/sfexpress_2.jpg" width="300pt" style="padding-left: 50px;"/>
+      <br>冒充順豐香港客服 2
+    </td>
+  </tr>
+  <tr><br></tr>
+  <tr>
+    <td align="center">
+      <img src="../.gitbook/assets/life/scam/alipay.jpg" width="300pt"  style="padding-right: 50px;"/>
+      <br>冒充Alipay HK客服
+    </td>
+    <td align="center">
+      <img src="../.gitbook/assets/life/scam/google.jpg" width="300pt" style="padding-left: 50px;"/>
+      <br>冒充Google客服
+    </td>
+  </tr>
+</table>
+
+此外，骗子会冒充是学校的校长、系主任等，发送邮件给学生，要求学生提供个人信息或转账。请大家务必提高警惕，不要轻易相信陌生人的电话、短信或邮件。
+<figure><img src="../.gitbook/assets/life/scam/email.png" alt=""><figcaption></figcaption></figure>
 
 ## 3. 聊天软件诈骗
 骗子会通过WhatsApp、Telegram等聊天软件发送虚假的“发钱”信息，通过一些蝇头小利（如下载某常用软件就给20港币，给某常用软件中的某个商品、视频、酒店等点赞就给20港币等等）诱导受害人以为自己可以轻松赚钱。实则，当受害人尝到一点甜头后，骗子会逐渐以充值后可以赚更多钱的名义，诱骗受害人继续充值，最终导致受害人损失惨重。
