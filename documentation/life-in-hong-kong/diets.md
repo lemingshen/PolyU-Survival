@@ -1,0 +1,39 @@
+---
+icon: burger-glass
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: full
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
+metaLinks:
+  alternates:
+    - /broken/spaces/yE16Xb3IemPxJWydtPOj/pages/ULmoXhthX9AEP6aH6ZSe
+---
+
+# Diets
+
+Below is a list of restaurants nearby PolyU.
+
+[https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing\&ouid=111401837187917554364\&rtpof=true\&sd=true](https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing\&ouid=111401837187917554364\&rtpof=true\&sd=true)
+
+{% embed url="https://docs.google.com/spreadsheets/d/1PXieUW0d0U9OZocZAMg4DhcoirnPI7y-/edit?usp=sharing&ouid=111401837187917554364&rtpof=true&sd=true" %}
