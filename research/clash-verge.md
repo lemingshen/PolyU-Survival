@@ -30,14 +30,14 @@ layout:
 - Open Clash Verge after installation.
 - Click on the "Profiles" tab in the sidebar.
 - Paste the URL I provided into the "Import from URL" field and click "Import".
-    <figure><img src="../.gitbook/assets/research/clash/import_config.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/import_config.png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Select Preferred Nodes
 
 - Click on the "Proxies" tab to view the list of available proxy nodes.
 - Browse through the list and select your preferred nodes by clicking on them based on different rules.
-    <figure><img src="../.gitbook/assets/research/clash/select_node.png" alt=""><figcaption></figcaption></figure>
-    <figure><img src="../.gitbook/assets/research/clash/select_node2.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/select_node.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/select_node2.png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Start System Proxy
 
@@ -47,7 +47,7 @@ layout:
     - Global Mode: Routes all traffic through the selected proxy.
     - Direct Mode: Direct use your own network.
 - Toggle the "System Proxy" switch to enable system-wide proxying.
-    <figure><img src="../.gitbook/assets/research/clash/start_proxy.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/start_proxy.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Additional Settings (Strongly Recommended)
 
@@ -56,76 +56,78 @@ layout:
     - Click on the "Profiles" tab.
     - Right click on the previously imported profile and select "Edit Info"
     - Input "Clash_CN.yaml" in the "Name" field to rename the previously imported profile.
-        <figure><img src="../.gitbook/assets/research/clash/rename_config.png" alt=""><figcaption></figcaption></figure>
+          <figure><img src="../.gitbook/assets/research/clash/rename_config.png" alt=""><figcaption></figcaption></figure>
 
     - Then, re-import the same configuration URL again and rename it to "Clash_HK.yaml".
     - Next, right click on "Clash_HK.yaml" and select "Edit File".
     - Scroll down and find the `proxy-groups` section.
-        <figure><img src="../.gitbook/assets/research/clash/proxy_group.png" alt=""><figcaption></figcaption></figure>
+          <figure><img src="../.gitbook/assets/research/clash/proxy_group.png" alt=""><figcaption></figcaption></figure>
 
     - Replace all the following part with the following content (last update: Sept 15, 2026):
 
     ```
     proxy-groups:
-      - { name: Ai+, icon: 'https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/ChatGPT.png', type: select, proxies: [手动选择, 自动选择, '🇺🇳 官网 helloshudong.com|v202605', '🇩🇪 德国-BGP-01【优化】', '🇩🇪 德国-BGP-02【优化】', '🇺🇸 美国-BGP-05【优化】', '🇺🇸 美国-BGP-06【优化】', '🇺🇸 美国-BGP-07【优化】', '🇺🇸 美国-BGP-08【优化】', '🇺🇸 美国-BGP-09【优化】', '🇺🇸 美国-BGP-03【优化】', '🇺🇸 美国-BGP-04【优化】', '🇺🇸 美国-BGP-01【优化】', '🇺🇸 美国-BGP-02【优化】', '🇯🇵 Pro-日本-BGP-01|v202605', '🇯🇵 Pro-日本-BGP-02|v202605', '🇯🇵 Pro-日本-BGP-03|v202605', '🇯🇵 Pro-日本-BGP-04|v202605', '🇯🇵 Pro-日本-BGP-05|v202605', '🇯🇵 Pro-日本-BGP-06|v202605', '🇸🇬 Pro-新加坡-BGP-01|v202605', '🇸🇬 Pro-新加坡-BGP-02|v202605', '🇸🇬 Pro-新加坡-BGP-03|v202605', '🇸🇬 Pro-新加坡-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-01|v202605', '🇺🇸 Pro-美国-BGP-02|v202605', '🇺🇸 Pro-美国-BGP-03|v202605', '🇺🇸 Pro-美国-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-05|v202605', '🇺🇸 Pro-美国-家宽-01(5倍率）|v202605', '🇹🇼 Pro-台湾-BGP-01|v202605', '🇹🇼 Pro-台湾-BGP-02|v202605', '🇹🇼 Pro-台湾-BGP-03|v202605', '🇹🇼 Pro-台湾-家庭宽带-01|v202605', '🇰🇷 Pro-韩国-01|v202605', '🇰🇷 Pro-韩国-02|v202605', '🇰🇷 Pro-韩国-03|v202605', '🇲🇾 马来西亚-Pro-01|v202605', '🇲🇾 马来西亚-Pro-02|v202605', '🇹🇭 泰国-Pro-01|v202605', '🇻🇳 越南-Pro-01|v202605', '🇮🇳 印度-Pro-01|v202605', '🇵🇰 巴基斯坦-Pro-01|v202605', '🇦🇪 迪拜-Pro-01|v202605', '🇹🇷 土耳其-Pro-01|v202605', '🇬🇧 英国-Pro-01|v202605', '🇩🇪 德国-Pro-01|v202605', '🇫🇷 法国-Pro-01|v202605', '🇮🇹 意大利-Pro-01|v202605', '🇨🇭 瑞士-Pro-01|v202605', '🇨🇦 加拿大-Pro-01|v202605', '🇧🇷 巴西-Pro-01|v202605', '🇦🇺 澳大利亚-Pro-01|v202605', '🇯🇵 Basic-日本-BGP-01|v202605', '🇯🇵 Basic-日本-BGP-02|v202605', '🇸🇬 Basic-新加坡-BGP-01|v202605', '🇸🇬 Basic-新加坡-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-01|v202605', '🇺🇸 Basic-美国-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-03|v202605', '🇺🇸 Basic-美国-BGP-04|v202605', '🇺🇸 Basic-美国-BGP-05|v202605', '🇺🇸 Basic-美国-BGP-06|v202605', '🇺🇸 Basic-美国-BGP-07|v202605', '🇹🇼 Basic-台湾-BGP-01|v202605', '🇹🇼 Basic-台湾-家庭宽带-01|v202605', '🇫🇮 Basic-芬兰-BGP-01|v202605'] }
-      - { name: 手动选择, icon: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Proxy.png', type: select, proxies: [自动选择, '🇺🇳 官网 helloshudong.com|v202605', '🇩🇪 德国-BGP-01【优化】', '🇩🇪 德国-BGP-02【优化】', '🇺🇸 美国-BGP-05【优化】', '🇺🇸 美国-BGP-06【优化】', '🇺🇸 美国-BGP-07【优化】', '🇺🇸 美国-BGP-08【优化】', '🇺🇸 美国-BGP-09【优化】', '🇺🇸 美国-BGP-03【优化】', '🇺🇸 美国-BGP-04【优化】', '🇺🇸 美国-BGP-01【优化】', '🇺🇸 美国-BGP-02【优化】', '🇯🇵 Pro-日本-BGP-01|v202605', '🇯🇵 Pro-日本-BGP-02|v202605', '🇯🇵 Pro-日本-BGP-03|v202605', '🇯🇵 Pro-日本-BGP-04|v202605', '🇯🇵 Pro-日本-BGP-05|v202605', '🇯🇵 Pro-日本-BGP-06|v202605', '🇸🇬 Pro-新加坡-BGP-01|v202605', '🇸🇬 Pro-新加坡-BGP-02|v202605', '🇸🇬 Pro-新加坡-BGP-03|v202605', '🇸🇬 Pro-新加坡-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-01|v202605', '🇺🇸 Pro-美国-BGP-02|v202605', '🇺🇸 Pro-美国-BGP-03|v202605', '🇺🇸 Pro-美国-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-05|v202605', '🇺🇸 Pro-美国-家宽-01(5倍率）|v202605', '🇹🇼 Pro-台湾-BGP-01|v202605', '🇹🇼 Pro-台湾-BGP-02|v202605', '🇹🇼 Pro-台湾-BGP-03|v202605', '🇹🇼 Pro-台湾-家庭宽带-01|v202605', '🇰🇷 Pro-韩国-01|v202605', '🇰🇷 Pro-韩国-02|v202605', '🇰🇷 Pro-韩国-03|v202605', '🇲🇾 马来西亚-Pro-01|v202605', '🇲🇾 马来西亚-Pro-02|v202605', '🇹🇭 泰国-Pro-01|v202605', '🇻🇳 越南-Pro-01|v202605', '🇮🇳 印度-Pro-01|v202605', '🇵🇰 巴基斯坦-Pro-01|v202605', '🇦🇪 迪拜-Pro-01|v202605', '🇹🇷 土耳其-Pro-01|v202605', '🇬🇧 英国-Pro-01|v202605', '🇩🇪 德国-Pro-01|v202605', '🇫🇷 法国-Pro-01|v202605', '🇮🇹 意大利-Pro-01|v202605', '🇨🇭 瑞士-Pro-01|v202605', '🇨🇦 加拿大-Pro-01|v202605', '🇧🇷 巴西-Pro-01|v202605', '🇦🇺 澳大利亚-Pro-01|v202605', '🇯🇵 Basic-日本-BGP-01|v202605', '🇯🇵 Basic-日本-BGP-02|v202605', '🇸🇬 Basic-新加坡-BGP-01|v202605', '🇸🇬 Basic-新加坡-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-01|v202605', '🇺🇸 Basic-美国-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-03|v202605', '🇺🇸 Basic-美国-BGP-04|v202605', '🇺🇸 Basic-美国-BGP-05|v202605', '🇺🇸 Basic-美国-BGP-06|v202605', '🇺🇸 Basic-美国-BGP-07|v202605', '🇹🇼 Basic-台湾-BGP-01|v202605', '🇹🇼 Basic-台湾-家庭宽带-01|v202605', '🇫🇮 Basic-芬兰-BGP-01|v202605'] }
-      - { name: 自动选择, icon: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Auto.png', type: url-test, proxies: ['🇺🇳 官网 helloshudong.com|v202605', '🇩🇪 德国-BGP-01【优化】', '🇩🇪 德国-BGP-02【优化】', '🇺🇸 美国-BGP-05【优化】', '🇺🇸 美国-BGP-06【优化】', '🇺🇸 美国-BGP-07【优化】', '🇺🇸 美国-BGP-08【优化】', '🇺🇸 美国-BGP-09【优化】', '🇺🇸 美国-BGP-03【优化】', '🇺🇸 美国-BGP-04【优化】', '🇺🇸 美国-BGP-01【优化】', '🇺🇸 美国-BGP-02【优化】', '🇯🇵 Pro-日本-BGP-01|v202605', '🇯🇵 Pro-日本-BGP-02|v202605', '🇯🇵 Pro-日本-BGP-03|v202605', '🇯🇵 Pro-日本-BGP-04|v202605', '🇯🇵 Pro-日本-BGP-05|v202605', '🇯🇵 Pro-日本-BGP-06|v202605', '🇸🇬 Pro-新加坡-BGP-01|v202605', '🇸🇬 Pro-新加坡-BGP-02|v202605', '🇸🇬 Pro-新加坡-BGP-03|v202605', '🇸🇬 Pro-新加坡-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-01|v202605', '🇺🇸 Pro-美国-BGP-02|v202605', '🇺🇸 Pro-美国-BGP-03|v202605', '🇺🇸 Pro-美国-BGP-04|v202605', '🇺🇸 Pro-美国-BGP-05|v202605', '🇺🇸 Pro-美国-家宽-01(5倍率）|v202605', '🇹🇼 Pro-台湾-BGP-01|v202605', '🇹🇼 Pro-台湾-BGP-02|v202605', '🇹🇼 Pro-台湾-BGP-03|v202605', '🇹🇼 Pro-台湾-家庭宽带-01|v202605', '🇰🇷 Pro-韩国-01|v202605', '🇰🇷 Pro-韩国-02|v202605', '🇰🇷 Pro-韩国-03|v202605', '🇲🇾 马来西亚-Pro-01|v202605', '🇲🇾 马来西亚-Pro-02|v202605', '🇹🇭 泰国-Pro-01|v202605', '🇻🇳 越南-Pro-01|v202605', '🇮🇳 印度-Pro-01|v202605', '🇵🇰 巴基斯坦-Pro-01|v202605', '🇦🇪 迪拜-Pro-01|v202605', '🇹🇷 土耳其-Pro-01|v202605', '🇬🇧 英国-Pro-01|v202605', '🇩🇪 德国-Pro-01|v202605', '🇫🇷 法国-Pro-01|v202605', '🇮🇹 意大利-Pro-01|v202605', '🇨🇭 瑞士-Pro-01|v202605', '🇨🇦 加拿大-Pro-01|v202605', '🇧🇷 巴西-Pro-01|v202605', '🇦🇺 澳大利亚-Pro-01|v202605', '🇭🇰 Basic-香港-BGP-01|v202605', '🇯🇵 Basic-日本-BGP-01|v202605', '🇯🇵 Basic-日本-BGP-02|v202605', '🇸🇬 Basic-新加坡-BGP-01|v202605', '🇸🇬 Basic-新加坡-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-01|v202605', '🇺🇸 Basic-美国-BGP-02|v202605', '🇺🇸 Basic-美国-BGP-03|v202605', '🇺🇸 Basic-美国-BGP-04|v202605', '🇺🇸 Basic-美国-BGP-05|v202605', '🇺🇸 Basic-美国-BGP-06|v202605', '🇺🇸 Basic-美国-BGP-07|v202605', '🇹🇼 Basic-台湾-BGP-01|v202605', '🇹🇼 Basic-台湾-家庭宽带-01|v202605', '🇫🇮 Basic-芬兰-BGP-01|v202605'], tolerance: 20, lazy: true, url: 'http://www.gstatic.com/generate_204', interval: 300 }
+        - { name: 手动选择, icon: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Proxy.png', type: select, proxies: [自动选择, 'Expire: 2027-11-04', 'Traffic: 1.38GB | 7.32TB', 'Sync: 2026-11-04 18:46:23', '🇩🇪 德国-BGP-01【优化】', '🇺🇸 美国-BGP-05【优化】', '🇺🇸 美国-BGP-06【优化】', '🇺🇸 美国-BGP-07【优化】', '🇺🇸 美国-BGP-08【优化】', '🇺🇸 美国-BGP-09【优化】', '🇺🇳 官网 helloshudong.com|v202611', '🇺🇸 美国-BGP-03【优化】', '🇺🇸 美国-BGP-04【优化】', '🇺🇸 美国-BGP-01【优化】', '🇺🇸 美国-BGP-02【优化】', '🇭🇰 Pro-香港-BGP-SSR-01|v202611', '🇭🇰 Pro-香港-BGP-SSR-02|v202611', '🇭🇰 Pro-香港-BGP-SSR-03|v202611', '🇭🇰 Pro-香港-BGP-04|v202611', '🇭🇰 Pro-香港-BGP-05|v202611', '🇭🇰 Pro-香港-BGP-06|v202611', '🇭🇰 Pro-香港-BGP-07|v202611', '🇭🇰 Pro-香港-BGP-08|v202611', '🇭🇰 Pro-香港-BGP-09|v202611', '🇭🇰 Pro-香港-BGP-10|v202611', '🇭🇰 Pro-香港-BGP-11|v202611', '🇭🇰 Pro-香港-家庭宽带-01|v202611', '🇭🇰 Pro-香港-家庭宽带-02|v202611', '🇭🇰 Pro-香港-家庭宽带-04|v202611', '🇯🇵 Pro-日本-BGP-01|v202611', '🇯🇵 Pro-日本-BGP-02|v202611', '🇯🇵 Pro-日本-BGP-03|v202611', '🇯🇵 Pro-日本-BGP-04|v202611', '🇯🇵 Pro-日本-BGP-05|v202611', '🇯🇵 Pro-日本-BGP-06|v202611', '🇸🇬 Pro-新加坡-BGP-01|v202611', '🇸🇬 Pro-新加坡-BGP-02|v202611', '🇸🇬 Pro-新加坡-BGP-03|v202611', '🇸🇬 Pro-新加坡-BGP-04|v202611', '🇺🇸 Pro-美国-BGP-01|v202611', '🇺🇸 Pro-美国-BGP-02|v202611', '🇺🇸 Pro-美国-BGP-03|v202611', '🇺🇸 Pro-美国-BGP-04|v202611', '🇺🇸 Pro-美国-BGP-05|v202611', '🇺🇸 Pro-美国-家宽-01(5倍率）|v202611', '🇺🇸 Pro-美国-家宽-02(5倍率）|v202611', '🇹🇼 Pro-台湾-BGP-01|v202611', '🇹🇼 Pro-台湾-BGP-02|v202611', '🇹🇼 Pro-台湾-BGP-03|v202611', '🇹🇼 Pro-台湾-家庭宽带-01|v202611', '🇰🇷 Pro-韩国-01|v202611', '🇰🇷 Pro-韩国-02|v202611', '🇰🇷 Pro-韩国-03|v202611', '🇲🇾 马来西亚-Pro-01|v202611', '🇲🇾 马来西亚-Pro-02|v202611', '🇹🇭 泰国-Pro-01|v202611', '🇻🇳 越南-Pro-01|v202611', '🇮🇳 印度-Pro-01|v202611', '🇵🇰 巴基斯坦-Pro-01|v202611', '🇦🇪 迪拜-Pro-01|v202611', '🇹🇷 土耳其-Pro-01|v202611', '🇬🇧 英国-Pro-01|v202611', '🇫🇷 法国-Pro-01|v202611', '🇮🇹 意大利-Pro-01|v202611', '🇨🇭 瑞士-Pro-01|v202611', '🇨🇦 加拿大-Pro-01|v202611', '🇧🇷 巴西-Pro-01|v202611', '🇦🇺 澳大利亚-Pro-01|v202611', '🇭🇰 Basic-香港-BGP-SSR-01|v202611', '🇭🇰 Basic-香港-BGP-SSR-02|v202611', '🇭🇰 Basic-香港-BGP-SSR-03|v202611', '🇭🇰 Basic-香港-BGP-01|v202611', '🇭🇰 Basic-香港-BGP-02|v202611', '🇭🇰 Basic-香港-BGP-03|v202611', '🇭🇰 Basic-香港-BGP-04|v202611', '🇭🇰 Basic-香港-BGP-05|v202611', '🇭🇰 Basic-香港-BGP-06|v202611', '🇭🇰 Basic-香港-BGP-07|v202611', '🇭🇰 Basic-香港-BGP-08|v202611', '🇭🇰 Basic-香港-BGP-09|v202611', '🇭🇰 Basic-香港-家庭宽带-01|v202611', '🇭🇰 Basic-香港-家庭宽带-02|v202611', '🇭🇰 Basic-香港-家庭宽带-03|v202611', '🇯🇵 Basic-日本-BGP-01|v202611', '🇯🇵 Basic-日本-BGP-02|v202611', '🇸🇬 Basic-新加坡-BGP-01|v202611', '🇸🇬 Basic-新加坡-BGP-02|v202611', '🇺🇸 Basic-美国-BGP-01|v202611', '🇺🇸 Basic-美国-BGP-02|v202611', '🇺🇸 Basic-美国-BGP-03|v202611', '🇺🇸 Basic-美国-BGP-04|v202611', '🇺🇸 Basic-美国-BGP-05|v202611', '🇺🇸 Basic-美国-BGP-06|v202611', '🇺🇸 Basic-美国-BGP-07|v202611', '🇹🇼 Basic-台湾-BGP-01|v202611', '🇹🇼 Basic-台湾-家庭宽带-01|v202611', '🇫🇮 Basic-芬兰-BGP-01|v202611'] }
+        - { name: Ai+, icon: 'https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Color/ChatGPT.png', type: select, proxies: [手动选择, 'Expire: 2027-11-04', 'Traffic: 1.38GB | 7.32TB', 'Sync: 2026-11-04 18:46:23', '🇩🇪 德国-BGP-01【优化】', '🇺🇸 美国-BGP-05【优化】', '🇺🇸 美国-BGP-06【优化】', '🇺🇸 美国-BGP-07【优化】', '🇺🇸 美国-BGP-08【优化】', '🇺🇸 美国-BGP-09【优化】', '🇺🇳 官网 helloshudong.com|v202611', '🇺🇸 美国-BGP-03【优化】', '🇺🇸 美国-BGP-04【优化】', '🇺🇸 美国-BGP-01【优化】', '🇺🇸 美国-BGP-02【优化】', '🇭🇰 Pro-香港-BGP-SSR-01|v202611', '🇭🇰 Pro-香港-BGP-SSR-02|v202611', '🇭🇰 Pro-香港-BGP-SSR-03|v202611', '🇭🇰 Pro-香港-BGP-04|v202611', '🇭🇰 Pro-香港-BGP-05|v202611', '🇭🇰 Pro-香港-BGP-06|v202611', '🇭🇰 Pro-香港-BGP-07|v202611', '🇭🇰 Pro-香港-BGP-08|v202611', '🇭🇰 Pro-香港-BGP-09|v202611', '🇭🇰 Pro-香港-BGP-10|v202611', '🇭🇰 Pro-香港-BGP-11|v202611', '🇭🇰 Pro-香港-家庭宽带-01|v202611', '🇭🇰 Pro-香港-家庭宽带-02|v202611', '🇭🇰 Pro-香港-家庭宽带-04|v202611', '🇯🇵 Pro-日本-BGP-01|v202611', '🇯🇵 Pro-日本-BGP-02|v202611', '🇯🇵 Pro-日本-BGP-03|v202611', '🇯🇵 Pro-日本-BGP-04|v202611', '🇯🇵 Pro-日本-BGP-05|v202611', '🇯🇵 Pro-日本-BGP-06|v202611', '🇸🇬 Pro-新加坡-BGP-01|v202611', '🇸🇬 Pro-新加坡-BGP-02|v202611', '🇸🇬 Pro-新加坡-BGP-03|v202611', '🇸🇬 Pro-新加坡-BGP-04|v202611', '🇺🇸 Pro-美国-BGP-01|v202611', '🇺🇸 Pro-美国-BGP-02|v202611', '🇺🇸 Pro-美国-BGP-03|v202611', '🇺🇸 Pro-美国-BGP-04|v202611', '🇺🇸 Pro-美国-BGP-05|v202611', '🇺🇸 Pro-美国-家宽-01(5倍率）|v202611', '🇺🇸 Pro-美国-家宽-02(5倍率）|v202611', '🇹🇼 Pro-台湾-BGP-01|v202611', '🇹🇼 Pro-台湾-BGP-02|v202611', '🇹🇼 Pro-台湾-BGP-03|v202611', '🇹🇼 Pro-台湾-家庭宽带-01|v202611', '🇰🇷 Pro-韩国-01|v202611', '🇰🇷 Pro-韩国-02|v202611', '🇰🇷 Pro-韩国-03|v202611', '🇲🇾 马来西亚-Pro-01|v202611', '🇲🇾 马来西亚-Pro-02|v202611', '🇹🇭 泰国-Pro-01|v202611', '🇻🇳 越南-Pro-01|v202611', '🇮🇳 印度-Pro-01|v202611', '🇵🇰 巴基斯坦-Pro-01|v202611', '🇦🇪 迪拜-Pro-01|v202611', '🇹🇷 土耳其-Pro-01|v202611', '🇬🇧 英国-Pro-01|v202611', '🇫🇷 法国-Pro-01|v202611', '🇮🇹 意大利-Pro-01|v202611', '🇨🇭 瑞士-Pro-01|v202611', '🇨🇦 加拿大-Pro-01|v202611', '🇧🇷 巴西-Pro-01|v202611', '🇦🇺 澳大利亚-Pro-01|v202611', '🇭🇰 Basic-香港-BGP-SSR-01|v202611', '🇭🇰 Basic-香港-BGP-SSR-02|v202611', '🇭🇰 Basic-香港-BGP-SSR-03|v202611', '🇭🇰 Basic-香港-BGP-01|v202611', '🇭🇰 Basic-香港-BGP-02|v202611', '🇭🇰 Basic-香港-BGP-03|v202611', '🇭🇰 Basic-香港-BGP-04|v202611', '🇭🇰 Basic-香港-BGP-05|v202611', '🇭🇰 Basic-香港-BGP-06|v202611', '🇭🇰 Basic-香港-BGP-07|v202611', '🇭🇰 Basic-香港-BGP-08|v202611', '🇭🇰 Basic-香港-BGP-09|v202611', '🇭🇰 Basic-香港-家庭宽带-01|v202611', '🇭🇰 Basic-香港-家庭宽带-02|v202611', '🇭🇰 Basic-香港-家庭宽带-03|v202611', '🇯🇵 Basic-日本-BGP-01|v202611', '🇯🇵 Basic-日本-BGP-02|v202611', '🇸🇬 Basic-新加坡-BGP-01|v202611', '🇸🇬 Basic-新加坡-BGP-02|v202611', '🇺🇸 Basic-美国-BGP-01|v202611', '🇺🇸 Basic-美国-BGP-02|v202611', '🇺🇸 Basic-美国-BGP-03|v202611', '🇺🇸 Basic-美国-BGP-04|v202611', '🇺🇸 Basic-美国-BGP-05|v202611', '🇺🇸 Basic-美国-BGP-06|v202611', '🇺🇸 Basic-美国-BGP-07|v202611', '🇹🇼 Basic-台湾-BGP-01|v202611', '🇹🇼 Basic-台湾-家庭宽带-01|v202611', '🇫🇮 Basic-芬兰-BGP-01|v202611'] }
+        - { name: 自动选择, icon: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/icon/qure/color/Auto.png', type: url-test, proxies: ['Expire: 2027-11-04', 'Traffic: 1.38GB | 7.32TB', 'Sync: 2026-11-04 18:46:23', '🇩🇪 德国-BGP-01【优化】', '🇺🇸 美国-BGP-05【优化】', '🇺🇸 美国-BGP-06【优化】', '🇺🇸 美国-BGP-07【优化】', '🇺🇸 美国-BGP-08【优化】', '🇺🇸 美国-BGP-09【优化】', '🇺🇳 官网 helloshudong.com|v202611', '🇺🇸 美国-BGP-03【优化】', '🇺🇸 美国-BGP-04【优化】', '🇺🇸 美国-BGP-01【优化】', '🇺🇸 美国-BGP-02【优化】', '🇭🇰 Pro-香港-BGP-SSR-01|v202611', '🇭🇰 Pro-香港-BGP-SSR-02|v202611', '🇭🇰 Pro-香港-BGP-SSR-03|v202611', '🇭🇰 Pro-香港-BGP-04|v202611', '🇭🇰 Pro-香港-BGP-05|v202611', '🇭🇰 Pro-香港-BGP-06|v202611', '🇭🇰 Pro-香港-BGP-07|v202611', '🇭🇰 Pro-香港-BGP-08|v202611', '🇭🇰 Pro-香港-BGP-09|v202611', '🇭🇰 Pro-香港-BGP-10|v202611', '🇭🇰 Pro-香港-BGP-11|v202611', '🇭🇰 Pro-香港-家庭宽带-01|v202611', '🇭🇰 Pro-香港-家庭宽带-02|v202611', '🇭🇰 Pro-香港-家庭宽带-04|v202611', '🇯🇵 Pro-日本-BGP-01|v202611', '🇯🇵 Pro-日本-BGP-02|v202611', '🇯🇵 Pro-日本-BGP-03|v202611', '🇯🇵 Pro-日本-BGP-04|v202611', '🇯🇵 Pro-日本-BGP-05|v202611', '🇯🇵 Pro-日本-BGP-06|v202611', '🇸🇬 Pro-新加坡-BGP-01|v202611', '🇸🇬 Pro-新加坡-BGP-02|v202611', '🇸🇬 Pro-新加坡-BGP-03|v202611', '🇸🇬 Pro-新加坡-BGP-04|v202611', '🇺🇸 Pro-美国-BGP-01|v202611', '🇺🇸 Pro-美国-BGP-02|v202611', '🇺🇸 Pro-美国-BGP-03|v202611', '🇺🇸 Pro-美国-BGP-04|v202611', '🇺🇸 Pro-美国-BGP-05|v202611', '🇺🇸 Pro-美国-家宽-01(5倍率）|v202611', '🇺🇸 Pro-美国-家宽-02(5倍率）|v202611', '🇹🇼 Pro-台湾-BGP-01|v202611', '🇹🇼 Pro-台湾-BGP-02|v202611', '🇹🇼 Pro-台湾-BGP-03|v202611', '🇹🇼 Pro-台湾-家庭宽带-01|v202611', '🇰🇷 Pro-韩国-01|v202611', '🇰🇷 Pro-韩国-02|v202611', '🇰🇷 Pro-韩国-03|v202611', '🇲🇾 马来西亚-Pro-01|v202611', '🇲🇾 马来西亚-Pro-02|v202611', '🇹🇭 泰国-Pro-01|v202611', '🇻🇳 越南-Pro-01|v202611', '🇮🇳 印度-Pro-01|v202611', '🇵🇰 巴基斯坦-Pro-01|v202611', '🇦🇪 迪拜-Pro-01|v202611', '🇹🇷 土耳其-Pro-01|v202611', '🇬🇧 英国-Pro-01|v202611', '🇫🇷 法国-Pro-01|v202611', '🇮🇹 意大利-Pro-01|v202611', '🇨🇭 瑞士-Pro-01|v202611', '🇨🇦 加拿大-Pro-01|v202611', '🇧🇷 巴西-Pro-01|v202611', '🇦🇺 澳大利亚-Pro-01|v202611', '🇭🇰 Basic-香港-BGP-SSR-01|v202611', '🇭🇰 Basic-香港-BGP-SSR-02|v202611', '🇭🇰 Basic-香港-BGP-SSR-03|v202611', '🇭🇰 Basic-香港-BGP-01|v202611', '🇭🇰 Basic-香港-BGP-02|v202611', '🇭🇰 Basic-香港-BGP-03|v202611', '🇭🇰 Basic-香港-BGP-04|v202611', '🇭🇰 Basic-香港-BGP-05|v202611', '🇭🇰 Basic-香港-BGP-06|v202611', '🇭🇰 Basic-香港-BGP-07|v202611', '🇭🇰 Basic-香港-BGP-08|v202611', '🇭🇰 Basic-香港-BGP-09|v202611', '🇭🇰 Basic-香港-家庭宽带-01|v202611', '🇭🇰 Basic-香港-家庭宽带-02|v202611', '🇭🇰 Basic-香港-家庭宽带-03|v202611', '🇯🇵 Basic-日本-BGP-01|v202611', '🇯🇵 Basic-日本-BGP-02|v202611', '🇸🇬 Basic-新加坡-BGP-01|v202611', '🇸🇬 Basic-新加坡-BGP-02|v202611', '🇺🇸 Basic-美国-BGP-01|v202611', '🇺🇸 Basic-美国-BGP-02|v202611', '🇺🇸 Basic-美国-BGP-03|v202611', '🇺🇸 Basic-美国-BGP-04|v202611', '🇺🇸 Basic-美国-BGP-05|v202611', '🇺🇸 Basic-美国-BGP-06|v202611', '🇺🇸 Basic-美国-BGP-07|v202611', '🇹🇼 Basic-台湾-BGP-01|v202611', '🇹🇼 Basic-台湾-家庭宽带-01|v202611', '🇫🇮 Basic-芬兰-BGP-01|v202611'], tolerance: 20, lazy: true, url: 'http://www.gstatic.com/generate_204', interval: 300 }
     rule-providers:
-      Local-LAN: { type: http, behavior: classical, path: ./providers/rule/Local-LAN.yaml, url: https://wechat.frank-extend-jacques-oss.best/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Special/Local-LAN.yaml, interval: 21600 }
-      OpenAI: { type: http, behavior: classical, path: ./providers/rule/OpenAI.yaml, url: https://wechat.frank-extend-jacques-oss.best/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/OpenAI.yaml, interval: 21600 }
-      Claude: { type: http, behavior: classical, path: ./providers/rule/Claude.yaml, url: https://wechat.frank-extend-jacques-oss.best/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Claude.yaml, interval: 21600 }
+        Local-LAN: { type: http, behavior: classical, path: ./providers/rule/Local-LAN.yaml, url: https://wechat.frank-extend-jacques-oss.best/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Special/Local-LAN.yaml, interval: 21600 }
+        OpenAI: { type: http, behavior: classical, path: ./providers/rule/OpenAI.yaml, url: https://wechat.frank-extend-jacques-oss.best/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/OpenAI.yaml, interval: 21600 }
+        Claude: { type: http, behavior: classical, path: ./providers/rule/Claude.yaml, url: https://wechat.frank-extend-jacques-oss.best/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Claude.yaml, interval: 21600 }
+
+
     rules:
-      # 基础与局域网直连
-      - 'RULE-SET,Local-LAN,DIRECT'
-      - 'GEOIP,LAN,DIRECT'
+    # 基础与局域网直连
+    - 'RULE-SET,Local-LAN,DIRECT'
+    - 'GEOIP,LAN,DIRECT'
 
-      # 防止 WebRTC IP 泄露
-      - DOMAIN-KEYWORD,stun,REJECT
-      - DOMAIN-KEYWORD,webrtc,REJECT
-      - DST-PORT,3478,REJECT
+    # 防止 WebRTC IP 泄露
+    - 'DOMAIN-KEYWORD,stun,REJECT'
+    - 'DOMAIN-KEYWORD,webrtc,REJECT'
+    - 'DST-PORT,3478,REJECT'
 
-      # Claude
-      - 'RULE-SET,Claude,Ai+'
-      - 'DOMAIN-KEYWORD,anthropic,Ai+'
-      - 'DOMAIN-KEYWORD,claude-code,Ai+'
-      - 'DOMAIN-KEYWORD,cowork,Ai+'
-      - 'DOMAIN-KEYWORD,claude,Ai+'
-      - 'DOMAIN-SUFFIX,anthropic.com,Ai+'
-      - 'DOMAIN-SUFFIX,claude.ai,Ai+'
-      - 'DOMAIN-KEYWORD,cdn.anthropic.com,Ai+'
-      - 'DOMAIN-SUFFIX,claudeusercontent.com,Ai+'
+    # Claude
+    - 'RULE-SET,Claude,Ai+'
+    - 'DOMAIN-KEYWORD,anthropic,Ai+'
+    - 'DOMAIN-KEYWORD,claude-code,Ai+'
+    - 'DOMAIN-KEYWORD,cowork,Ai+'
+    - 'DOMAIN-KEYWORD,claude,Ai+'
+    - 'DOMAIN-SUFFIX,anthropic.com,Ai+'
+    - 'DOMAIN-SUFFIX,claude.ai,Ai+'
+    - 'DOMAIN-KEYWORD,cdn.anthropic.com,Ai+'
+    - 'DOMAIN-SUFFIX,claudeusercontent.com,Ai+'
 
-      # OpenAI
-      - 'RULE-SET,OpenAI,Ai+'
-      - 'DOMAIN-KEYWORD,openai,Ai+'
-      - 'DOMAIN-SUFFIX,openai.com,Ai+'
-      - 'DOMAIN-SUFFIX,chatgpt.com,Ai+'
-      - 'DOMAIN-SUFFIX,oaistatic.com,Ai+'
-      - 'DOMAIN-SUFFIX,oaiusercontent.com,Ai+'
-      - 'DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Ai+' # 开发者平台与文档
+    # OpenAI
+    - 'RULE-SET,OpenAI,Ai+'
+    - 'DOMAIN-KEYWORD,openai,Ai+'
+    - 'DOMAIN-SUFFIX,openai.com,Ai+'
+    - 'DOMAIN-SUFFIX,chatgpt.com,Ai+'
+    - 'DOMAIN-SUFFIX,oaistatic.com,Ai+'
+    - 'DOMAIN-SUFFIX,oaiusercontent.com,Ai+'
+    - 'DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Ai+' # 开发者平台与文档
 
-      # ChatGPT 高级语音模式 / 实时音视频流 (Voice & Realtime API)
-      - 'DOMAIN-SUFFIX,livekit.cloud,Ai+' # 语音模式核心
-      - 'DOMAIN-SUFFIX,turn.livekit.cloud,Ai+' # 语音模式穿透
+    # ChatGPT 高级语音模式 / 实时音视频流 (Voice & Realtime API)
+    - 'DOMAIN-SUFFIX,livekit.cloud,Ai+' # 语音模式核心
+    - 'DOMAIN-SUFFIX,turn.livekit.cloud,Ai+' # 语音模式穿透
 
-      # Gemini Notebook
-      - 'DOMAIN-SUFFIX,notebook.google.com,Ai+'
+    # Gemini Notebook
+    - 'DOMAIN-SUFFIX,notebook.google.com,Ai+'
 
-      - 'MATCH,DIRECT'
+    - 'MATCH,DIRECT'
     ```
 
     - Then, right click on the "Clash_HK.yaml" profile and modify the "Update Interval" to a very very very large number. Otherwise, the rules will be overwritten during automatic updates.
-        <figure><img src="../.gitbook/assets/research/clash/update_interval.png" alt=""><figcaption></figcaption></figure>
+          <figure><img src="../.gitbook/assets/research/clash/update_interval.png" alt=""><figcaption></figcaption></figure>
 
 - As such, in Hong Kong, you can keep the proxy on the moment you start your PC. Only network traffics related to those domains listed in the rules will be routed through the proxy, while all other traffics will use your own network directly.
 - You can freely adjust the node you like in the "🎬ai" section.
 - In Hong Kong, you can choose the "Clash_HK.yaml" profile, while in China, you can switch to the "Clash_CN.yaml" profile to enjoy unrestricted internet access.
 - Finally, change the system settings to make Clash Verge start automatically when your computer boots up:
-    <figure><img src="../.gitbook/assets/research/clash/system_setting.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/system_setting.png" alt=""><figcaption></figcaption></figure>
 
 - For windows users, please exempt all UWP processes from the proxy. Click on "Settings", scroll down, and find "Open UWP tool". Select all and click "Exempt All" and "Save Changes".
-    <figure><img src="../.gitbook/assets/research/clash/uwp.png" alt=""><figcaption></figcaption></figure>
-    <figure><img src="../.gitbook/assets/research/clash/uwp_exempt.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/uwp.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/uwp_exempt.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 
@@ -148,7 +150,7 @@ It is strongly recommend to update the Clash Verge to the latest version to ensu
     - Click "Config".
     - Click the "+" button at the top right corner.
     - Input the configuration URL I provided and click "Download".
-        <figure><img src="../.gitbook/assets/research/clash/shadow.png" alt="" width="300pt"><figcaption></figcaption></figure>
+          <figure><img src="../.gitbook/assets/research/clash/shadow.png" alt="" width="300pt"><figcaption></figcaption></figure>
 
 - Click "Home", select a node, and toggle the switch (on the top) to start the proxy.
 
