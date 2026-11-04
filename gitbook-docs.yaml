@@ -1,0 +1,18 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: PolyU-Survival
+  structure:
+    - type: section
+      key: section-1
+      title: Documentation
+      path: documentation
+      icon: book-blank
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Documentation
+          path: documentation
+          default: true
+          content:
+            directory: ./documentation
