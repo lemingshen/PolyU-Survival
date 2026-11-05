@@ -30,14 +30,14 @@ layout:
 - Open Clash Verge after installation.
 - Click on the "Profiles" tab in the sidebar.
 - Paste the URL I provided into the "Import from URL" field and click "Import".
-  <figure><img src="../.gitbook/assets/research/clash/import_config.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/import_config.png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Select Preferred Nodes
 
 - Click on the "Proxies" tab to view the list of available proxy nodes.
 - Browse through the list and select your preferred nodes by clicking on them based on different rules.
-  <figure><img src="../.gitbook/assets/research/clash/select_node.png" alt=""><figcaption></figcaption></figure>
-  <figure><img src="../.gitbook/assets/research/clash/select_node2.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/select_node.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/select_node2.png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Start System Proxy
 
@@ -47,7 +47,7 @@ layout:
     - Global Mode: Routes all traffic through the selected proxy.
     - Direct Mode: Direct use your own network.
 - Toggle the "System Proxy" switch to enable system-wide proxying.
-  <figure><img src="../.gitbook/assets/research/clash/start_proxy.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/start_proxy.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Additional Settings (Strongly Recommended)
 
@@ -56,14 +56,14 @@ layout:
     - Click on the "Profiles" tab.
     - Right click on the previously imported profile and select "Edit Info"
     - Input "Clash_CN.yaml" in the "Name" field to rename the previously imported profile.
-      <figure><img src="../.gitbook/assets/research/clash/rename_config.png" alt=""><figcaption></figcaption></figure>
+          <figure><img src="../.gitbook/assets/research/clash/rename_config.png" alt=""><figcaption></figcaption></figure>
 
     - Then, re-import the same configuration URL again and rename it to "Clash_HK.yaml".
     - Next, right click on "Clash_HK.yaml" and select "Edit File".
     - Scroll down and find the `proxy-groups` section.
-      <figure><img src="../.gitbook/assets/research/clash/proxy_group.png" alt=""><figcaption></figcaption></figure>
+          <figure><img src="../.gitbook/assets/research/clash/proxy_group.png" alt=""><figcaption></figcaption></figure>
 
-    - Replace all the following part with the following content (last update: Sept 15, 2026):
+    - Replace all the following part with the following content (last update: Nov 05, 2026):
 
     ```
     proxy-groups:
@@ -75,59 +75,58 @@ layout:
         OpenAI: { type: http, behavior: classical, path: ./providers/rule/OpenAI.yaml, url: https://wechat.frank-extend-jacques-oss.best/LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/OpenAI.yaml, interval: 21600 }
         Claude: { type: http, behavior: classical, path: ./providers/rule/Claude.yaml, url: https://wechat.frank-extend-jacques-oss.best/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Claude.yaml, interval: 21600 }
 
-
     rules:
-    # 基础与局域网直连
-    - 'RULE-SET,Local-LAN,DIRECT'
-    - 'GEOIP,LAN,DIRECT'
+      # 基础与局域网直连
+      - 'RULE-SET,Local-LAN,DIRECT'
+      - 'GEOIP,LAN,DIRECT'
 
-    # 防止 WebRTC IP 泄露
-    - 'DOMAIN-KEYWORD,stun,REJECT'
-    - 'DOMAIN-KEYWORD,webrtc,REJECT'
-    - 'DST-PORT,3478,REJECT'
+      # 防止 WebRTC IP 泄露
+      - 'DOMAIN-KEYWORD,stun,REJECT'
+      - 'DOMAIN-KEYWORD,webrtc,REJECT'
+      - 'DST-PORT,3478,REJECT'
 
-    # Claude
-    - 'RULE-SET,Claude,Ai+'
-    - 'DOMAIN-KEYWORD,anthropic,Ai+'
-    - 'DOMAIN-KEYWORD,claude-code,Ai+'
-    - 'DOMAIN-KEYWORD,cowork,Ai+'
-    - 'DOMAIN-KEYWORD,claude,Ai+'
-    - 'DOMAIN-SUFFIX,anthropic.com,Ai+'
-    - 'DOMAIN-SUFFIX,claude.ai,Ai+'
-    - 'DOMAIN-KEYWORD,cdn.anthropic.com,Ai+'
-    - 'DOMAIN-SUFFIX,claudeusercontent.com,Ai+'
+      # Claude
+      - 'RULE-SET,Claude,Ai+'
+      - 'DOMAIN-KEYWORD,anthropic,Ai+'
+      - 'DOMAIN-KEYWORD,claude-code,Ai+'
+      - 'DOMAIN-KEYWORD,cowork,Ai+'
+      - 'DOMAIN-KEYWORD,claude,Ai+'
+      - 'DOMAIN-SUFFIX,anthropic.com,Ai+'
+      - 'DOMAIN-SUFFIX,claude.ai,Ai+'
+      - 'DOMAIN-KEYWORD,cdn.anthropic.com,Ai+'
+      - 'DOMAIN-SUFFIX,claudeusercontent.com,Ai+'
 
-    # OpenAI
-    - 'RULE-SET,OpenAI,Ai+'
-    - 'DOMAIN-KEYWORD,openai,Ai+'
-    - 'DOMAIN-SUFFIX,openai.com,Ai+'
-    - 'DOMAIN-SUFFIX,chatgpt.com,Ai+'
-    - 'DOMAIN-SUFFIX,oaistatic.com,Ai+'
-    - 'DOMAIN-SUFFIX,oaiusercontent.com,Ai+'
-    - 'DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Ai+' # 开发者平台与文档
+      # OpenAI
+      - 'RULE-SET,OpenAI,Ai+'
+      - 'DOMAIN-KEYWORD,openai,Ai+'
+      - 'DOMAIN-SUFFIX,openai.com,Ai+'
+      - 'DOMAIN-SUFFIX,chatgpt.com,Ai+'
+      - 'DOMAIN-SUFFIX,oaistatic.com,Ai+'
+      - 'DOMAIN-SUFFIX,oaiusercontent.com,Ai+'
+      - 'DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Ai+' # 开发者平台与文档
 
-    # ChatGPT 高级语音模式 / 实时音视频流 (Voice & Realtime API)
-    - 'DOMAIN-SUFFIX,livekit.cloud,Ai+' # 语音模式核心
-    - 'DOMAIN-SUFFIX,turn.livekit.cloud,Ai+' # 语音模式穿透
+      # ChatGPT 高级语音模式 / 实时音视频流 (Voice & Realtime API)
+      - 'DOMAIN-SUFFIX,livekit.cloud,Ai+' # 语音模式核心
+      - 'DOMAIN-SUFFIX,turn.livekit.cloud,Ai+' # 语音模式穿透
 
-    # Gemini Notebook
-    - 'DOMAIN-SUFFIX,notebook.google.com,Ai+'
+      # Gemini Notebook
+      - 'DOMAIN-SUFFIX,notebook.google.com,Ai+'
 
-    - 'MATCH,DIRECT'
+      - 'MATCH,DIRECT'
     ```
 
     - Then, right click on the "Clash_HK.yaml" profile and modify the "Update Interval" to a very very very large number. Otherwise, the rules will be overwritten during automatic updates.
-      <figure><img src="../.gitbook/assets/research/clash/update_interval.png" alt=""><figcaption></figcaption></figure>
+          <figure><img src="../.gitbook/assets/research/clash/update_interval.png" alt=""><figcaption></figcaption></figure>
 
 - As such, in Hong Kong, you can keep the proxy on the moment you start your PC. Only network traffics related to those domains listed in the rules will be routed through the proxy, while all other traffics will use your own network directly.
 - You can freely adjust the node you like in the "🎬ai" section.
 - In Hong Kong, you can choose the "Clash_HK.yaml" profile, while in China, you can switch to the "Clash_CN.yaml" profile to enjoy unrestricted internet access.
 - Finally, change the system settings to make Clash Verge start automatically when your computer boots up:
-  <figure><img src="../.gitbook/assets/research/clash/system_setting.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/system_setting.png" alt=""><figcaption></figcaption></figure>
 
 - For windows users, please exempt all UWP processes from the proxy. Click on "Settings", scroll down, and find "Open UWP tool". Select all and click "Exempt All" and "Save Changes".
-  <figure><img src="../.gitbook/assets/research/clash/uwp.png" alt=""><figcaption></figcaption></figure>
-  <figure><img src="../.gitbook/assets/research/clash/uwp_exempt.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/uwp.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/research/clash/uwp_exempt.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 
@@ -150,7 +149,7 @@ It is strongly recommend to update the Clash Verge to the latest version to ensu
     - Click "Config".
     - Click the "+" button at the top right corner.
     - Input the configuration URL I provided and click "Download".
-      <figure><img src="../.gitbook/assets/research/clash/shadow.png" alt="" width="300pt"><figcaption></figcaption></figure>
+          <figure><img src="../.gitbook/assets/research/clash/shadow.png" alt="" width="300pt"><figcaption></figcaption></figure>
 
 - Click "Home", select a node, and toggle the switch (on the top) to start the proxy.
 
